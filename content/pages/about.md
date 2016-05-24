@@ -130,13 +130,13 @@ This project is supported by [National Science Foundation](http://nsf.gov) grant
 
 ### Presentations by the DIANA team
 
-  * 19 May 2016 - [The DIANA-HEP Project](https://indico.cern.ch/event/506353/contributions/2150030/attachments/1276098/1893268/pivarski_dianahep.pdf), Jim Pivarski, [US-CMS Collaboration Meeting](https://indico.cern.ch/event/506353/timetable/)
-
   * 23 May 2016 - [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/535391/)
 
-  * 25 Apr 2016 - [Histogramming in map-reduce](https://indico.cern.ch/event/516438/contributions/1196302/attachments/1263150/1868229/pivarski_histogramming.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/516438/)
+  * 19 May 2016 - [The DIANA-HEP Project](https://indico.cern.ch/event/506353/contributions/2150030/attachments/1276098/1893268/pivarski_dianahep.pdf), Jim Pivarski, [US-CMS Collaboration Meeting](https://indico.cern.ch/event/506353/timetable/)
 
   * 2 May 2016 - [Introduction to DIANA/HEP](https://indico.cern.ch/event/496146/contributions/1174783/attachments/1266789/1875534/20160502-DIANA-Intro-for-HSF.pdf), Peter Elmer, [HEP Software Foundation Workshop](https://indico.cern.ch/event/496146/timetable/)
+
+  * 25 Apr 2016 - [Histogramming in map-reduce](https://indico.cern.ch/event/516438/contributions/1196302/attachments/1263150/1868229/pivarski_histogramming.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/516438/)
 
   * 18 Apr 2016 - [Introduction to DIANA/HEP](https://indico.cern.ch/event/522334/contributions/2139399/attachments/1259588/1860828/20160418-DIANA-Intro-for-SFT.pdf), Peter Elmer, [ROOT Team Meeting](https://indico.cern.ch/event/522334/)
 
@@ -153,6 +153,8 @@ This project is supported by [National Science Foundation](http://nsf.gov) grant
   * 22 Feb 2016 - [Notes from Heavy Flavour Data Mining Workshop](https://indico.cern.ch/event/502168/contributions/2021057/attachments/1232422/1807359/diana-2016-02-22.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/502168/)
 
   * 22 Feb 2016 - [Approximating density ratios with machine learning for likelihood-free inference](https://indico.cern.ch/event/502168/contributions/2021056/attachments/1232212/1806914/slides.pdf), Gilles Louppe, [DIANA Meeting](https://indico.cern.ch/event/502168/)
+
+  * 08 Feb 2016 - [Accessing ROOT from the JVM (Java/Scala)]https://indico.cern.ch/event/493990/contributions/1172232/attachments/1224255/1792451/2016-02-08-pivarski-scaroot.pdf(), Jim Pivarski, [CMS Software and Computing R&D Working Meeting](https://indico.cern.ch/event/493990/)
 
   * 22 Feb 2016 - [](), John Doe, []()
 
