@@ -132,7 +132,7 @@ This project is supported by [National Science Foundation](http://nsf.gov) grant
 
 
   | Date        | Presenter     | Presentation | Meeting |
-  | :---------- | :------------ | :----------- | :------ | 
+  | ----------- | ------------- | ------------ | ------- | 
   | 23 May 2016 | John Doe      | []()         | []() |
   | 19 May 2016 | Jim Pivarski | [The DIANA-HEP Project](https://indico.cern.ch/event/506353/contributions/2150030/attachments/1276098/1893268/pivarski_dianahep.pdf) | [US-CMS Collaboration Meeting](https://indico.cern.ch/event/506353/timetable/) |
   | 23 May 2016 | Jim Pivarski | [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf) | [ROOT Team Meeting](https://indico.cern.ch/event/535391/) |
