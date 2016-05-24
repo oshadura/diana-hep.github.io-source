@@ -22,7 +22,7 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
-  * [DIANA-HEP Organizationi in the INDICO agenda system](https://indico.cern.ch/category/7192/)
+  * [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/)
 
   * 23 May 2016 - [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/535391/)
 
