@@ -52,7 +52,7 @@ Summary: DIANA Activities
 
   * 22 Feb 2016 - [Approximating density ratios with machine learning for likelihood-free inference](https://indico.cern.ch/event/502168/contributions/2021056/attachments/1232212/1806914/slides.pdf), Gilles Louppe, [DIANA Meeting](https://indico.cern.ch/event/502168/)
 
-  * 08 Feb 2016 - [Accessing ROOT from the JVM (Java/Scala)](https://indico.cern.ch/event/493990/contributions/1172232/attachments/1224255/1792451/2016-02-08-pivarski-scaroot.pdf), Jim Pivarski, [CMS Software and Computing R&D Working Meeting](https://indico.cern.ch/event/493990/)
+  * 8 Feb 2016 - [Accessing ROOT from the JVM (Java/Scala)](https://indico.cern.ch/event/493990/contributions/1172232/attachments/1224255/1792451/2016-02-08-pivarski-scaroot.pdf), Jim Pivarski, [CMS Software and Computing R&D Working Meeting](https://indico.cern.ch/event/493990/)
 
 <!-- 
   example template
