@@ -122,13 +122,21 @@ community.
 
 ### Collaborators
 
-  * [The ROOT team (CERN, FNAL)](https://root.cern.ch/team)
+  * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
 
 ### Acknowledgement
 
 This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1450310, ACI-1450319, ACI-1450323, and ACI-1450377. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
 
 ### Presentations by the DIANA team
+
+
+  | Date        | Presenter     | Presentation | Meeting |
+  | :---------- | :------------ | :----------- | :------ | 
+  | 23 May 2016 | John Doe      | []()         | []() |
+  | 19 May 2016 | Jim Pivarski | [The DIANA-HEP Project](https://indico.cern.ch/event/506353/contributions/2150030/attachments/1276098/1893268/pivarski_dianahep.pdf) | [US-CMS Collaboration Meeting](https://indico.cern.ch/event/506353/timetable/) |
+  | 23 May 2016 | Jim Pivarski | [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf) | [ROOT Team Meeting](https://indico.cern.ch/event/535391/) |
+
 
   * 23 May 2016 - [](), John Doe, []()
 
@@ -150,10 +158,10 @@ This project is supported by [National Science Foundation](http://nsf.gov) grant
 
   * 7 Mar 2016 - [ROOT-Spark integration](https://indico.cern.ch/event/506676/contributions/2026887/subcontributions/182833/attachments/1239682/1822213/pivarski-spark-progress.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/506676/)
 
-  * 22 February 2016 - [Accessing ROOT from the JVM (update)](https://indico.cern.ch/event/502168/contributions/2021054/attachments/1231817/1806168/2016-02-22-ROOT-JVM-afterhadoop.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/502168/)
+  * 22 Feb 2016 - [Accessing ROOT from the JVM (update)](https://indico.cern.ch/event/502168/contributions/2021054/attachments/1231817/1806168/2016-02-22-ROOT-JVM-afterhadoop.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/502168/)
 
-  * 22 February 2016 - [Notes from Heavy Flavour Data Mining Workshop](https://indico.cern.ch/event/502168/contributions/2021057/attachments/1232422/1807359/diana-2016-02-22.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/502168/)
+  * 22 Feb 2016 - [Notes from Heavy Flavour Data Mining Workshop](https://indico.cern.ch/event/502168/contributions/2021057/attachments/1232422/1807359/diana-2016-02-22.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/502168/)
 
-  * 22 February 2016 - [Approximating density ratios with machine learning for likelihood-free inference](https://indico.cern.ch/event/502168/contributions/2021056/attachments/1232212/1806914/slides.pdf), Gilles Louppe, [DIANA Meeting](https://indico.cern.ch/event/502168/)
+  * 22 Feb 2016 - [Approximating density ratios with machine learning for likelihood-free inference](https://indico.cern.ch/event/502168/contributions/2021056/attachments/1232212/1806914/slides.pdf), Gilles Louppe, [DIANA Meeting](https://indico.cern.ch/event/502168/)
 
 
