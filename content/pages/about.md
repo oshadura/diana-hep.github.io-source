@@ -130,16 +130,6 @@ This project is supported by [National Science Foundation](http://nsf.gov) grant
 
 ### Presentations by the DIANA team
 
-
-  | Date        | Presenter     | Presentation | Meeting |
-  | ----------- | ------------- | ------------ | ------- | 
-  | 23 May 2016 | John Doe      | []()         | []() |
-  | 19 May 2016 | Jim Pivarski | [The DIANA-HEP Project](https://indico.cern.ch/event/506353/contributions/2150030/attachments/1276098/1893268/pivarski_dianahep.pdf) | [US-CMS Collaboration Meeting](https://indico.cern.ch/event/506353/timetable/) |
-  | 23 May 2016 | Jim Pivarski | [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf) | [ROOT Team Meeting](https://indico.cern.ch/event/535391/) |
-
-
-  * 23 May 2016 - [](), John Doe, []()
-
   * 19 May 2016 - [The DIANA-HEP Project](https://indico.cern.ch/event/506353/contributions/2150030/attachments/1276098/1893268/pivarski_dianahep.pdf), Jim Pivarski, [US-CMS Collaboration Meeting](https://indico.cern.ch/event/506353/timetable/)
 
   * 23 May 2016 - [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/535391/)
@@ -163,5 +153,7 @@ This project is supported by [National Science Foundation](http://nsf.gov) grant
   * 22 Feb 2016 - [Notes from Heavy Flavour Data Mining Workshop](https://indico.cern.ch/event/502168/contributions/2021057/attachments/1232422/1807359/diana-2016-02-22.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/502168/)
 
   * 22 Feb 2016 - [Approximating density ratios with machine learning for likelihood-free inference](https://indico.cern.ch/event/502168/contributions/2021056/attachments/1232212/1806914/slides.pdf), Gilles Louppe, [DIANA Meeting](https://indico.cern.ch/event/502168/)
+
+  * 22 Feb 2016 - [](), John Doe, []()
 
 
