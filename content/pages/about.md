@@ -95,7 +95,7 @@ community.
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
-  * David Lange - Princeton University, Department of Physics
+  * [David Lange](http://cern.ch/David.Lange) - Princeton University, Department of Physics
 
   * [Gilles Louppe](https://glouppe.github.io/) - New York University, Department of Physics & Center for Data Science
 
