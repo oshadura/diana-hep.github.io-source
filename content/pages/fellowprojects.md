@@ -4,8 +4,9 @@ slug: fellowprojects.html
 Authors: Peter Elmer
 Summary: DIANA Fellow Projects
 
-### DIANA Fellow Projects
+### Proposing a Project 
 
+### Example Projects of Interest
 
 
 
