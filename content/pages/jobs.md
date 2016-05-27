@@ -1,8 +1,20 @@
-Title: Job Opportunities
+Title: Opportunities
 date: 2015-05-10 10:53
 slug: jobs.html
 Authors: Kyle Cranmer
-Summary: Job Opportunities
+Summary: Opportunities
+
+### DIANA Fellows
+
+The DIANA Fellows program provides support for 4 graduate students each year to spend 3 months intensively developing software tools in conjunction with collaborating institutions. The graduate student should have a base stipend from their home instition. The DIANA Fellows program will provides travel and subsistence funds to support direct collaboration with others developing software tools for general use at a second institution.
+
+### DIANA Undergraduate Fellow
+
+A DIANA Undergraduate Fellow is also available. The student will work 10-12 weeks during the summer, either developing or using data-intensive tools. The DIANA project will provide a stipend for the summer period.
+
+### Princeton
+
+Princeton University is looking for candidates to work on projects funded as an [Intel Parallel Computing Center (IPCC)](https://software.intel.com/en-us/ipcc). This IPCC will work in collaboration with the DIANA project and the ROOT team to modernize aspects of the I/O and Math libraries in ROOT. (Job announcement forthcoming, please contact Peter.Elmer@cern.ch in the meantime.)
 
 ### Nebraska
 
@@ -14,8 +26,5 @@ Interested applicants should apply to http://employment.unl.edu/ under requisiti
 
 While application reviews begins Feb 8, new applications can be accepted until the position is filled.
 
-### Princeton
-
-Princeton University is looking for candidates to work on projects funded as an [Intel Parallel Computing Center (IPCC)](https://software.intel.com/en-us/ipcc). This IPCC will work in collaboration with the DIANA project and the ROOT team to modernize aspects of the I/O and Math libraries in ROOT. (Job announcement forthcoming, please contact Peter.Elmer@cern.ch in the meantime.)
 
 
