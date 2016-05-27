@@ -4,10 +4,6 @@ slug: jobs.html
 Authors: Kyle Cranmer
 Summary: Job Opportunities
 
-### Cincinnati
-
-Position already filled.
-
 ### Nebraska
 
 The University of Nebraska-Lincoln is currently searching for a new Software Engineer hire to work on the DIANA project.  Within the DIANA project, Nebraska is focusing on improving the performance and interoperability of ROOT I/O.
@@ -18,12 +14,8 @@ Interested applicants should apply to http://employment.unl.edu/ under requisiti
 
 While application reviews begins Feb 8, new applications can be accepted until the position is filled.
 
-### NYU
-
-Position already filled.
-
 ### Princeton
 
-Positions already filled.
+Princeton University is looking for candidates to work on projects funded as an [Intel Parallel Computing Center (IPCC)](https://software.intel.com/en-us/ipcc). This IPCC will work in collaboration with the DIANA project and the ROOT team to modernize aspects of the I/O and Math libraries in ROOT. (Job announcement forthcoming, please contact Peter.Elmer@cern.ch in the meantime.)
 
 
