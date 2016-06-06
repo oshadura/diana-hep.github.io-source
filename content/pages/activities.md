@@ -38,9 +38,17 @@ Summary: DIANA Activities
 
   * 18 Apr 2016 - [Introduction to DIANA/HEP](https://indico.cern.ch/event/522334/contributions/2139399/attachments/1259588/1860828/20160418-DIANA-Intro-for-SFT.pdf), Peter Elmer, [ROOT Team Meeting](https://indico.cern.ch/event/522334/)
 
+  * 13 Apr 2016 - [Robust and Calibrated Classifiers with Scikit-Learn](https://github.com/glouppe/tutorials-scikit-learn), Gilles Louppe, Zurich ML meetup, Switzerland
+
+  * 13 Apr 2016 - [Approximating likelihood ratios with Calibrated Classifiers](https://github.com/glouppe/talk-approximating-likelihood-ratios-with-classifiers), Gilles Louppe, ETH, Zurich, Switzerland
+
   * 11 Apr 2016 - [Bayesian Optimization](https://indico.cern.ch/event/516435/contributions/1196298/attachments/1255582/1853367/slides.pdf), Gilles Louppe, [DIANA Meeting](https://indico.cern.ch/event/516435/)
 
   * 11 Apr 2016 - [Introduction to DIANA/HEP](https://indico.cern.ch/event/516435/contributions/1196296/attachments/1256141/1854368/20160411-DIANA-Intro.pdf), Peter Elmer, [DIANA Meeting](https://indico.cern.ch/event/516435/)
+
+  * 30 Mar 2016 - [Bayesian Optimization](https://indico.cern.ch/event/483999/contributions/1160694/attachments/1249299/1842475/slides.pdf), Gilles Louppe, [ATLAS ML workshop](https://indico.cern.ch/event/483999/)
+
+  * 29 Mar 2016 - [Approximating likelihood ratios with Calibrated Classifiers](https://indico.cern.ch/event/483999/contributions/1160711/attachments/1249300/1841606/slides.pdf), Gilles Louppe, [ATLAS ML workshop](https://indico.cern.ch/event/483999/)
 
   * 7 Mar 2016 - [Computing practices observed in industry](https://indico.cern.ch/event/506676/contributions/2026887/subcontributions/182833/attachments/1239682/1822212/pivarski-industry-practices.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/506676/)
 
@@ -53,6 +61,8 @@ Summary: DIANA Activities
   * 22 Feb 2016 - [Notes from Heavy Flavour Data Mining Workshop](https://indico.cern.ch/event/502168/contributions/2021057/attachments/1232422/1807359/diana-2016-02-22.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/502168/)
 
   * 22 Feb 2016 - [Approximating density ratios with machine learning for likelihood-free inference](https://indico.cern.ch/event/502168/contributions/2021056/attachments/1232212/1806914/slides.pdf), Gilles Louppe, [DIANA Meeting](https://indico.cern.ch/event/502168/)
+
+  * 18 Feb 2016 - [An introduction to machine learning with Scikit-Learn](https://github.com/glouppe/tutorial-scikit-learn), Gilles Louppe, [Heavy Flavour Data Mining workshop](https://indico.cern.ch/event/433556/)
 
   * 8 Feb 2016 - [Accessing ROOT from the JVM (Java/Scala)](https://indico.cern.ch/event/493990/contributions/1172232/attachments/1224255/1792451/2016-02-08-pivarski-scaroot.pdf), Jim Pivarski, [CMS Software and Computing R&D Working Meeting](https://indico.cern.ch/event/493990/)
 
