@@ -26,6 +26,8 @@ Summary: DIANA Activities
 
   * [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/)
 
+  * 13 Jun 2016 - [Python/ROOT Interoperability](https://indico.cern.ch/event/516443/contributions/2196426/attachments/1290082/1920877/diana_160613.pdf), David Lange, [DIANA Meeting](https://indico.cern.ch/event/516443/) 
+
   * 25 May 2016 - [DIANA IO Update](https://indico.fnal.gov/getFile.py/access?contribId=6&resId=0&materialId=slides&confId=11614), Brian Bockelman, [ROOT I/O Workshop](https://indico.fnal.gov/conferenceDisplay.py?confId=11614)
 
   * 23 May 2016 - [Chains of functional primitives](https://indico.cern.ch/event/535391/contributions/2175710/attachments/1277373/1895792/main.pdf), Jim Pivarski, [ROOT Team Meeting](https://indico.cern.ch/event/535391/)
