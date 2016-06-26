@@ -25,6 +25,8 @@ Summary: DIANA Team
 
   * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics
 
+  * [David Abdurachmanov](https://github.com/davidlt) - University of Nebraska-Lincoln, Department of Computer Science and Engineering
+
   * Zhe Zhang - University of Nebraska-Lincoln, Department of Computer Science and Engineering (Ph.D. Student)
 
   * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
