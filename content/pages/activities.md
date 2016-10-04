@@ -26,6 +26,8 @@ Summary: DIANA Activities
 
   * [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/)
 
+  * 16 Sep 2016 - [Expressing Complex Data Aggregations With Histogrammar](http://www.thestrangeloop.com/2016/expressing-complex-data-aggregations-with-histogrammar.html), Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html)
+
   * 18 Jul 2016 - [Potential Issues with Julia](https://indico.cern.ch/event/545738/contributions/2245127/attachments/1309854/1959416/potential-issues.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/545738/)
 
   * 20 Jun 2016 - [High-level analysis scripts with low-level performance](https://indico.cern.ch/event/544650/contributions/2210352/attachments/1293484/1927574/2016-06-20-made-with-overleaf.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/544650/)
