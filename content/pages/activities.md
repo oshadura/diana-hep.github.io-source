@@ -28,7 +28,7 @@ Summary: DIANA Activities
 
   * 21 Sep 2016 - [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](https://anl.app.box.com/v/IXPUG2016-presentation-43) - D.Abdurachmanov, [Intel Xeon Phi User Group Meeting 2016](https://www.ixpug.org/events/ixpug-2016)
 
-  * 16 Sep 2016 - [Expressing Complex Data Aggregations With Histogrammar](http://www.thestrangeloop.com/2016/expressing-complex-data-aggregations-with-histogrammar.html), Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html)
+  * 16 Sep 2016 - Expressing Complex Data Aggregations With Histogrammar, [talk abstract](http://www.thestrangeloop.com/2016/expressing-complex-data-aggregations-with-histogrammar.html), [talk video](https://www.youtube.com/watch?v=mB4Chl0ly-g), Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html) 
 
   * 18 Jul 2016 - [Potential Issues with Julia](https://indico.cern.ch/event/545738/contributions/2245127/attachments/1309854/1959416/potential-issues.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/545738/)
 
