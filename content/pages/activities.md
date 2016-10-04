@@ -11,7 +11,7 @@ Summary: DIANA Activities
 
    * [carl docs](http://diana-hep.org/carl)  [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47798.svg)](http://dx.doi.org/10.5281/zenodo.47798)
 
-   * [histogrammar docs](http://histogrammar.org/docs/)
+   * histogrammar - [web page](http://histogrammar.org), [docs](http://histogrammar.org/docs/)
 
 
 ### Papers
