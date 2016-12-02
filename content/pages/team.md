@@ -31,6 +31,13 @@ Summary: DIANA Team
 
   * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
 
+### Associated team members
+
+  * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University, Intel Parallel Computing Center
+
+### Collaborators
+
+  * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
 
 ### Advisory Board
 
@@ -43,10 +50,6 @@ Summary: DIANA Team
   * [Fernando Pérez](http://fperez.org) - Staff Scientist, Data Science and Technology Division, Lawrence Berkeley National Laboratory; Associate Researcher, Berkeley Institute for Data Science, UC Berkeley.
 
   * [Attanagoda Santha](https://www.linkedin.com/pub/attanagoda-santha/60/aba/399) - Architect, Fannie Mae
-
-### Collaborators
-
-  * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
 
 ### Acknowledgement
 
