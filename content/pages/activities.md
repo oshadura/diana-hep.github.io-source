@@ -26,7 +26,11 @@ Summary: DIANA Activities
 
   * [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/)
 
-  * 21 Sep 2016 - [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](https://anl.app.box.com/v/IXPUG2016-presentation-43) - D.Abdurachmanov, [Intel Xeon Phi User Group Meeting 2016](https://www.ixpug.org/events/ixpug-2016)
+  * 14 Nov 2016 - [TTreeProcessor: A toy framework for parallel ntuple processing](https://indico.cern.ch/event/586607/contributions/2370356/attachments/1371340/2079997/TTreeProcessor-Introduction.pdf) - Brian Bockelman, [DIANA Meeting](https://indico.cern.ch/event/586607/)
+
+  * 7 Nov 2016 - [Overview of file formats](https://indico.cern.ch/event/572766/contributions/2317743/attachments/1365984/2069246/pivarski-file-formats.pdf) - Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/572766/)
+
+  * 21 Sep 2016 - [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](https://anl.app.box.com/v/IXPUG2016-presentation-43) - David Abdurachmanov, [Intel Xeon Phi User Group Meeting 2016](https://www.ixpug.org/events/ixpug-2016)
 
   * 16 Sep 2016 - Expressing Complex Data Aggregations With Histogrammar, \[ [talk abstract](http://www.thestrangeloop.com/2016/expressing-complex-data-aggregations-with-histogrammar.html), [talk video](https://www.youtube.com/watch?v=mB4Chl0ly-g) \], Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html) 
 
