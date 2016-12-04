@@ -18,13 +18,14 @@ Summary: DIANA Activities
 
    * Carl in the Journal of Open Source Software [![status](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37/status.svg)](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37)
 
-
-
-### Presentations by the DIANA team
+### DIANA Topical Meetings
 
   <!-- this is the atom feed URL https://indico.cern.ch/category/7192/events.atom --> 
 
-  * [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/)
+  The DIANA team organizes periodic meetings on various topics of interest, with both invited, externals speakers and DIANA team contributions. These and other DIANA meetings can be found in the [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/).
+
+### Presentations by the DIANA team
+
 
   * 14 Nov 2016 - [TTreeProcessor: A toy framework for parallel ntuple processing](https://indico.cern.ch/event/586607/contributions/2370356/attachments/1371340/2079997/TTreeProcessor-Introduction.pdf) - Brian Bockelman, [DIANA Meeting](https://indico.cern.ch/event/586607/)
 
