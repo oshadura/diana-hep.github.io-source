@@ -39,21 +39,19 @@ Summary: DIANA Team
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
   
-  * [Alexey Svyatkovskiy](https://www.princeton.edu/researchcomputing/people/display_person.xml?netid=alexeys) - Princeton University
-
-[comment]: # with Jim Pivarski on Histogrammar
+  * [Alexey Svyatkovskiy](https://www.princeton.edu/researchcomputing/people/display_person.xml?netid=alexeys) - Princeton University   <!--- with Jim Pivarski on Histogrammar -->
   
-  * [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and Matteo Cremonesi - Fermilab   # with Jim Pivarski on Spark
+  * [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and Matteo Cremonesi - Fermilab   <!--- with Jim Pivarski on Spark -->
   
-  * [Roger Rusack](https://www.physics.umn.edu/people/rusack.html) and [Peter Hansen](https://www.physics.umn.edu/people/phansen.html) - University of Minnesota   # with Jim Pivarski on TeraScope-GPU
+  * [Roger Rusack](https://www.physics.umn.edu/people/rusack.html) and [Peter Hansen](https://www.physics.umn.edu/people/phansen.html) - University of Minnesota   <!--- with Jim Pivarski on TeraScope-GPU -->
   
-  * [Jin Chang](https://www.linkedin.com/in/jin-chang-2727b94) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab   # with Jim Pivarski on TeraScope-aaS
+  * [Jin Chang](https://www.linkedin.com/in/jin-chang-2727b94) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab   <!--- with Jim Pivarski on TeraScope-aaS -->
   
-  * [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa   # with Jim Pivarski on spark-root
+  * [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa   <!--- with Jim Pivarski on spark-root -->
   
-  * [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne   # with Jim Pivarski, Eduardo Rodrigues, and David Lange on Scikit-HEP (rootpy and root_numpy parts)
+  * [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne   <!--- with Jim Pivarski, Eduardo Rodrigues, and David Lange on Scikit-HEP (rootpy and root_numpy parts) -->
   
-  * [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - CERN   # with Jim Pivarski, Eduardo Rodrigues, and David Lange on Scikit-HEP (Ostap parts)
+  * [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - CERN   <!--- with Jim Pivarski, Eduardo Rodrigues, and David Lange on Scikit-HEP (Ostap parts) -->
 
 ### Advisory Board
 
