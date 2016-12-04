@@ -26,11 +26,11 @@ MENUITEMS = (
 # Blogroll
 LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
 		  ('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
-		  ('RooStats','https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome'),
-		  ('GooFit','https://github.com/GooFit/GooFit'),
+		  ('S2I2-HEP','https://github.com/GooFit/GooFit'),
+		  ('Jetscape','http://jetscape.wayne.edu/'),
 		  ('rootpy','http://www.rootpy.org'),
-		  ('AstroPy','http://www.astropy.org'),
 		  ('scikit-learn','http://scikit-learn.org/stable/'),
+		  ('RooStats','https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome'),
 		  )
 
 # Social widget
