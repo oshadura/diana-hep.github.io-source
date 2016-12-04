@@ -39,7 +39,9 @@ Summary: DIANA Team
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
   
-  * [Alexey Svyatkovskiy](https://www.princeton.edu/researchcomputing/people/display_person.xml?netid=alexeys) - Princeton University   # with Jim Pivarski on Histogrammar
+  * [Alexey Svyatkovskiy](https://www.princeton.edu/researchcomputing/people/display_person.xml?netid=alexeys) - Princeton University
+
+[comment]: # with Jim Pivarski on Histogrammar
   
   * [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and Matteo Cremonesi - Fermilab   # with Jim Pivarski on Spark
   
