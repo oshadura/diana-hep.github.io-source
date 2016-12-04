@@ -18,8 +18,8 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('Team','/pages/team.html'),
-			('Opportunities','/pages/jobs.html'),
       ('Activities','/pages/activities.html'),
+			('DIANA Fellows','/pages/fellows.html'),
             ('Blog','/category/blog.html')
 			)
 
