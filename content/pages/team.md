@@ -33,7 +33,7 @@ Summary: DIANA Team
 
 ### Associated team members
 
-  * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University, Intel Parallel Computing Center
+  * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & ROOT Intel Parallel Computing Center
 
 ### Collaborators
 
