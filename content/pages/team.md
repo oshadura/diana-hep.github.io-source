@@ -38,6 +38,20 @@ Summary: DIANA Team
 ### Collaborators
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
+  
+  * [Alexey Svyatkovskiy](https://www.princeton.edu/researchcomputing/people/display_person.xml?netid=alexeys) - Princeton University
+  
+  * [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and Matteo Cremonesi - Fermilab
+  
+  * [Roger Rusack](https://www.physics.umn.edu/people/rusack.html) and [Peter Hansen](https://www.physics.umn.edu/people/phansen.html) - University of Minnesota
+  
+  * [Jin Chang](https://www.linkedin.com/in/jin-chang-2727b94) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab
+  
+  * [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa
+  
+  * [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne
+  
+  * [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - CERN
 
 ### Advisory Board
 
