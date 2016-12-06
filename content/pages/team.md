@@ -43,7 +43,7 @@ Summary: DIANA Team
   
   * [Histogrammar](http://histogrammar.org/): [Alexey Svyatkovskiy](https://github.com/ASvyatkovskiy) - Princeton University (with Jim Pivarski)
   
-  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - University of Birmingham (with Jim Pivarski, Eduardo Rodrigues, and David Lange) -->
+  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - University of Birmingham (with Jim Pivarski, Eduardo Rodrigues, and David Lange)
 
   * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa (with Jim Pivarski)
     
