@@ -26,14 +26,25 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 14 Dec 2016 - Data Plumbing (whiteboard talk), Jim Pivarski, [LPC Coffee Hour](http://lpc.fnal.gov/coffeelpc/)
 
-  * 14 Nov 2016 - [TTreeProcessor: A toy framework for parallel ntuple processing](https://indico.cern.ch/event/586607/contributions/2370356/attachments/1371340/2079997/TTreeProcessor-Introduction.pdf) - Brian Bockelman, [DIANA Meeting](https://indico.cern.ch/event/586607/)
+  *  5 Dec 2016 - [Focus groups: physicist attitudes toward software](https://indico.cern.ch/event/588777/contributions/2374118/attachments/1382321/2102036/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/588777/)
 
-  * 7 Nov 2016 - [Overview of file formats](https://indico.cern.ch/event/572766/contributions/2317743/attachments/1365984/2069246/pivarski-file-formats.pdf) - Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/572766/)
+  * 14 Nov 2016 - [TTreeProcessor: A toy framework for parallel ntuple processing](https://indico.cern.ch/event/586607/contributions/2370356/attachments/1371340/2079997/TTreeProcessor-Introduction.pdf), Brian Bockelman, [DIANA Meeting](https://indico.cern.ch/event/586607/)
 
-  * 21 Sep 2016 - [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](https://anl.app.box.com/v/IXPUG2016-presentation-43) - David Abdurachmanov, [Intel Xeon Phi User Group Meeting 2016](https://www.ixpug.org/events/ixpug-2016)
+  *  7 Nov 2016 - [Overview of file formats](https://indico.cern.ch/event/572766/contributions/2317743/attachments/1365984/2069246/pivarski-file-formats.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/572766/)
 
-  * 16 Sep 2016 - Expressing Complex Data Aggregations With Histogrammar, \[ [talk abstract](http://www.thestrangeloop.com/2016/expressing-complex-data-aggregations-with-histogrammar.html), [talk video](https://www.youtube.com/watch?v=mB4Chl0ly-g) \], Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html) 
+  *  7 Nov 2016 - [Reading ROOT data in Java and Spark](https://indico.cern.ch/event/586840/contributions/2364850/attachments/1367057/2071874/pivarski-root-java.pdf), Jim Pivarski, [ROOT Team meeting](https://indico.cern.ch/event/586840/); [follow up](https://www.overleaf.com/read/tvfppptpwnhv) with CERN IT
+
+  * 30 Oct 2016 - [Plotting data on GPUs with Histogrammar](https://indico.cern.ch/event/572676/contributions/2317608/attachments/1346012/2029394/histogrammar-gpu.pdf), Jim Pivarski, [Parallel Kalman Meeting](https://indico.cern.ch/event/572676/)
+
+  * 20 Oct 2016 - [Histogrammar: Making Histograms Functional](https://www.overleaf.com/read/sgkhxqjsbbnp), Jim Pivarski [Chicago Hadoop User's Group (CHUG)](http://www.meetup.com/Chicago-area-Hadoop-User-Group-CHUG/)
+
+  * 21 Sep 2016 - [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](https://anl.app.box.com/v/IXPUG2016-presentation-43), David Abdurachmanov, [Intel Xeon Phi User Group Meeting 2016](https://www.ixpug.org/events/ixpug-2016)
+
+  * 16 Sep 2016 - [Expressing Complex Data Aggregations With Histogrammar](https://www.overleaf.com/read/tttnxvymdryv), \[ [talk abstract](http://www.thestrangeloop.com/2016/expressing-complex-data-aggregations-with-histogrammar.html), [talk video](https://www.youtube.com/watch?v=mB4Chl0ly-g) \], Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html) 
+
+  * 18 Aug 2016 - [Computing for Data Analysis](https://indico.cern.ch/event/562807/contributions/2274077/attachments/1324646/1987967/computing_for_data_analysis.pdf), Jim Pivarski, [LPC Physics Forum](https://indico.cern.ch/event/562807/)
 
   * 18 Jul 2016 - [Potential Issues with Julia](https://indico.cern.ch/event/545738/contributions/2245127/attachments/1309854/1959416/potential-issues.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/545738/)
 
