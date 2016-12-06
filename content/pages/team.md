@@ -39,20 +39,18 @@ Summary: DIANA Team
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
   
-  * [Alexey Svyatkovskiy](https://www.princeton.edu/researchcomputing/people/display_person.xml?netid=alexeys) - Princeton University   <!--- with Jim Pivarski on Histogrammar -->
+  * CMS Big Data Project: [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab (with Jim Pivarski)
   
-  * [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and Matteo Cremonesi - Fermilab   <!--- with Jim Pivarski on Spark -->
+  * [Histogrammar](http://histogrammar.org/): [Alexey Svyatkovskiy](https://github.com/ASvyatkovskiy) - Princeton University (with Jim Pivarski)
   
-  * [Roger Rusack](https://www.physics.umn.edu/people/rusack.html) and [Peter Hansen](https://www.physics.umn.edu/people/phansen.html) - University of Minnesota   <!--- with Jim Pivarski on TeraScope-GPU -->
-  
-  * [Jin Chang](https://www.linkedin.com/in/jin-chang-2727b94) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab   <!--- with Jim Pivarski on TeraScope-aaS -->
-  
-  * [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa   <!--- with Jim Pivarski on spark-root -->
-  
-  * [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne   <!--- with Jim Pivarski, Eduardo Rodrigues, and David Lange on Scikit-HEP (rootpy and root_numpy parts) -->
-  
-  * [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - CERN   <!--- with Jim Pivarski, Eduardo Rodrigues, and David Lange on Scikit-HEP (Ostap parts) -->
+  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - University of Birmingham (with Jim Pivarski, Eduardo Rodrigues, and David Lange) -->
 
+  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa (with Jim Pivarski)
+    
+  * Terascope-aaS: [Jin Chang](https://www.linkedin.com/in/jin-chang-2727b94) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab (with Jim Pivarski)
+  
+  * Terascope-GPU: [Roger Rusack](https://www.physics.umn.edu/people/rusack.html) and [Peter Hansen](https://www.physics.umn.edu/people/phansen.html) - University of Minnesota (with Jim Pivarski)
+  
 ### Advisory Board
 
   * [Amber Boehnlein](https://www.jlab.org/div_dept/directorate/directors/ABoehnlein.html) - CIO, Thomas Jefferson National Accelerator Facility
