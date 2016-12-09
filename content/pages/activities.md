@@ -38,6 +38,8 @@ Summary: DIANA Activities
 
   * 30 Oct 2016 - [Plotting data on GPUs with Histogrammar](https://indico.cern.ch/event/572676/contributions/2317608/attachments/1346012/2029394/histogrammar-gpu.pdf), Jim Pivarski, [Parallel Kalman Meeting](https://indico.cern.ch/event/572676/)
 
+  * 10 Oct 2016 - [Exploring Compression Techniques for ROOT IO](https://indico.cern.ch/event/505613/contributions/2228353/attachments/1346875/2041358/Oral-502.pdf), Zhe Zhang [CHEP 2016](http://chep2016.org/)
+
   * 20 Oct 2016 - [Histogrammar: Making Histograms Functional](https://www.overleaf.com/read/sgkhxqjsbbnp), Jim Pivarski [Chicago Hadoop User's Group (CHUG)](http://www.meetup.com/Chicago-area-Hadoop-User-Group-CHUG/)
 
   * 21 Sep 2016 - [Reconstructing Particle Trajectories in High Energy Physics with Xeon and Xeon Phi](https://anl.app.box.com/v/IXPUG2016-presentation-43), David Abdurachmanov, [Intel Xeon Phi User Group Meeting 2016](https://www.ixpug.org/events/ixpug-2016)
