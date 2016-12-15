@@ -34,7 +34,7 @@ Summary: DIANA Activities
 
   *  5 Dec 2016 - [Focus groups: physicist attitudes toward software](https://indico.cern.ch/event/588777/contributions/2374118/attachments/1382321/2102036/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/588777/)
 
-  * 17 Nov Jul 2016 - [Learning to Pivot with Adversarial Networks](https://github.com/glouppe/talk-learning-to-pivot), Gilles Louppe, ATLAS ML Forum
+  * 17 Nov 2016 - [Learning to Pivot with Adversarial Networks](https://github.com/glouppe/talk-learning-to-pivot), Gilles Louppe, ATLAS ML Forum
 
   * 14 Nov 2016 - [TTreeProcessor: A toy framework for parallel ntuple processing](https://indico.cern.ch/event/586607/contributions/2370356/attachments/1371340/2079997/TTreeProcessor-Introduction.pdf), Brian Bockelman, [DIANA Meeting](https://indico.cern.ch/event/586607/)
 
