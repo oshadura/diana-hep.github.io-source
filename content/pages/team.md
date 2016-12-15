@@ -39,6 +39,10 @@ Summary: DIANA Team
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
 
+  * [Carl](http://diana-hep.org/carl/): [Juan Pavez](https://github.com/jgpavez), Cyril Becot - New York University, [Lukas Heinrich](http://www.lukasheinrich.com/) - New York University
+
+  * [Scikit-Optimize](https://scikit-optimize.github.io/): [Manoj Kumar](https://github.com/MechCoder) - New York University, [Tim Head](https://github.com/betatim), [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne
+
 ### Advisory Board
 
   * [Amber Boehnlein](https://www.jlab.org/div_dept/directorate/directors/ABoehnlein.html) - CIO, Thomas Jefferson National Accelerator Facility
@@ -54,4 +58,3 @@ Summary: DIANA Team
 ### Acknowledgement
 
 This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1450310, ACI-1450319, ACI-1450323, and ACI-1450377. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
-
