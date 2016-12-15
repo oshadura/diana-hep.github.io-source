@@ -29,8 +29,10 @@ Summary: DIANA Activities
 ### Presentations by the DIANA team
 
   * 14 Dec 2016 - Data Plumbing (whiteboard talk), Jim Pivarski, [LPC Coffee Hour](http://lpc.fnal.gov/coffeelpc/)
+  
+  * 12 Dec 2016 - [Femtocode: development of a query language for HEP](https://indico.cern.ch/event/594180/contributions/2401463/attachments/1386540/2110205/femtocode-pdflatex.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/594180/)
 
-  * 5 Dec 2016 - [Focus groups: physicist attitudes toward software](https://indico.cern.ch/event/588777/contributions/2374118/attachments/1382321/2102036/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/588777/)
+  *  5 Dec 2016 - [Focus groups: physicist attitudes toward software](https://indico.cern.ch/event/588777/contributions/2374118/attachments/1382321/2102036/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/588777/)
 
   * 17 Nov Jul 2016 - [Learning to Pivot with Adversarial Networks](https://github.com/glouppe/talk-learning-to-pivot), Gilles Louppe, ATLAS ML Forum
 
