@@ -110,6 +110,8 @@ Summary: DIANA Activities
 
   * 18 Feb 2016 - [An introduction to machine learning with Scikit-Learn](https://github.com/glouppe/tutorial-scikit-learn), Gilles Louppe, [Heavy Flavour Data Mining workshop](https://indico.cern.ch/event/433556/)
 
+  * 16-17 Feb 2016 - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/diana-si2-pi-workshop-2016.pdf), Peter Elmer, [2016 SI2 PI Workshop](http://cococubed.asu.edu/si2_pi_workshop_2016/)
+
   * 8 Feb 2016 - [Accessing ROOT from the JVM (Java/Scala)](https://indico.cern.ch/event/493990/contributions/1172232/attachments/1224255/1792451/2016-02-08-pivarski-scaroot.pdf), Jim Pivarski, [CMS Software and Computing R&D Working Meeting](https://indico.cern.ch/event/493990/)
 
 <!--
