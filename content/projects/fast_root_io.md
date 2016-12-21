@@ -1,10 +1,9 @@
 Title: Fast ROOT IO
-date: 2016-12-20 14:05
-slug: root-io.html
-Author: Brian Bockelman
+Date: 2016-12-20 14:05
+Slug: root-io.html
+Authors: Brian Bockelman
 Summary: Fast ROOT IO Project
 
-## Fast ROOT IO project
 
 This project aims to improve the use of ROOT IO for HEP analysis users; primarily, we aim for mechanisms
 that will speed up ROOT IO for these use cases.
