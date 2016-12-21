@@ -89,7 +89,7 @@ PATH = 'content'
 ARTICLE_PATHS = ['blog']
 
 STATIC_PATHS = ['images','css', 'downloads', 'downloads/notebooks',
-                'downloads/files','downloads/code', 'favicon.png']
+                'downloads/files','downloads/code', 'projects', 'favicon.png']
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
