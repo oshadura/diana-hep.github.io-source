@@ -31,6 +31,9 @@ Summary: DIANA Team
 
   * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
 
+  * Lukas Heinrich - New York University, Department of Physics (Ph.D. Student)
+
+
 ### Associated team members
 
   * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & ROOT Intel Parallel Computing Center

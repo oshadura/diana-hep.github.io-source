@@ -15,10 +15,19 @@ Summary: DIANA Activities
 
    * Histogrammar - [web page](http://histogrammar.org), [docs](http://histogrammar.org/docs/)
 
+   * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
+
 
 ### Papers
 
+   * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046)
+
    * Carl in the Journal of Open Source Software [![status](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37/status.svg)](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37)
+
+   * [Approximating Likelihood Ratios with Calibrated Discriminative Classifiers](https://arxiv.org/abs/1506.02169)
+
+   * [Visualization of Publication Impact](http://arxiv.org/abs/arXiv:1605.06242)
+
 
 ### DIANA Topical Meetings
 
@@ -28,7 +37,11 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 16 Dec 2016 - Updates & planning: [Nebraska](https://indico.cern.ch/event/595119/contributions/2405327/attachments/1390334/2117688/Diana_team_meeting_-_Dec_16_-_v2.pdf), [Cincinnati](https://indico.cern.ch/event/595119/contributions/2405329/attachments/1390336/2117690/diana-2016-12-16_EduardoRodrigues.pdf), [NYU](https://indico.cern.ch/event/595119/contributions/2405330/attachments/1390303/2117599/go), [Princeton](https://indico.cern.ch/event/595119/contributions/2405331/attachments/1390253/2117491/lange-pivarski-byoverleaf.pdf)
+
   * 14 Dec 2016 - Data Plumbing (whiteboard talk), Jim Pivarski, [LPC Coffee Hour](http://lpc.fnal.gov/coffeelpc/)
+
+  * 13 Dec 2016 -  [Machine Learning & Likelihood Free Inference in Particle Physics](https://figshare.com/articles/NIPS_2016_Keynote_Machine_Learning_Likelihood_Free_Inference_in_Particle_Physics/4291565/1), Kyle Cranmer [NIPS 2016 Keynote](https://nips.cc/Conferences/2016/Schedule?showEvent=6195)
   
   * 12 Dec 2016 - [Femtocode: development of a query language for HEP](https://indico.cern.ch/event/594180/contributions/2401463/attachments/1386540/2110205/femtocode-pdflatex.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/594180/)
 
@@ -43,6 +56,10 @@ Summary: DIANA Activities
   * 7 Nov 2016 - [Reading ROOT data in Java and Spark](https://indico.cern.ch/event/586840/contributions/2364850/attachments/1367057/2071874/pivarski-root-java.pdf), Jim Pivarski, [ROOT Team meeting](https://indico.cern.ch/event/586840/); [follow up](https://www.overleaf.com/read/tvfppptpwnhv) with CERN IT
 
   * 30 Oct 2016 - [Plotting data on GPUs with Histogrammar](https://indico.cern.ch/event/572676/contributions/2317608/attachments/1346012/2029394/histogrammar-gpu.pdf), Jim Pivarski, [Parallel Kalman Meeting](https://indico.cern.ch/event/572676/)
+
+  * 13 Oct 2016 - [Analysis Preservation and Reinterpretation](https://indico.cern.ch/event/505613/contributions/2227701/), Lukas Heinrich [CHEP 2016](http://chep2016.org/)
+
+  * 13 Oct 2016 - [HEPData - a repository for high energy physics data exploration](https://indico.cern.ch/event/505613/contributions/2227685/), Lukas Heinrich & Eamonn Maguire for HEPData team [CHEP 2016](http://chep2016.org/)
 
   * 10 Oct 2016 - [Exploring Compression Techniques for ROOT IO](https://indico.cern.ch/event/505613/contributions/2228353/attachments/1346875/2041358/Oral-502.pdf), Zhe Zhang [CHEP 2016](http://chep2016.org/)
 
