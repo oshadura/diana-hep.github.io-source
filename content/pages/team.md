@@ -31,6 +31,9 @@ Summary: DIANA Team
 
   * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
 
+  * Lukas Heinrich - New York University, Department of Physics (Ph.D. Student)
+
+
 ### Associated team members
 
   * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & ROOT Intel Parallel Computing Center
@@ -39,18 +42,22 @@ Summary: DIANA Team
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
   
-  * CMS Big Data Project: [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab (with Jim Pivarski)
+  * CMS Big Data Project: [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab
   
-  * [Histogrammar](http://histogrammar.org/): [Alexey Svyatkovskiy](https://github.com/ASvyatkovskiy) - Princeton University (with Jim Pivarski)
+  * [Histogrammar](http://histogrammar.org/): [Alexey Svyatkovskiy](https://github.com/ASvyatkovskiy) - Princeton University
   
-  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - University of Birmingham (with Jim Pivarski, Eduardo Rodrigues, and David Lange)
+  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - University of Birmingham
 
-  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa (with Jim Pivarski)
+  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa
     
-  * Terascope-aaS: [Jin Chang](https://www.linkedin.com/in/jin-chang-2727b94) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab (with Jim Pivarski)
+  * Scope-aaS: [Jin Chang](https://www.linkedin.com/in/jin-chang-2727b94) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab
   
-  * Terascope-GPU: [Roger Rusack](https://www.physics.umn.edu/people/rusack.html) and [Peter Hansen](https://www.physics.umn.edu/people/phansen.html) - University of Minnesota (with Jim Pivarski)
+  * Scope-GPU: [Roger Rusack](https://www.physics.umn.edu/people/rusack.html) and [Peter Hansen](https://www.physics.umn.edu/people/phansen.html) - University of Minnesota
   
+  * [Carl](http://diana-hep.org/carl/): [Juan Pavez](https://github.com/jgpavez), Cyril Becot - New York University, [Lukas Heinrich](http://www.lukasheinrich.com/) - New York University
+
+  * [Scikit-Optimize](https://scikit-optimize.github.io/): [Manoj Kumar](https://github.com/MechCoder) - New York University, [Tim Head](https://github.com/betatim), [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne
+
 ### Advisory Board
 
   * [Amber Boehnlein](https://www.jlab.org/div_dept/directorate/directors/ABoehnlein.html) - CIO, Thomas Jefferson National Accelerator Facility
@@ -66,4 +73,3 @@ Summary: DIANA Team
 ### Acknowledgement
 
 This project is supported by [National Science Foundation](http://nsf.gov) grants ACI-1450310, ACI-1450319, ACI-1450323, and ACI-1450377. Any opinions, findings, conclusions or recommendations expressed in this material are those of the developers and do not necessarily reflect the views of the National Science Foundation.
-
