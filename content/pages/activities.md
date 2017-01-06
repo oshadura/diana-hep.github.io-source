@@ -11,9 +11,11 @@ Summary: DIANA Activities
 
    * Carl: a toolbox for likelihood-free inference ([documentation](http://diana-hep.org/carl), [code](https://github.com/diana-hep/carl)) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47798.svg)](http://dx.doi.org/10.5281/zenodo.47798)
 
-   * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
-
    * Histogrammar - [web page](http://histogrammar.org), [docs](http://histogrammar.org/docs/)
+
+   * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep/scikit-hep))
+  
+   * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
 
    * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
 
