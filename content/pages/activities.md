@@ -20,7 +20,7 @@ Summary: DIANA Activities
    * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
 
 
-### Papers
+### Papers / Documents
 
    * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046)
 
@@ -30,6 +30,7 @@ Summary: DIANA Activities
 
    * [Visualization of Publication Impact](http://arxiv.org/abs/arXiv:1605.06242)
 
+   * NSF Proposal - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/ssi2014-nsf-proposal.pdf)
 
 ### DIANA Topical Meetings
 
