@@ -40,6 +40,13 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+
+  * 8 Feb 2017 - [Survey of columnar file formats and the techniques they use](https://indico.fnal.gov/getFile.py/access?contribId=9&resId=0&materialId=slides&confId=13665), Jim Pivarski, [ROOT I/O Workshop](https://indico.fnal.gov/conferenceDisplay.py?confId=13665)
+
+  * 8 Feb 2017 - [Executing code on columnar data](https://indico.fnal.gov/getFile.py/access?contribId=7&resId=0&materialId=slides&confId=13665), Jim Pivarski, [ROOT I/O Workshop](https://indico.fnal.gov/conferenceDisplay.py?confId=13665)
+
+  * 26 Jan 2017 - [DIANA Advisory Board Meeting](https://indico.cern.ch/event/604147/): , [Cincinnati](https://indico.cern.ch/event/604147/contributions/2436115/attachments/1399581/2135884/DIANA-ABMeeting-Cincinnati.pdf), [NYU](https://indico.cern.ch/event/604147/contributions/2436122/attachments/1397968/2141477/DIANA_NYU_AB.pdf), [Princeton](https://indico.cern.ch/event/604147/contributions/2436118/attachments/1398304/2141658/pdf-version.pdf), [Nebraska](https://indico.cern.ch/event/604147/contributions/2436113/attachments/1399166/2141690/DIANA-AB-Nebraska-v3.pdf)
+
   * 16 Dec 2016 - Updates & planning: [Nebraska](https://indico.cern.ch/event/595119/contributions/2405327/attachments/1390334/2117688/Diana_team_meeting_-_Dec_16_-_v2.pdf), [Cincinnati](https://indico.cern.ch/event/595119/contributions/2405329/attachments/1390336/2117690/diana-2016-12-16_EduardoRodrigues.pdf), [NYU](https://indico.cern.ch/event/595119/contributions/2405330/attachments/1390303/2117599/go), [Princeton](https://indico.cern.ch/event/595119/contributions/2405331/attachments/1390253/2117491/lange-pivarski-byoverleaf.pdf)
 
   * 14 Dec 2016 - Data Plumbing (whiteboard talk), Jim Pivarski, [LPC Coffee Hour](http://lpc.fnal.gov/coffeelpc/)
