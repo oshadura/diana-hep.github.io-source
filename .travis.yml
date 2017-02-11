@@ -10,7 +10,7 @@ install:
 - git clone --recursive https://github.com/getpelican/pelican-plugins
 - wget http://www.tipue.com/search/tipuesearch.zip
 - unzip tipuesearch.zip
-- cp -r Tipue\ Search\ 5.0/tipuesearch pelican-bootstrap3/static/
+- cp -r Tipue\ Search\ 6.0/tipuesearch pelican-bootstrap3/static/
 notifications:
   email:
     on_success: always
