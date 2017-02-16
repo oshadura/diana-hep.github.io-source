@@ -41,6 +41,8 @@ Summary: DIANA Activities
 ### Presentations by the DIANA team
 
 
+  * 21-22 Feb 2017 - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/diana-si2-pi-workshop-2017.pdf), poster at [2017 NSF SI2 PI Workshop](https://sites.google.com/view/2017-si2-pi-meeting/)
+
   * 8 Feb 2017 - [Survey of columnar file formats and the techniques they use](https://indico.fnal.gov/getFile.py/access?contribId=9&resId=0&materialId=slides&confId=13665), Jim Pivarski, [ROOT I/O Workshop](https://indico.fnal.gov/conferenceDisplay.py?confId=13665)
 
   * 8 Feb 2017 - [Executing code on columnar data](https://indico.fnal.gov/getFile.py/access?contribId=7&resId=0&materialId=slides&confId=13665), Jim Pivarski, [ROOT I/O Workshop](https://indico.fnal.gov/conferenceDisplay.py?confId=13665)
@@ -139,7 +141,7 @@ Summary: DIANA Activities
 
   * 18 Feb 2016 - [An introduction to machine learning with Scikit-Learn](https://github.com/glouppe/tutorial-scikit-learn), Gilles Louppe, [Heavy Flavour Data Mining workshop](https://indico.cern.ch/event/433556/)
 
-  * 16-17 Feb 2016 - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/diana-si2-pi-workshop-2016.pdf), Peter Elmer, [2016 SI2 PI Workshop](http://cococubed.asu.edu/si2_pi_workshop_2016/)
+  * 16-17 Feb 2016 - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/diana-si2-pi-workshop-2016.pdf), Peter Elmer, [2016 NSF SI2 PI Workshop](http://cococubed.asu.edu/si2_pi_workshop_2016/)
 
   * 8 Feb 2016 - [Accessing ROOT from the JVM (Java/Scala)](https://indico.cern.ch/event/493990/contributions/1172232/attachments/1224255/1792451/2016-02-08-pivarski-scaroot.pdf), Jim Pivarski, [CMS Software and Computing R&D Working Meeting](https://indico.cern.ch/event/493990/)
 
