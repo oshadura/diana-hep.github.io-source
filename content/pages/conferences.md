@@ -17,10 +17,8 @@ Summary: Conferences
      * Abstract deadline: 8 May 2017
    * 12-17 Nov 2017 - [SC17](http://sc17.supercomputing.org)
      * Denver, CO
-     * Technical paper deadline: 
-       * 20 Mar 2017 (abstract), 3 Apr, 2017 (full submission)
-     * Researc poster deadline:
-       * 31 Jul 2017
+     * Technical paper deadline: 20 Mar 2017 (abstract), 3 Apr, 2017 (full submission)
+     * Research poster deadline: 31 Jul 2017
 
 ### Conferences 2016
 
