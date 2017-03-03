@@ -7,6 +7,11 @@ Summary: Conferences
 
 ### Conferences 2017
 
+   * 10-16 Jul 2017 - [SciPy 2017](https://www.eiseverywhere.com//ehome/220975)
+     * Austin, TX
+     * Talk/poster proposal submission deadline: 27 Mar 2017
+   * ??-?? Aug 2017 (TBC) - [EuroSciPy 2017](https://www.euroscipy.org)
+     * (Web Page not yet up)
    * 21-25 Aug 2017 - [ACAT 2017](https://indico.cern.ch/event/567550/)
      * Seattle, WA
      * Abstract deadline: 29 Apr 2017
@@ -19,6 +24,8 @@ Summary: Conferences
      * Denver, CO
      * Technical paper deadline: 20 Mar 2017 (abstract), 3 Apr, 2017 (full submission)
      * Research poster deadline: 31 Jul 2017
+   * 4-9 Dec 2017 - [NIPS 2017](https://nips.cc)
+     * Long Beach, CA
 
 ### Conferences 2016
 
