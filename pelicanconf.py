@@ -31,6 +31,7 @@ LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
 		  ('rootpy','http://www.rootpy.org'),
 		  ('scikit-learn','http://scikit-learn.org/stable/'),
 		  ('RooStats','https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome'),
+		  ('Conferences','http://diana-hep.org/pages/conferences.html'),
 		  )
 
 # Social widget
