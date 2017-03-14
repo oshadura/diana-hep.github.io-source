@@ -22,6 +22,8 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
+   * [Big Data in HEP: A comprehensive use case study] - Submitted to proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
+
    * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046)
 
    * Carl in the Journal of Open Source Software [![status](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37/status.svg)](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37)
