@@ -4,6 +4,11 @@ slug: conferences.html
 Authors: Peter Elmer
 Summary: Conferences
 
+### Conferences 2018
+
+   * 23-27 Apr 2018 - [CHEP 2018](http://chep2018.org/)
+     * Sofia, Bulgaria
+     * Call for Presentations not yet available
 
 ### Conferences 2017
 
