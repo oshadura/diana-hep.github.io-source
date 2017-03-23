@@ -14,7 +14,7 @@ Summary: DIANA Activities
    * Histogrammar - [web page](http://histogrammar.org), [docs](http://histogrammar.org/docs/)
 
    * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep/scikit-hep))
-  
+
    * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
 
    * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
