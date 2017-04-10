@@ -25,10 +25,10 @@ Fellows, please send your ideas to [mike.sokoloff@uc.edu](mike.sokoloff@uc.edu).
 
 ### Current and past DIANA fellows
 
-## Matthew Feickert
+#### Matthew Feickert
 
-## Andrew Carnes
+#### Andrew Carnes
 
-## Meghan Frate
+#### Meghan Frate
 
 
