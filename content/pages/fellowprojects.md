@@ -23,4 +23,12 @@ Fellows, please send your ideas to [mike.sokoloff@uc.edu](mike.sokoloff@uc.edu).
 ### Example Projects of Interest
 
 
+### Current and past DIANA fellows
+
+## Matthew Feickert
+
+## Andrew Carnes
+
+## Meghan Frate
+
 
