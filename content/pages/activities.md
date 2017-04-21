@@ -11,7 +11,9 @@ Summary: DIANA Activities
 
    * Carl: a toolbox for likelihood-free inference ([documentation](http://diana-hep.org/carl), [code](https://github.com/diana-hep/carl)) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47798.svg)](http://dx.doi.org/10.5281/zenodo.47798)
 
-   * Histogrammar - [web page](http://histogrammar.org), [docs](http://histogrammar.org/docs/)
+   * Histogrammar: a multilingual specification for histogram aggregation with implementations in Python and Scala - [docs](http://histogrammar.org), [GitHub](https://github.com/histogrammar)
+   
+   * Femtocode: a query language, execution engine, and query server for complex data (in development) - [GitHub](https://github.com/diana-hep/femtocode)
 
    * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep/scikit-hep))
 
