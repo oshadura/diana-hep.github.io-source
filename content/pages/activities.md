@@ -43,6 +43,10 @@ Summary: DIANA Activities
 ### Presentations by the DIANA team
 
 
+  * 17 Apr 2017 - [Femtocode: querying HEP data - Status update and illustration of working examples](https://indico.cern.ch/event/630641/contributions/2548292/attachments/1445163/2226140/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/630641/)
+
+  * 27 Feb 2017 - [The Scikit-HEP Project](https://indico.cern.ch/event/596272/contributions/2433675/attachments/1419121/2173879/EduardoRodrigues_diana-2017-02-27.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/596272/)
+
   * 21-22 Feb 2017 - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/diana-si2-pi-workshop-2017.pdf), poster at [2017 NSF SI2 PI Workshop](https://sites.google.com/view/2017-si2-pi-meeting/)
 
   * 8 Feb 2017 - [Survey of columnar file formats and the techniques they use](https://indico.fnal.gov/getFile.py/access?contribId=9&resId=0&materialId=slides&confId=13665), Jim Pivarski, [ROOT I/O Workshop](https://indico.fnal.gov/conferenceDisplay.py?confId=13665)
