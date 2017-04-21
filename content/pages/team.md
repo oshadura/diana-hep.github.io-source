@@ -39,13 +39,13 @@ Summary: DIANA Team
 
 ### Associated team members
 
-  * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & ROOT Intel Parallel Computing Center
+  * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & [ROOT Intel Parallel Computing Center](https://ipcc-root.github.io)
 
 ### Collaborators
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
   
-  * CMS Big Data Project: [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab
+  * [CMS Big Data Project](https://cms-big-data.github.io): [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab
   
   * [Histogrammar](http://histogrammar.org/): [Alexey Svyatkovskiy](https://github.com/ASvyatkovskiy) - Princeton University
   
