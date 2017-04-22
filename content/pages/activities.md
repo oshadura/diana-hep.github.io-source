@@ -48,7 +48,7 @@ Summary: DIANA Activities
 
   * 17 Apr 2017 - [Femtocode: querying HEP data - Status update and illustration of working examples](https://indico.cern.ch/event/630641/contributions/2548292/attachments/1445163/2226140/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/630641/), [ [Video Recording](https://www.youtube.com/watch?v=X0UAhM4qkFs) ]
 
-  * 6 Apr 2017 - The Scikit-HEP Project, Eduardo Rodrigues, LHCb Analysis &amp; Software Week, CERN
+  * 6 Apr 2017 - [The Scikit-HEP Project](http://diana-hep.org/downloads/scikit-hep-2017-04-06.pdf), Eduardo Rodrigues, LHCb Analysis &amp; Software Week, CERN
 
   * 27 Feb 2017 - [The Scikit-HEP Project](https://indico.cern.ch/event/596272/contributions/2433675/attachments/1419121/2173879/EduardoRodrigues_diana-2017-02-27.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/596272/), [ [Video Recording](https://www.youtube.com/watch?v=sn_zHEJFvuA) ]
 
