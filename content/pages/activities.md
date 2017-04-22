@@ -30,7 +30,7 @@ Summary: DIANA Activities
 
    * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046) - G.Louppe, M.Kagan, K.Cranmer [arXiv:1611.01046](https://arxiv.org/abs/1611.01046)
 
-   * Carl in the Journal of Open Source Software [![status](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37/status.svg)](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37)
+   * Carl in the Journal of Open Source Software - G.Louppe, K.Cranmer, J.Pavez; [![status](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37/status.svg)](http://joss.theoj.org/papers/26a9ffd9e7b98b1911d89d2ceb268f37)
 
    * [Approximating Likelihood Ratios with Calibrated Discriminative Classifiers](https://arxiv.org/abs/1506.02169) - K.Cranmer, J.Pavez, G.Louppe [arXiv:1506.02169](https://arxiv.org/abs/1506.02169)
 
