@@ -24,9 +24,9 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
-   * [Exploring compression techniques for ROOT IO](https://github.com/zzxuanyuan/zzxuanyuan.github.io/blob/master/exploring-compression-techniques.pdf)
+   * [Exploring compression techniques for ROOT IO](https://github.com/zzxuanyuan/zzxuanyuan.github.io/blob/master/exploring-compression-techniques.pdf) - Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) 
 
-   * [Big Data in HEP: A comprehensive use case study](https://arxiv.org/abs/1703.04171) - Submitted to proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
+   * [Big Data in HEP: A comprehensive use case study](https://arxiv.org/abs/1703.04171) - Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
 
    * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046)
 
@@ -34,7 +34,7 @@ Summary: DIANA Activities
 
    * [Approximating Likelihood Ratios with Calibrated Discriminative Classifiers](https://arxiv.org/abs/1506.02169)
 
-   * [Visualization of Publication Impact](http://arxiv.org/abs/arXiv:1605.06242)
+   * [Visualization of Publication Impact](http://arxiv.org/abs/arXiv:1605.06242) - Proceedings of Eurographics Conference on Visualization (EuroVis) 2016 (Groningen) [arXiv:1605.06242](https://arxiv.org/abs/1605.06242)
 
    * NSF Proposal - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/ssi2014-nsf-proposal.pdf)
 
