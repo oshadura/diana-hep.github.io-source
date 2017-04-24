@@ -21,14 +21,20 @@ Summary: DIANA Activities
 
    * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
 
+   * REANA: a system that permits to instantiate research data analyses on the cloud. [docs]( https://reana.readthedocs.io/en/latest/?badge=latest) [code](https://github.com/reanahub)
+
 
 ### Papers / Documents
+
+   * [HEPData: a repository for high energy physics data](http://arxiv.org/abs/arXiv:1704.05473) - Eamonn Maguire, Lukas Heinrich, Graeme Watt. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)  [arXiv:1704.05473)]((http://arxiv.org/abs/arXiv:1704.05473))
 
    * [QCD-Aware Recursive Neural Networks for Jet Physics](https://arxiv.org/abs/1702.00748) - G.Louppe, K.Cho, C.Becot, K.Cranmer [arXiv:1702.00748](https://arxiv.org/abs/1702.00748)
 
    * [Exploring compression techniques for ROOT IO](https://github.com/zzxuanyuan/zzxuanyuan.github.io/blob/master/exploring-compression-techniques.pdf) - Z.Zhang, B.Bockelman; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)
 
    * [Big Data in HEP: A comprehensive use case study](https://arxiv.org/abs/1703.04171) - O.Gutsche, M.Cremonesi, P.Elmer, B.Jayatilaka, J.Kowalkowski, J.Pivarski, S.Sehrish, C.Mantilla Surez, A.Svyatkovskiy, N.Tran; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
+
+   * [Analysis Preservation and Reinterpretation](https://indico.cern.ch/event/505613/contributions/2227701/), Lukas Heinrich Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) 
 
    * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046) - G.Louppe, M.Kagan, K.Cranmer [arXiv:1611.01046](https://arxiv.org/abs/1611.01046)
 
