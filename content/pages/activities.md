@@ -12,7 +12,7 @@ Summary: DIANA Activities
    * Carl: a toolbox for likelihood-free inference ([documentation](http://diana-hep.org/carl), [code](https://github.com/diana-hep/carl)) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47798.svg)](http://dx.doi.org/10.5281/zenodo.47798)
 
    * Histogrammar: a multilingual specification for histogram aggregation with implementations in Python and Scala - [docs](http://histogrammar.org), [GitHub](https://github.com/histogrammar)
-   
+
    * Femtocode: a query language, execution engine, and query server for complex data (in development) - [GitHub](https://github.com/diana-hep/femtocode)
 
    * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep/scikit-hep))
@@ -24,7 +24,9 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
-   * [Exploring compression techniques for ROOT IO](https://github.com/zzxuanyuan/zzxuanyuan.github.io/blob/master/exploring-compression-techniques.pdf) - Z.Zhang, B.Bockelman; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) 
+   * [QCD-Aware Recursive Neural Networks for Jet Physics](https://arxiv.org/abs/1702.00748) - G.Louppe, K.Cho, C.Becot, K.Cranmer [arXiv:1702.00748](https://arxiv.org/abs/1702.00748)
+
+   * [Exploring compression techniques for ROOT IO](https://github.com/zzxuanyuan/zzxuanyuan.github.io/blob/master/exploring-compression-techniques.pdf) - Z.Zhang, B.Bockelman; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)
 
    * [Big Data in HEP: A comprehensive use case study](https://arxiv.org/abs/1703.04171) - O.Gutsche, M.Cremonesi, P.Elmer, B.Jayatilaka, J.Kowalkowski, J.Pivarski, S.Sehrish, C.Mantilla Surez, A.Svyatkovskiy, N.Tran; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
 
@@ -48,7 +50,13 @@ Summary: DIANA Activities
 
   * 17 Apr 2017 - [Femtocode: querying HEP data - Status update and illustration of working examples](https://indico.cern.ch/event/630641/contributions/2548292/attachments/1445163/2226140/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/630641/), [ [Video Recording](https://www.youtube.com/watch?v=X0UAhM4qkFs) ]
 
+  * 8 Apr 2017 - [Bayesian Optimization with Scikit-Optimize](https://docs.google.com/presentation/d/1Mkh3UiEEPfPZWkD2w65keAD-iL9GobaF2-BMqcNsRaE/edit?usp=sharing), Gilles Louppe, [PyData Amsterdam](https://pydata.org/amsterdam2017/), The Netherlands
+
+  * 7 Apr 2017 - [Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), Gilles Louppe, Seminar at IIHE, VUB, Brussels
+
   * 6 Apr 2017 - [The Scikit-HEP Project](http://diana-hep.org/downloads/scikit-hep-2017-04-06.pdf), Eduardo Rodrigues, LHCb Analysis &amp; Software Week, CERN
+
+  * 20-22 March 2017 - [Introduction to Machine Learning](https://github.com/glouppe/tutorials-iml2017), Gilles Louppe, [IML Machine Learning workshop](https://indico.cern.ch/event/595059/timetable/?view=standard), CERN
 
   * 27 Feb 2017 - [The Scikit-HEP Project](https://indico.cern.ch/event/596272/contributions/2433675/attachments/1419121/2173879/EduardoRodrigues_diana-2017-02-27.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/596272/), [ [Video Recording](https://www.youtube.com/watch?v=sn_zHEJFvuA) ]
 
@@ -67,7 +75,7 @@ Summary: DIANA Activities
   * 14 Dec 2016 - Data Plumbing (whiteboard talk), Jim Pivarski, [LPC Coffee Hour](http://lpc.fnal.gov/coffeelpc/)
 
   * 13 Dec 2016 -  [Machine Learning & Likelihood Free Inference in Particle Physics](https://figshare.com/articles/NIPS_2016_Keynote_Machine_Learning_Likelihood_Free_Inference_in_Particle_Physics/4291565/1), Kyle Cranmer [NIPS 2016 Keynote](https://nips.cc/Conferences/2016/Schedule?showEvent=6195)
-  
+
   * 12 Dec 2016 - [Femtocode: development of a query language for HEP](https://indico.cern.ch/event/594180/contributions/2401463/attachments/1386540/2110205/femtocode-pdflatex.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/594180/)
 
   *  5 Dec 2016 - [Focus groups: physicist attitudes toward software](https://indico.cern.ch/event/588777/contributions/2374118/attachments/1382321/2102036/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/588777/)
