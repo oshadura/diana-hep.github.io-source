@@ -30,7 +30,7 @@ Summary: DIANA Activities
 
    * [QCD-Aware Recursive Neural Networks for Jet Physics](https://arxiv.org/abs/1702.00748) - G.Louppe, K.Cho, C.Becot, K.Cranmer [arXiv:1702.00748](https://arxiv.org/abs/1702.00748)
 
-   * [Exploring compression techniques for ROOT IO](https://github.com/zzxuanyuan/zzxuanyuan.github.io/blob/master/exploring-compression-techniques.pdf) - Z.Zhang, B.Bockelman; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)
+   * [Exploring compression techniques for ROOT IO](https://arxiv.org/abs/1704.06976) - Z.Zhang, B.Bockelman; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1704.06976](https://arxiv.org/abs/1704.06976)
 
    * [Big Data in HEP: A comprehensive use case study](https://arxiv.org/abs/1703.04171) - O.Gutsche, M.Cremonesi, P.Elmer, B.Jayatilaka, J.Kowalkowski, J.Pivarski, S.Sehrish, C.Mantilla Surez, A.Svyatkovskiy, N.Tran; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
 
