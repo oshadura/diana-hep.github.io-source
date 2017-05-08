@@ -58,6 +58,8 @@ Summary: DIANA Activities
 
   * 3 May 2017 - [Lowering Boundaries between Data Analysis Ecosystems](https://www.jlab.org/indico/event/213/session/3/contribution/13/material/slides/0.pdf), Jim Pivarski, [Future Trends in Nuclear Physics Computing Workshop](https://www.jlab.org/conferences/trends2017/), Jefferson Lab
 
+  * 2 May 2017 - [Emerging trends in software for statistics and machine learning](https://indico.cern.ch/event/622920/contributions/2544089/subcontributions/226587/attachments/1454349/2243960/ML-flash-S2I2.pdf), Kyle Cranmer, [2nd S2I2 HEP/CS Workshop](https://indico.cern.ch/event/622920/), Princeton University
+
   * 2 May 2017 - [Data Intensive Analysis Tools & Visualization (Parallel Session Introduction)](https://docs.google.com/presentation/d/1WTQK1FnbaWyqLvo3mF1NQLo2C_dmllnUkYKt0Joqq4g/edit#slide=id.p), Jim Pivarski, [2nd S2I2 HEP/CS Workshop](https://indico.cern.ch/event/622920/), Princeton University
 
   * 17 Apr 2017 - [Femtocode: querying HEP data - Status update and illustration of working examples](https://indico.cern.ch/event/630641/contributions/2548292/attachments/1445163/2226140/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/630641/), [ [Video Recording](https://www.youtube.com/watch?v=X0UAhM4qkFs) ]
