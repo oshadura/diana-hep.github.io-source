@@ -54,6 +54,10 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 3 May 2017 - [Cyberinfrastructure for high-level science goals](https://www.jlab.org/indico/event/213/session/3/contribution/12/material/slides/0.pdf), Kyle Cranmer, [Future Trends in Nuclear Physics Computing Workshop](https://www.jlab.org/conferences/trends2017/), Jefferson Lab
+
+  * 3 May 2017 - [Lowering Boundaries between Data Analysis Ecosystems](https://www.jlab.org/indico/event/213/session/3/contribution/13/material/slides/0.pdf), Jim Pivarski, [Future Trends in Nuclear Physics Computing Workshop](https://www.jlab.org/conferences/trends2017/), Jefferson Lab
+
   * 17 Apr 2017 - [Femtocode: querying HEP data - Status update and illustration of working examples](https://indico.cern.ch/event/630641/contributions/2548292/attachments/1445163/2226140/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/630641/), [ [Video Recording](https://www.youtube.com/watch?v=X0UAhM4qkFs) ]
 
   * 8 Apr 2017 - [Bayesian Optimization with Scikit-Optimize](https://docs.google.com/presentation/d/1Mkh3UiEEPfPZWkD2w65keAD-iL9GobaF2-BMqcNsRaE/edit?usp=sharing), Gilles Louppe, [PyData Amsterdam](https://pydata.org/amsterdam2017/), The Netherlands
