@@ -54,6 +54,14 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 11 May 2017 - [Data plumbing: moving data across frameworks](https://indico.fnal.gov/getFile.py/access?contribId=47&sessionId=1&resId=0&materialId=slides&confId=13497), Jim Pivarski, [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497), FNAL
+
+  * 10 May 2017 - [QCD-Aware Recursive Neural Networks](https://indico.fnal.gov/getFile.py/access?contribId=22&resId=0&materialId=slides&confId=13497), Kyle Cranmer, [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497), FNAL
+
+  * 10 May 2017 - [Learning to Pivot with Adversarial Networks](https://indico.fnal.gov/getFile.py/access?contribId=26&sessionId=1&resId=0&materialId=slides&confId=13497), Gilles Louppe, [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497), FNAL
+
+  * 9 May 2017 - [Use of advanced ML techniques in operations and data analysis at LHCb](https://indico.fnal.gov/getFile.py/access?contribId=8&resId=0&materialId=slides&confId=13497), Mike Sokoloff, [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497), FNAL
+
   * 3 May 2017 - [Cyberinfrastructure for high-level science goals](https://www.jlab.org/indico/event/213/session/3/contribution/12/material/slides/0.pdf), Kyle Cranmer, [Future Trends in Nuclear Physics Computing Workshop](https://www.jlab.org/conferences/trends2017/), Jefferson Lab
 
   * 3 May 2017 - [Lowering Boundaries between Data Analysis Ecosystems](https://www.jlab.org/indico/event/213/session/3/contribution/13/material/slides/0.pdf), Jim Pivarski, [Future Trends in Nuclear Physics Computing Workshop](https://www.jlab.org/conferences/trends2017/), Jefferson Lab
