@@ -6,7 +6,7 @@ Summary: Conferences
 
 ### Conferences 2018
 
-   * 23-27 Apr 2018 - [CHEP 2018](http://chep2018.org/)
+   * 9-13 Jul 2018 - [CHEP 2018](http://chep2018.org/)
      * Sofia, Bulgaria
      * Call for Presentations not yet available
 
