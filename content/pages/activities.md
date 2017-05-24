@@ -58,6 +58,10 @@ Summary: DIANA Activities
 
   * 23 May 2017 - [Survey of data formats and conversion tools](https://indico.cern.ch/event/613842/contributions/2585787/attachments/1463230/2260889/pivarski-data-formats.pdf), Jim Pivarski, [HSF Analysis Ecosystem Workshop](https://indico.cern.ch/event/613842/), Amsterdam
 
+  * 22 May 2017 - [The Analysis Ecosystem - My Remarks](https://indico.cern.ch/event/613842/contributions/2591057/attachments/1464179/2262775/EduardoRodrigues_2017-05-23_HSFAmsterdam.pdf), Eduardo Rodrigues, [HSF Analysis Ecosystem Workshop](https://indico.cern.ch/event/613842/), Amsterdam
+
+  * 22 May 2017 - [Data Analysis in LHCb](https://indico.cern.ch/event/613842/contributions/2590633/attachments/1463485/2261402/EduardoRodrigues-2017-05-22_HSFAmsterdam.pdf), Eduardo Rodrigues, [HSF Analysis Ecosystem Workshop](https://indico.cern.ch/event/613842/), Amsterdam
+
   * 11 May 2017 - [Data plumbing: moving data across frameworks](https://indico.fnal.gov/getFile.py/access?contribId=47&sessionId=1&resId=0&materialId=slides&confId=13497), Jim Pivarski, [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497), FNAL
 
   * 10 May 2017 - [QCD-Aware Recursive Neural Networks](https://indico.fnal.gov/getFile.py/access?contribId=22&resId=0&materialId=slides&confId=13497), Kyle Cranmer, [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497), FNAL
