@@ -54,6 +54,12 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 12 Jun 2017 - [DIANA/HEP: TTree Bulk I/O and More](https://indico.cern.ch/event/611563/contributions/2465913/attachments/1474335/2282876/ROOT_Workshop_June_2017.pdf), Brian Bockelman, [ROOT I/O Workshop](https://indico.cern.ch/event/611563/overview), CERN
+
+  * 12 Jun 2017 - [Compression using on-chip hardware](https://indico.cern.ch/event/611563/contributions/2608111/attachments/1474747/2283662/root_io_workshop_hw_compression_engine.pdf), David Abdurachmanov, [ROOT I/O Workshop](https://indico.cern.ch/event/611563/overview), CERN
+
+  * 12 Jun 2017 - [Parallel Unzipping](https://indico.cern.ch/event/611563/contributions/2465915/attachments/1474737/2283761/tbbunzip.pdf), Zhe Zhang, [ROOT I/O Workshop](https://indico.cern.ch/event/611563/overview), CERN
+
   * 23 May 2017 - [Femtocode](https://indico.cern.ch/event/613842/contributions/2585803/attachments/1464053/2264325/pivarski-femtocode-updated.pdf), Jim Pivarski, [HSF Analysis Ecosystem Workshop](https://indico.cern.ch/event/613842/), Amsterdam
 
   * 23 May 2017 - [Survey of data formats and conversion tools](https://indico.cern.ch/event/613842/contributions/2585787/attachments/1463230/2260889/pivarski-data-formats.pdf), Jim Pivarski, [HSF Analysis Ecosystem Workshop](https://indico.cern.ch/event/613842/), Amsterdam
