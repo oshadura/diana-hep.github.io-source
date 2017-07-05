@@ -132,9 +132,9 @@ Summary: DIANA Activities
 
   * 13 Oct 2016 - [HEPData - a repository for high energy physics data exploration](https://indico.cern.ch/event/505613/contributions/2227685/), Lukas Heinrich & Eamonn Maguire for HEPData team [CHEP 2016](http://chep2016.org/)
 
-  * 10 Oct 2016 - [Exploring Compression Techniques for ROOT IO](https://indico.cern.ch/event/505613/contributions/2228353/attachments/1346875/2041358/Oral-502.pdf), Zhe Zhang [CHEP 2016](http://chep2016.org/)
+  * 10 Oct 2016 - [Exploring Compression Techniques for ROOT IO](https://indico.cern.ch/event/505613/contributions/2228353/attachments/1346875/2041358/Oral-502.pdf), Zhe Zhang, [CHEP 2016](http://chep2016.org/)
 
-  * 20 Oct 2016 - [Histogrammar: Making Histograms Functional](https://www.overleaf.com/read/sgkhxqjsbbnp), Jim Pivarski [Chicago Hadoop User's Group (CHUG)](http://www.meetup.com/Chicago-area-Hadoop-User-Group-CHUG/)
+  * 20 Oct 2016 - [Histogrammar: Making Histograms Functional](https://www.overleaf.com/read/sgkhxqjsbbnp), Jim Pivarski, [Chicago Hadoop User's Group (CHUG)](http://www.meetup.com/Chicago-area-Hadoop-User-Group-CHUG/)
 
   * 17-21 Oct 2016 - [Lectures on Machine Learning](https://github.com/iccub-ml/lectures-glouppe), Gilles Louppe, [ICCUB School Machine Learning and Data Science in Physics](http://icc.ub.edu/congress/ICCUB_DM_SCHOOL), Barcelona, Spain
 
