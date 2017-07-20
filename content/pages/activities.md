@@ -54,6 +54,10 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 13 Jul 2017 - [Language Interoperability](https://github.com/jpivarski/codas-language-interoperability), Jim Pivarski, [CoDaS-HEP school](http://codas-hep.org) ([CoDaS-HEP 2017 program](https://indico.cern.ch/event/625333/timetable/)), Princeton  [Training]
+
+  * 10 Jul 2017 - [Functional Programming for Data Analysis](https://github.com/jpivarski/codas-functional-programming), Jim Pivarski, [CoDaS-HEP school](http://codas-hep.org) ([CoDaS-HEP 2017 program](https://indico.cern.ch/event/625333/timetable/)), Princeton  [Training]
+
   * 17 Jul 2017 - [IPCC ROOT Code Modernization Project](https://indico.cern.ch/event/643728/contributions/2612805/attachments/1494209/2324180/ROOT-IPCC.pdf), Vassil Vassilev, [DIANA Meeting](https://indico.cern.ch/event/643728/)
 
   * 12 Jun 2017 - [DIANA/HEP: TTree Bulk I/O and More](https://indico.cern.ch/event/611563/contributions/2465913/attachments/1474335/2282876/ROOT_Workshop_June_2017.pdf), Brian Bockelman, [ROOT I/O Workshop](https://indico.cern.ch/event/611563/overview), CERN
