@@ -54,6 +54,8 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 17 Jul 2017 - [IPCC ROOT Code Modernization Project](https://indico.cern.ch/event/643728/contributions/2612805/attachments/1494209/2324180/ROOT-IPCC.pdf), Vassil Vassilev, [DIANA Meeting](https://indico.cern.ch/event/643728/)
+
   * 12 Jun 2017 - [DIANA/HEP: TTree Bulk I/O and More](https://indico.cern.ch/event/611563/contributions/2465913/attachments/1474335/2282876/ROOT_Workshop_June_2017.pdf), Brian Bockelman, [ROOT I/O Workshop](https://indico.cern.ch/event/611563/overview), CERN
 
   * 12 Jun 2017 - [Compression using on-chip hardware](https://indico.cern.ch/event/611563/contributions/2608111/attachments/1474747/2283662/root_io_workshop_hw_compression_engine.pdf), David Abdurachmanov, [ROOT I/O Workshop](https://indico.cern.ch/event/611563/overview), CERN
