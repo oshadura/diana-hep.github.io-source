@@ -1,7 +1,8 @@
 Title: Microbenchmarking and performance unit testing for ROOT
 Date: 2017-07-28 12:00
 Slug: project_microbenchmarking.html
-Authors: Oksana Shadura, Vassil Vassilev
+Authors: Oksana Shadura
+Under supervision of Dr. Brian Bockelman and Dr. Vassil Vassilev
 Summary: ROOT Vectorization and IO Benchmarking
 
 ### Performance unit testing (Google Benchmark)
@@ -26,9 +27,24 @@ Google Benchmark is a library to support the benchmarking of functions, similar 
   <br><b>Figure 3. Microbenchmarking of GenVectorVc benchmark in KNL (ICC17)</b><br>
 </p>
 
+<p align="center">
+  <img src="../images/project_benchmarking/GCCGenVeccchart.jpeg" height="40%" width="40%">
+  <br><b>Figure 2. Speedup of GenVectorVc benchmark in KNL (gcc6.2)</b><br>
+</p>
+
+<p align="center">
+  <img src="../images/project_benchmarking/ICCGenVecchart.jpeg" height="40%" width="40%">
+  <br><b>Figure 3. Speedup of GenVectorVc benchmark in KNL (ICC17)</b><br>
+</p>
+
 ### IO benchmarks
 
 <p align="center">
-  <img src="../images/project_benchmarking/IOchart.jpeg" height="40%" width="40%">
+  <img src="../images/project_benchmarking/IOchart_128.jpeg" height="40%" width="40%">
   <br><b>Figure 4. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger on KNL</b><br>
+</p>
+
+<p align="center">
+  <img src="../images/project_benchmarking/KNLTFile1Branch.jpeg" height="40%" width="40%">
+  <br><b>Figure 4. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger on KNL for 1 Branch</b><br>
 </p>
