@@ -41,10 +41,10 @@ Google Benchmark is a library to support the benchmarking of functions, similar 
 
 <p align="center">
   <img src="../images/project_benchmarking/IOchart_128.jpeg" height="100%" width="100%>
-  <br><b>Figure 4. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger on KNL</b><br>
+  <br><b>Figure 4. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger(TMemFile) on KNL</b><br>
 </p>
 
 <p align="center">
   <img src="../images/project_benchmarking/KNLTFile1Branch.jpeg" height="100%" width="100%>
-  <br><b>Figure 4. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger on KNL for 1 Branch</b><br>
+  <br><b>Figure 4. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger(TFile) on KNL - file with 1 branch</b><br>
 </p>
