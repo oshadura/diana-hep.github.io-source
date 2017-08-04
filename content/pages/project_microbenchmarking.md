@@ -29,22 +29,22 @@ Google Benchmark is a library to support the benchmarking of functions, similar 
 
 <p align="center">
   <img src="../images/project_benchmarking/GCCGenVecchart.png" height="100%" width="100%>
-  <br><b>Figure 2. Speedup of GenVectorVc benchmark in KNL (gcc6.2)</b><br>
+  <br><b>Figure 4. Speedup of GenVectorVc benchmark in KNL (gcc6.2)</b><br>
 </p>
 
 <p align="center">
   <img src="../images/project_benchmarking/ICCGenVecchart.jpeg" height="100%" width="100%>
-  <br><b>Figure 3. Speedup of GenVectorVc benchmark in KNL (ICC17)</b><br>
+  <br><b>Figure 5. Speedup of GenVectorVc benchmark in KNL (ICC17)</b><br>
 </p>
 
 ### IO benchmarks
 
 <p align="center">
   <img src="../images/project_benchmarking/IOchart_128.jpeg" height="100%" width="100%>
-  <br><b>Figure 4. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger(TMemFile) on KNL</b><br>
+  <br><b>Figure 6. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger(TMemFile) on KNL</b><br>
 </p>
 
 <p align="center">
   <img src="../images/project_benchmarking/KNLTFile1Branch.jpeg" height="100%" width="100%>
-  <br><b>Figure 4. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger(TFile) on KNL - file with 1 branch</b><br>
+  <br><b>Figure 7. Microbenchmarking IO depending of size of AutoFlush for TBufferMerger(TFile) on KNL - file with 1 branch</b><br>
 </p>
