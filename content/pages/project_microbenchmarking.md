@@ -28,7 +28,7 @@ Google Benchmark is a library to support the benchmarking of functions, similar 
 </p>
 
 <p align="center">
-  <img src="../images/project_benchmarking/GCCGenVecchart.jpeg" height="100%" width="100%>
+  <img src="../images/project_benchmarking/GCCGenVecchart.png" height="100%" width="100%>
   <br><b>Figure 2. Speedup of GenVectorVc benchmark in KNL (gcc6.2)</b><br>
 </p>
 
