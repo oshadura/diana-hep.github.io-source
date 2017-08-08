@@ -26,7 +26,7 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
-   * [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) - Gilles Louppe and Kyle Cranmer [arXiv:1703.07113](https://arxiv.org/abs/1707.07113)
+   * [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) - Gilles Louppe and Kyle Cranmer [arXiv:1703.07113](https://arxiv.org/abs/1707.07113) | [source and code](https://github.com/glouppe/paper-avo)
 
    * [HEPData: a repository for high energy physics data](http://arxiv.org/abs/arXiv:1704.05473) - Eamonn Maguire, Lukas Heinrich, Graeme Watt. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)  [arXiv:1704.05473)]((http://arxiv.org/abs/arXiv:1704.05473))
 
@@ -56,6 +56,8 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 28 Jul 2017 - [RECAST and Data Reinterpretation](https://indico.hep.anl.gov/indico/getFile.py/access?contribId=6&sessionId=1&resId=0&materialId=slides&confId=1230), Lukas Heinrich at [Open Session of US ATLAS Workshop](https://indico.hep.anl.gov/indico/conferenceTimeTable.py?confId=1230#20170728.detailed)
+
   * 19-27 Jul 2017 -  [Broad HEP/ML Framing](http://erez.weizmann.ac.il/pls/htmldb/f?p=101:58:::NO:RP:P58_CODE,P58_FILE:5398,Y) and [Future Directions](), Kyle Cranmer at [Hammers and Nails Workshop, Weizmann Institute](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program) 
 
   * 20 Jul 2017 -  [Perspective of ML person working with physicists](http://erez.weizmann.ac.il/pls/htmldb/f?p=101:58:::NO:RP:P58_CODE,P58_FILE:5406,Y) and [Adversarial variational optimization of non-differentiable simulators](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program), Gilles Louppe at [Hammers and Nails Workshop, Weizmann Institute](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program) 
@@ -66,7 +68,7 @@ Summary: DIANA Activities
 
   * 17 Jul 2017 - [IPCC ROOT Code Modernization Project](https://indico.cern.ch/event/643728/contributions/2612805/attachments/1494209/2324180/ROOT-IPCC.pdf), Vassil Vassilev, [DIANA Meeting](https://indico.cern.ch/event/643728/)
 
-  * 19 Jun 2017 - [Watch this space: emerging trends and techniques that could transform physics and astronomy](https://indico.cern.ch/event/622093/contributions/2575336/attachments/1478790/2292090/Trends-Amsterdam.pdf), Kyle Cranmer at [Big data tools for physics and astronomy](https://indico.cern.ch/event/622093/timetable/#20170619)
+  * 19 Jun 2017 - [Watch this space: emerging trends and techniques that could transform physics and astronomy](https://indico.cern.ch/event/622093/contributions/2575336/attachments/1478790/2292090/Trends-Amsterdam.pdf), Kyle Cranmer at [Big data tools for physics and astronomy](https://indico.cern.ch/event/622093/timetable/#20170619) at GRAPPA Institute, Amsterdam, Netherlands
 
   * 12 Jun 2017 - [DIANA/HEP: TTree Bulk I/O and More](https://indico.cern.ch/event/611563/contributions/2465913/attachments/1474335/2282876/ROOT_Workshop_June_2017.pdf), Brian Bockelman, [ROOT I/O Workshop](https://indico.cern.ch/event/611563/overview), CERN
 
