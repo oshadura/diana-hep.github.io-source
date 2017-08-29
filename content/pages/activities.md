@@ -26,6 +26,8 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
+   * [Fast Access to Columnar, Hierarchical Data via Code Transformation](https://arxiv.org/abs/1708.08319) - Jim Pivarski, Peter Elmer, Brian Bockelman, and Zhe Zhang [arXiv:1708.08319](https://arxiv.org/abs/1708.08319), submitted to [IEEE Big Data](http://cci.drexel.edu/bigdata/bigdata2017/index.html)
+
    * [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) - Gilles Louppe and Kyle Cranmer [arXiv:1703.07113](https://arxiv.org/abs/1707.07113) | [source and code](https://github.com/glouppe/paper-avo)
 
    * [HEPData: a repository for high energy physics data](http://arxiv.org/abs/arXiv:1704.05473) - Eamonn Maguire, Lukas Heinrich, Graeme Watt. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)  [arXiv:1704.05473)]((http://arxiv.org/abs/arXiv:1704.05473))
@@ -55,6 +57,10 @@ Summary: DIANA Activities
   The DIANA team organizes periodic meetings on various topics of interest, with both invited external speakers and DIANA team contributions. These and other DIANA meetings can be found in the [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/). Videos of these meetings are published in [YouTube](https://www.youtube.com/channel/UCzFnto-EbPAfERLr0AZb58g).
 
 ### Presentations by the DIANA team
+
+  * 22 Aug 2017 - [Toward real-time data query systems in HEP](https://indico.cern.ch/event/567550/contributions/2627131/), Jim Pivarski
+
+  * [4 Aug 2017](https://indico.cern.ch/event/658069/) and [23 June 2017](https://indico.cern.ch/event/648699/) - BulkIO to Numpy in ROOT (with [sample notebooks](https://github.com/jpivarski/jupyter-talks/tree/a76c9afbc1a21ba016daa7b48a39d327cf44b778/2017-08-03-rootio-numpy)), Jim Pivarski
 
   * 28 Jul 2017 - [RECAST and Data Reinterpretation](https://indico.hep.anl.gov/indico/getFile.py/access?contribId=6&sessionId=1&resId=0&materialId=slides&confId=1230), Lukas Heinrich at [Open Session of US ATLAS Workshop](https://indico.hep.anl.gov/indico/conferenceTimeTable.py?confId=1230#20170728.detailed)
 
