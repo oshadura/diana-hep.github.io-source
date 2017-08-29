@@ -52,7 +52,7 @@ Summary: DIANA Activities
 
   <!-- this is the atom feed URL https://indico.cern.ch/category/7192/events.atom -->
 
-  The DIANA team organizes periodic meetings on various topics of interest, with both invited, externals speakers and DIANA team contributions. These and other DIANA meetings can be found in the [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/). Videos of these meetings are published in [YouTube](https://www.youtube.com/channel/UCzFnto-EbPAfERLr0AZb58g).
+  The DIANA team organizes periodic meetings on various topics of interest, with both invited external speakers and DIANA team contributions. These and other DIANA meetings can be found in the [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/). Videos of these meetings are published in [YouTube](https://www.youtube.com/channel/UCzFnto-EbPAfERLr0AZb58g).
 
 ### Presentations by the DIANA team
 
