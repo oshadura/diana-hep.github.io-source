@@ -58,6 +58,8 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 24 Aug 2017 - [Optimizing ROOT I/O for Analysis](http://diana-hep.org/downloads/bbockelman-acat-2017-poster.pdf) (poster), Brian Bockelman, Zhe Zhang, Jim Pivarski, [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/contributions/2627167/)
+
   * 22 Aug 2017 - [Toward real-time data query systems in HEP](https://indico.cern.ch/event/567550/contributions/2627131/), Jim Pivarski
 
   * [4 Aug 2017](https://indico.cern.ch/event/658069/) and [23 June 2017](https://indico.cern.ch/event/648699/) - BulkIO to Numpy in ROOT (with [sample notebooks](https://github.com/jpivarski/jupyter-talks/tree/a76c9afbc1a21ba016daa7b48a39d327cf44b778/2017-08-03-rootio-numpy)), Jim Pivarski
