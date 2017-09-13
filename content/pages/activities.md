@@ -15,7 +15,7 @@ Summary: DIANA Activities
 
    * Femtocode: a query language, execution engine, and query server for complex data (in development) - [GitHub](https://github.com/diana-hep/femtocode)
 
-   * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep/scikit-hep))
+   * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep))
 
    * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
 
@@ -58,6 +58,8 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 11 Sep 2017 - [Scikit-HEP Project Status](https://indico.cern.ch/event/650630/contributions/2647332/attachments/1521281/2376636/EduardoRodrigues-scikit-hep-2017-09-11.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/650630/)
+  
   * 24 Aug 2017 - [Optimizing ROOT I/O for Analysis](http://diana-hep.org/downloads/bbockelman-acat-2017-poster.pdf) (poster), Brian Bockelman, Zhe Zhang, Jim Pivarski, [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/contributions/2627167/), Seattle
 
   * 22 Aug 2017 - [Toward real-time data query systems in HEP](https://indico.cern.ch/event/567550/contributions/2627131/), Jim Pivarski, [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/contributions/2627167/), Seattle
