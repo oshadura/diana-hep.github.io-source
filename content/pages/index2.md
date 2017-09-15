@@ -16,3 +16,12 @@ Fee Fi Fo Fum:
    * Dopey
    * Bashful
    * Sneezy
+
+Activities:
+![alt text](http://diana-hep.org/theme/img/collaborate.svg  "Collaborative Analyses")
+
+![alt text](http://diana-hep.org/theme/img/reproducible.svg  "Reproducible Analyses")
+
+![alt text](http://diana-hep.org/theme/img/interoperable.svg  "Interoperability")
+
+
