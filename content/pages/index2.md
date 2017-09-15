@@ -17,11 +17,21 @@ Fee Fi Fo Fum:
    * Bashful
    * Sneezy
 
-Activities:
+Collaborative Analyses:
 ![alt text](http://diana-hep.org/theme/img/collaborate.svg  "Collaborative Analyses")
 
+Reproducible Analyses:
 ![alt text](http://diana-hep.org/theme/img/reproducible.svg  "Reproducible Analyses")
 
+Interoperability:
 ![alt text](http://diana-hep.org/theme/img/interoperable.svg  "Interoperability")
 
+Faster Processing:
+![alt text](http://diana-hep.org/theme/img/faster-processing.svg  "Faster Processing")
+
+Better Software:
+![alt text](http://diana-hep.org/theme/img/better-software.svg  "Better Software" | width=100)
+
+Training:
+![alt text](http://diana-hep.org/theme/img/faster-processing.svg  "Training")
 
