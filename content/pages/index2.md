@@ -8,6 +8,7 @@ Template: homepage2
 ### Snow White
 
 Fee Fi Fo Fum:
+
    * Doc
    * Grumpy
    * Happy
