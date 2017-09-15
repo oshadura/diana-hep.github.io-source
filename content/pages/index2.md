@@ -30,7 +30,7 @@ Faster Processing:
 ![alt text](http://diana-hep.org/theme/img/faster-processing.svg  "Faster Processing")
 
 Better Software:
-![alt text](http://diana-hep.org/theme/img/better-software.svg  "Better Software" | width=100)
+![](http://diana-hep.org/theme/img/better-software.svg | width=100)
 
 Training:
 ![alt text](http://diana-hep.org/theme/img/faster-processing.svg  "Training")
