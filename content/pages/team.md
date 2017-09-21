@@ -7,7 +7,7 @@ Summary: DIANA Team
 
 ### Project Team
 
-  * [Peter Elmer](http://www.princeton.edu/physics/people/display_person.xml?netid=gelmer&display=Research%20Staff) (Lead PI) - Princeton University, Department of Physics
+  * [Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer) (Lead PI) - Princeton University, Department of Physics
 
   * [Brian P. Bockelman](https://github.com/bbockelm) (PI) - University of Nebraska-Lincoln, Department of Computer Science and Engineering
 
