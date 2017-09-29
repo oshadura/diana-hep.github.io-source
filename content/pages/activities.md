@@ -58,7 +58,7 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
-  * 30 Sep 2016 - [Particle Physics, 10000 Times Faster](), \[ [talk abstract](https://www.thestrangeloop.com/2017/particle-physics-10-000-times-faster.html), [talk video]() \], Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html)
+  * 30 Sep 2017 - [Particle Physics, 10000 Times Faster](), \[ [talk abstract](https://www.thestrangeloop.com/2017/particle-physics-10-000-times-faster.html), [talk video]() \], Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html)
 
   * 25 Sep 2017 - [DIANA Big Data projects](https://indico.cern.ch/event/668284/contributions/2732412/attachments/1528865/2391832/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/668284/)
 
