@@ -58,6 +58,10 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 30 Sep 2016 - [Particle Physics, 10000 Times Faster](), \[ [talk abstract](https://www.thestrangeloop.com/2017/particle-physics-10-000-times-faster.html), [talk video]() \], Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html)
+
+  * 25 Sep 2017 - [DIANA Big Data projects](https://indico.cern.ch/event/668284/contributions/2732412/attachments/1528865/2391832/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/668284/)
+
   * 11 Sep 2017 - [Scikit-HEP Project Status](https://indico.cern.ch/event/650630/contributions/2647332/attachments/1521281/2376636/EduardoRodrigues-scikit-hep-2017-09-11.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/650630/)
   
   * 24 Aug 2017 - [Optimizing ROOT I/O for Analysis](http://diana-hep.org/downloads/bbockelman-acat-2017-poster.pdf) (poster), Brian Bockelman, Zhe Zhang, Jim Pivarski, [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/contributions/2627167/), Seattle
