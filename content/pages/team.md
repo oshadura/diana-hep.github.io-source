@@ -17,8 +17,6 @@ Summary: DIANA Team
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
-  * [David Abdurachmanov](https://github.com/davidlt) - University of Nebraska-Lincoln, Department of Computer Science and Engineering
-
   * [Vince Croft](https://www.nikhef.nl/~vcroft/index.html) - New York University, Department of Physics 
 
   * Lukas Heinrich - New York University, Department of Physics (Ph.D. Student)
@@ -27,19 +25,23 @@ Summary: DIANA Team
 
   * [David Lange](http://cern.ch/David.Lange) - Princeton University, Department of Physics
 
-  * [Gilles Louppe](https://glouppe.github.io/) - New York University, Department of Physics & Center for Data Science
-
   * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics
 
   * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics
 
+  * Oksana Shadura - University of Nebraska-Lincoln, Department of Computer Science and Engineering
+
   * Zhe Zhang - University of Nebraska-Lincoln, Department of Computer Science and Engineering (Ph.D. Student)
-
-
 
 ### Associated team members
 
   * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & [ROOT Intel Parallel Computing Center](https://ipcc-root.github.io)
+
+### Former team members
+
+  * [David Abdurachmanov](https://github.com/davidlt) - European Laboratory for Particle Physics (CERN)
+
+  * [Gilles Louppe](https://glouppe.github.io/) - University of Liege
 
 ### Collaborators
 
