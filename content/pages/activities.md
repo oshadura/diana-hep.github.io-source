@@ -58,6 +58,15 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+
+  * 11 Oct 2017 - [In-memory file merging](https://indico.fnal.gov/event/15154/contribution/11/material/slides/0.pdf), Vassil Vassilev, Oksana Shadura [ROOT I/O Workshop](https://indico.fnal.gov/event/15154/)
+
+  * 11 Oct 2017 - [LZ4, BulkIO, and offset removal performance](https://indico.fnal.gov/event/15154/contribution/8/material/slides/0.pdf), Jim Pivarski, [ROOT I/O Workshop](https://indico.fnal.gov/event/15154/)
+
+  * 11 Oct 2017 - [DIANA I/O Contributions Update](https://indico.fnal.gov/event/15154/contribution/5/material/slides/0.pdf), Brian Bockelman, [ROOT I/O Workshop](https://indico.fnal.gov/event/15154/)
+
+  * 11 Oct 2017 - [How to make a petabyte ROOT file: proposal for managing data with columnar granularity](https://indico.fnal.gov/event/15154/contribution/10/material/slides/0.pdf), Jim Pivarski, [ROOT I/O Workshop](https://indico.fnal.gov/event/15154/)
+
   * 30 Sep 2017 - [Particle Physics, 10000 Times Faster](), \[ [talk abstract](https://www.thestrangeloop.com/2017/particle-physics-10-000-times-faster.html), [talk video](https://www.youtube.com/watch?v=jvt4v2LTGK0) \], Jim Pivarski, [Strange Loop Conference](http://www.thestrangeloop.com/index.html)
 
   * 25 Sep 2017 - [DIANA Big Data projects](https://indico.cern.ch/event/668284/contributions/2732412/attachments/1528865/2391832/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/668284/)
