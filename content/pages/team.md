@@ -39,9 +39,9 @@ Summary: DIANA Team
 
 ### Former team members
 
-  * [David Abdurachmanov](https://github.com/davidlt) - CERN/University of Wisconsin - Madison
+  * [David Abdurachmanov](https://github.com/davidlt) - CERN/University of Wisconsin - Madison (formerly University of Nebraska-Lincoln)
 
-  * [Gilles Louppe](https://glouppe.github.io/) - University of Liege
+  * [Gilles Louppe](https://glouppe.github.io/) - University of Liege (formerly New York University)
 
 ### Collaborators
 
