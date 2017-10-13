@@ -13,7 +13,9 @@ Summary: DIANA Activities
 
    * Histogrammar: a multilingual specification for histogram aggregation with implementations in Python and Scala - [docs](http://histogrammar.org), [GitHub](https://github.com/histogrammar)
 
-   * Femtocode: a query language, execution engine, and query server for complex data (in development) - [GitHub](https://github.com/diana-hep/femtocode)
+   * uproot: pure Python implementation of ROOT I/O - [GitHub](https://github.com/scikit-hep/uproot)
+
+   * Arrowed: suite of tools for computing complex algorithms in Apache Arrow format (and ROOT, through uproot) - [GitHub](https://github.com/diana-hep/arrowed)
 
    * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep))
 
