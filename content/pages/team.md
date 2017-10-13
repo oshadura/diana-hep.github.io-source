@@ -55,10 +55,10 @@ Summary: DIANA Team
 
   * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa
     
-  * Scope-aaS: [Jin Chang](https://www.linkedin.com/in/jin-chang-2727b94) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab
-  
-  * Scope-GPU: [Roger Rusack](https://www.physics.umn.edu/people/rusack.html) and [Peter Hansen](https://www.physics.umn.edu/people/phansen.html) - University of Minnesota
-  
+  * Query server project: [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab
+
+  * Database-style indexing for queries: [Tanu Malik](http://www.cdm.depaul.edu/about/Pages/People/facultyinfo.aspx?fid=1328) - DePaul
+
   * [Carl](http://diana-hep.org/carl/): [Juan Pavez](https://github.com/jgpavez), Cyril Becot - New York University, [Lukas Heinrich](http://www.lukasheinrich.com/) - New York University
 
   * [Scikit-Optimize](https://scikit-optimize.github.io/): [Manoj Kumar](https://github.com/MechCoder) - New York University, [Tim Head](https://github.com/betatim), [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne
