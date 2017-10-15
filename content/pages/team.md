@@ -53,7 +53,7 @@ Summary: DIANA Team
   
   * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, and [Sasha Mazurov](https://www.linkedin.com/in/mazurov) - University of Birmingham
 
-  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa, Pratyush Das
+  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa, Pratyush Das - Institute of Engineering and Management
     
   * Query server project: [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab
 
