@@ -28,6 +28,9 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
+
+   * [CMS Analysis and Data Reduction with Apache Spark](https://arxiv.org/abs/1711.00375) - Oliver Gutsche, Luca Canali, Illia Cremer, Matteo Cremonesi, Peter Elmer, Ian Fisk, Maria Girone, Bo Jayatilaka, Jim Kowalkowski, Viktor Khristenko, Evangelos Motesnitsalis, Jim Pivarski, Saba Sehrish, Kacper Surdy, Alexey Svyatkovskiy [arXiv:1708.08319](https://arxiv.org/abs/1711.00375), submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/)
+
    * [Fast Access to Columnar, Hierarchical Data via Code Transformation](https://arxiv.org/abs/1708.08319) - Jim Pivarski, Peter Elmer, Brian Bockelman, and Zhe Zhang [arXiv:1708.08319](https://arxiv.org/abs/1708.08319), submitted to [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/index.html)
 
    * [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) - Gilles Louppe and Kyle Cranmer [arXiv:1703.07113](https://arxiv.org/abs/1707.07113) | [source and code](https://github.com/glouppe/paper-avo)
