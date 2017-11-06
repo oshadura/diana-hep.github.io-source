@@ -15,7 +15,7 @@ Summary: DIANA Activities
 
    * uproot: pure Python implementation of ROOT I/O - [GitHub](https://github.com/scikit-hep/uproot)
 
-   * Arrowed: suite of tools for computing complex algorithms in Apache Arrow format (and ROOT, through uproot) - [GitHub](https://github.com/diana-hep/arrowed)
+   * OAMap: tools for handling hierarchically nested data as arrays with an Object Array Map - [GitHub](https://github.com/diana-hep/oamap)
 
    * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep))
 
@@ -28,6 +28,7 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
+   * [Toward real-time data query systems in HEP](https://arxiv.org/abs/1711.01229) - Jim Pivarski, David Lange, Thanat Jatuphattharachat, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.01229](https://arxiv.org/abs/1711.01229)
 
    * [CMS Analysis and Data Reduction with Apache Spark](https://arxiv.org/abs/1711.00375) - Oliver Gutsche, Luca Canali, Illia Cremer, Matteo Cremonesi, Peter Elmer, Ian Fisk, Maria Girone, Bo Jayatilaka, Jim Kowalkowski, Viktor Khristenko, Evangelos Motesnitsalis, Jim Pivarski, Saba Sehrish, Kacper Surdy, Alexey Svyatkovskiy, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1708.08319](https://arxiv.org/abs/1711.00375)
 
@@ -63,6 +64,7 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 25 Oct 2017 - [Bridging the Particle Physics and Big Data Worlds](http://meetings.aps.org/Meeting/DNP17/Session/1WA.7), Jim Pivarski - [APS Division of Nuclear Physics 2017](https://www.cmu.edu/dnp2017/)
 
   * 11 Oct 2017 - [In-memory file merging](https://indico.fnal.gov/event/15154/contribution/11/material/slides/0.pdf), Vassil Vassilev, Oksana Shadura [ROOT I/O Workshop](https://indico.fnal.gov/event/15154/)
 
