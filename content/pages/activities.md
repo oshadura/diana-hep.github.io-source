@@ -28,7 +28,7 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
-   * [Optimizing ROOT IO For Analysis](https://arxiv.org/abs/1711.02659) - Brian Bockelman, Zhe Zhang, Jim Pivarski, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.02659](https://arxiv.org/abs/1711.02659)
+   * [Optimizing ROOT IO For Analysis](https://arxiv.org/abs/1711.02659) - Brian Bockelman, Zhe Zhang, Jim Pivarski, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.02659](https://arxiv.org/abs/1711.02659) 
 
    * [Toward real-time data query systems in HEP](https://arxiv.org/abs/1711.01229) - Jim Pivarski, David Lange, Thanat Jatuphattharachat, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.01229](https://arxiv.org/abs/1711.01229)
 
