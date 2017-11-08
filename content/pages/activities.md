@@ -28,6 +28,8 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
+   * [Optimizing ROOT IO For Analysis](https://arxiv.org/abs/1711.02659) - Brian Bockelman, Zhe Zhang, Jim Pivarski, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.02659](https://arxiv.org/abs/1711.02659)
+
    * [Toward real-time data query systems in HEP](https://arxiv.org/abs/1711.01229) - Jim Pivarski, David Lange, Thanat Jatuphattharachat, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.01229](https://arxiv.org/abs/1711.01229)
 
    * [CMS Analysis and Data Reduction with Apache Spark](https://arxiv.org/abs/1711.00375) - Oliver Gutsche, Luca Canali, Illia Cremer, Matteo Cremonesi, Peter Elmer, Ian Fisk, Maria Girone, Bo Jayatilaka, Jim Kowalkowski, Viktor Khristenko, Evangelos Motesnitsalis, Jim Pivarski, Saba Sehrish, Kacper Surdy, Alexey Svyatkovskiy, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1708.08319](https://arxiv.org/abs/1711.00375)
