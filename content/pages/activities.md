@@ -17,7 +17,7 @@ Summary: DIANA Activities
 
    * OAMap: tools for handling hierarchically nested data as arrays with an Object Array Map - [GitHub](https://github.com/diana-hep/oamap)
 
-   * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep))
+   * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep)) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043950.svg)](http://doi.org/10.5281/zenodo.1043950)
 
    * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
 
