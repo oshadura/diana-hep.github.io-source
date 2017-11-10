@@ -4,8 +4,7 @@ Slug: project_scikit-hep.html
 Authors: Eduardo Rodrigues
 Summary: Scikit-HEP Project
 
-[![alt text](../images/scikit-hep.svg)]
-(http://scikit-hep.org "Scikit-HEP project logo")
+[![Scikit-HEP project logo](../images/scikit-hep.svg)](http://scikit-hep.org)
 
 
 ### Project summary
