@@ -66,6 +66,8 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team
 
+  * 16 Nov 2017 - [Data Management with Columnwise Stores](https://indico.cern.ch/event/669506/contributions/2782226/attachments/1558579/2452285/pivarski-columnwise.pdf), Jim Pivarski - [Workshop on Data Organisation, Management and Access (DOMA) in Astronomy, Genomics and High Energy Physics](https://indico.cern.ch/event/669506/)
+
   * 25 Oct 2017 - [Bridging the Particle Physics and Big Data Worlds](http://meetings.aps.org/Meeting/DNP17/Session/1WA.7), Jim Pivarski - [APS Division of Nuclear Physics 2017](https://www.cmu.edu/dnp2017/)
 
   * 11 Oct 2017 - [In-memory file merging](https://indico.fnal.gov/event/15154/contribution/11/material/slides/0.pdf), Vassil Vassilev, Oksana Shadura [ROOT I/O Workshop](https://indico.fnal.gov/event/15154/)
