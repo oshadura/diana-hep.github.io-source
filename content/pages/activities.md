@@ -38,13 +38,13 @@ Summary: DIANA Activities
 
    * [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) - Gilles Louppe and Kyle Cranmer [arXiv:1703.07113](https://arxiv.org/abs/1707.07113) | [source and code](https://github.com/glouppe/paper-avo)
 
-   * [HEPData: a repository for high energy physics data](http://arxiv.org/abs/arXiv:1704.05473) - Eamonn Maguire, Lukas Heinrich, Graeme Watt. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)  [arXiv:1704.05473)](http://arxiv.org/abs/arXiv:1704.05473)
+   * [HEPData: a repository for high energy physics data](http://iopscience.iop.org/article/10.1088/1742-6596/898/10/102006/meta) - Eamonn Maguire, Lukas Heinrich, Graeme Watt. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1704.05473](http://arxiv.org/abs/arXiv:1704.05473)
 
    * [QCD-Aware Recursive Neural Networks for Jet Physics](https://arxiv.org/abs/1702.00748) - G.Louppe, K.Cho, C.Becot, K.Cranmer [arXiv:1702.00748](https://arxiv.org/abs/1702.00748)
 
    * [Exploring compression techniques for ROOT IO](https://arxiv.org/abs/1704.06976) - Z.Zhang, B.Bockelman; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1704.06976](https://arxiv.org/abs/1704.06976)
 
-   * [Big Data in HEP: A comprehensive use case study](https://arxiv.org/abs/1703.04171) - O.Gutsche, M.Cremonesi, P.Elmer, B.Jayatilaka, J.Kowalkowski, J.Pivarski, S.Sehrish, C.Mantilla Surez, A.Svyatkovskiy, N.Tran; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
+   * [Big Data in HEP: A comprehensive use case study](http://iopscience.iop.org/article/10.1088/1742-6596/898/7/072012/meta) - O.Gutsche, M.Cremonesi, P.Elmer, B.Jayatilaka, J.Kowalkowski, J.Pivarski, S.Sehrish, C.Mantilla Surez, A.Svyatkovskiy, N.Tran; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
 
    * [Analysis Preservation and Reinterpretation](https://indico.cern.ch/event/505613/contributions/2227701/), Lukas Heinrich Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) 
 
