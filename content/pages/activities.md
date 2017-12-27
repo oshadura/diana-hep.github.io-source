@@ -34,7 +34,7 @@ Summary: DIANA Activities
 
    * [CMS Analysis and Data Reduction with Apache Spark](https://arxiv.org/abs/1711.00375) - Oliver Gutsche, Luca Canali, Illia Cremer, Matteo Cremonesi, Peter Elmer, Ian Fisk, Maria Girone, Bo Jayatilaka, Jim Kowalkowski, Viktor Khristenko, Evangelos Motesnitsalis, Jim Pivarski, Saba Sehrish, Kacper Surdy, Alexey Svyatkovskiy, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1708.08319](https://arxiv.org/abs/1711.00375)
 
-   * [Fast Access to Columnar, Hierarchical Data via Code Transformation](https://arxiv.org/abs/1708.08319) - Jim Pivarski, Peter Elmer, Brian Bockelman, and Zhe Zhang. Submitted to [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/index.html) (Boston) [arXiv:1708.08319](https://arxiv.org/abs/1708.08319),
+   * [Fast Access to Columnar, Hierarchical Data via Code Transformation](https://arxiv.org/abs/1708.08319) - Jim Pivarski, Peter Elmer, Brian Bockelman, and Zhe Zhang. Submitted to [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/index.html) (Boston) [arXiv:1708.08319](https://arxiv.org/abs/1708.08319)
 
    * [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) - Gilles Louppe and Kyle Cranmer [arXiv:1703.07113](https://arxiv.org/abs/1707.07113) | [source and code](https://github.com/glouppe/paper-avo)
 
@@ -42,7 +42,7 @@ Summary: DIANA Activities
 
    * [QCD-Aware Recursive Neural Networks for Jet Physics](https://arxiv.org/abs/1702.00748) - G.Louppe, K.Cho, C.Becot, K.Cranmer [arXiv:1702.00748](https://arxiv.org/abs/1702.00748)
 
-   * [Exploring compression techniques for ROOT IO](https://arxiv.org/abs/1704.06976) - Z.Zhang, B.Bockelman; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1704.06976](https://arxiv.org/abs/1704.06976)
+   * [Exploring compression techniques for ROOT IO](http://iopscience.iop.org/article/10.1088/1742-6596/898/7/072043/meta) - Z.Zhang, B.Bockelman; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1704.06976](https://arxiv.org/abs/1704.06976)
 
    * [Big Data in HEP: A comprehensive use case study](http://iopscience.iop.org/article/10.1088/1742-6596/898/7/072012/meta) - O.Gutsche, M.Cremonesi, P.Elmer, B.Jayatilaka, J.Kowalkowski, J.Pivarski, S.Sehrish, C.Mantilla Surez, A.Svyatkovskiy, N.Tran; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
 
