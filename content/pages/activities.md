@@ -28,7 +28,9 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
-   * [Optimizing ROOT IO For Analysis](https://arxiv.org/abs/1711.02659) - Brian Bockelman, Zhe Zhang, Jim Pivarski, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.02659](https://arxiv.org/abs/1711.02659) 
+   * [A Roadmap for HEP Software and Computing R&D for the  2020s](https://arxiv.org/abs/1712.06982) - Brian Bockelman, Kyle Cranmer, Peter Elmer, Lukas Heinrich, David Lange, Eduardo Rodrigues, Michael D Sokoloff *in* Antonio Augusto Alves Jr *et al*.
+
+   * [Optimizing ROOT IO For Analysis](https://arxiv.org/abs/1711.02659) - Brian Bockelman, Zhe Zhang, Jim Pivarski, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.02659](https://arxiv.org/abs/1711.02659)
 
    * [Toward real-time data query systems in HEP](https://arxiv.org/abs/1711.01229) - Jim Pivarski, David Lange, Thanat Jatuphattharachat, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.01229](https://arxiv.org/abs/1711.01229)
 
@@ -46,7 +48,7 @@ Summary: DIANA Activities
 
    * [Big Data in HEP: A comprehensive use case study](http://iopscience.iop.org/article/10.1088/1742-6596/898/7/072012/meta) - O.Gutsche, M.Cremonesi, P.Elmer, B.Jayatilaka, J.Kowalkowski, J.Pivarski, S.Sehrish, C.Mantilla Surez, A.Svyatkovskiy, N.Tran; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
 
-   * [Analysis Preservation and Reinterpretation](https://indico.cern.ch/event/505613/contributions/2227701/), Lukas Heinrich Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) 
+   * [Analysis Preservation and Reinterpretation](https://indico.cern.ch/event/505613/contributions/2227701/), Lukas Heinrich Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)
 
    * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046) - G.Louppe, M.Kagan, K.Cranmer [arXiv:1611.01046](https://arxiv.org/abs/1611.01046)
 
@@ -57,6 +59,14 @@ Summary: DIANA Activities
    * [Visualization of Publication Impact](http://arxiv.org/abs/arXiv:1605.06242) - E.Maguire, J.Montull, G.Louppe; Proceedings of Eurographics Conference on Visualization (EuroVis) 2016 (Groningen) [arXiv:1605.06242](https://arxiv.org/abs/1605.06242)
 
    * NSF Proposal - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/ssi2014-nsf-proposal.pdf)
+
+
+### Google Summer of Code program
+
+Participation in the GSoC 2017 program.
+
+  * Project [Efficient Python routines for analysis on massively multi-threaded platforms - Python bindings for the Hydra C++ library](https://summerofcode.withgoogle.com/archive/2017/projects/6217497468469248/) - Eduardo Rodrigues, mentor for this [CERN-HSF organisation](http://hepsoftwarefoundation.org/) project.
+
 
 ### DIANA Topical Meetings
 
@@ -83,7 +93,7 @@ Summary: DIANA Activities
   * 25 Sep 2017 - [DIANA Big Data projects](https://indico.cern.ch/event/668284/contributions/2732412/attachments/1528865/2391832/main.pdf), Jim Pivarski, [DIANA Meeting](https://indico.cern.ch/event/668284/)
 
   * 11 Sep 2017 - [Scikit-HEP Project Status](https://indico.cern.ch/event/650630/contributions/2647332/attachments/1521281/2376636/EduardoRodrigues-scikit-hep-2017-09-11.pdf), Eduardo Rodrigues, [DIANA Meeting](https://indico.cern.ch/event/650630/)
-  
+
   * 24 Aug 2017 - [Optimizing ROOT I/O for Analysis](http://diana-hep.org/downloads/bbockelman-acat-2017-poster.pdf) (poster), Brian Bockelman, Zhe Zhang, Jim Pivarski, [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/contributions/2627167/), Seattle
 
   * 22 Aug 2017 - [Toward real-time data query systems in HEP](https://indico.cern.ch/event/567550/contributions/2627131/), Jim Pivarski, [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/contributions/2627167/), Seattle
@@ -92,9 +102,9 @@ Summary: DIANA Activities
 
   * 28 Jul 2017 - [RECAST and Data Reinterpretation](https://indico.hep.anl.gov/indico/getFile.py/access?contribId=6&sessionId=1&resId=0&materialId=slides&confId=1230), Lukas Heinrich at [Open Session of US ATLAS Workshop](https://indico.hep.anl.gov/indico/conferenceTimeTable.py?confId=1230#20170728.detailed), ANL
 
-  * 19-27 Jul 2017 -  [Broad HEP/ML Framing](http://erez.weizmann.ac.il/pls/htmldb/f?p=101:58:::NO:RP:P58_CODE,P58_FILE:5398,Y) and [Future Directions](), Kyle Cranmer at [Hammers and Nails Workshop, Weizmann Institute](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program) 
+  * 19-27 Jul 2017 -  [Broad HEP/ML Framing](http://erez.weizmann.ac.il/pls/htmldb/f?p=101:58:::NO:RP:P58_CODE,P58_FILE:5398,Y) and [Future Directions](), Kyle Cranmer at [Hammers and Nails Workshop, Weizmann Institute](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program)
 
-  * 20 Jul 2017 -  [Perspective of ML person working with physicists](http://erez.weizmann.ac.il/pls/htmldb/f?p=101:58:::NO:RP:P58_CODE,P58_FILE:5406,Y) and [Adversarial variational optimization of non-differentiable simulators](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program), Gilles Louppe at [Hammers and Nails Workshop, Weizmann Institute](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program) 
+  * 20 Jul 2017 -  [Perspective of ML person working with physicists](http://erez.weizmann.ac.il/pls/htmldb/f?p=101:58:::NO:RP:P58_CODE,P58_FILE:5406,Y) and [Adversarial variational optimization of non-differentiable simulators](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program), Gilles Louppe at [Hammers and Nails Workshop, Weizmann Institute](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/program)
 
   * 13 Jul 2017 - [Language Interoperability](https://github.com/jpivarski/codas-language-interoperability), Jim Pivarski, [CoDaS-HEP school](http://codas-hep.org) ([CoDaS-HEP 2017 program](https://indico.cern.ch/event/625333/timetable/)), Princeton  [Training]
 
