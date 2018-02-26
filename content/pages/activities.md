@@ -28,7 +28,14 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
+   * [HEP Community White Paper on Software trigger and event reconstruction: Executive Summary](https://arxiv.org/abs/1802.08640) - David Lange, Eduardo Rodrigues, Michael D Sokoloff *in* Johannes Albrecht *et al*.
+   [arXiv:1802.08640](https://arxiv.org/abs/1802.08640)
+
+   * [HEP Community White Paper on Software trigger and event reconstruction](https://arxiv.org/abs/1802.08638) - David Lange, Eduardo Rodrigues, Michael D Sokoloff *in* Johannes Albrecht *et al*.
+   [arXiv:1802.08638](https://arxiv.org/abs/1802.08638)
+
    * [A Roadmap for HEP Software and Computing R&D for the  2020s](https://arxiv.org/abs/1712.06982) - Brian Bockelman, Kyle Cranmer, Peter Elmer, Lukas Heinrich, David Lange, Eduardo Rodrigues, Michael D Sokoloff *in* Antonio Augusto Alves Jr *et al*.
+   [arXiv:1712.06982](https://arxiv.org/abs/1712.06982)
 
    * [Optimizing ROOT IO For Analysis](https://arxiv.org/abs/1711.02659) - Brian Bockelman, Zhe Zhang, Jim Pivarski, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.02659](https://arxiv.org/abs/1711.02659)
 
@@ -75,6 +82,8 @@ Participation in the GSoC 2017 program.
   The DIANA team organizes periodic meetings on various topics of interest, with both invited external speakers and DIANA team contributions. These and other DIANA meetings can be found in the [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/). Videos of these meetings are published in [YouTube](https://www.youtube.com/channel/UCzFnto-EbPAfERLr0AZb58g).
 
 ### Presentations by the DIANA team
+
+  * 26 Feb 2018 - [APPAVO - Augmented tools for Particle Physics Analysis, Visualisation and Outreach](https://indico.cern.ch/event/702570/contributions/2905377/attachments/1606585/2549393/2018-02-26_CERNSoftRandD_EduardoRodrigues.pdf), Eduardo Rodrigues - [CERN EP Department Software R&D Second Lightning Talks Session](https://indico.cern.ch/event/702570/)
 
   * 16 Nov 2017 - [Data Management with Columnwise Stores](https://indico.cern.ch/event/669506/contributions/2782226/attachments/1558579/2452285/pivarski-columnwise.pdf), Jim Pivarski - [Workshop on Data Organisation, Management and Access (DOMA) in Astronomy, Genomics and High Energy Physics](https://indico.cern.ch/event/669506/)
 
