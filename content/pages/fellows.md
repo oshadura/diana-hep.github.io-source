@@ -26,8 +26,8 @@ A DIANA Undergraduate Fellow position is also available each year. The student w
   * Dates/Location: Jan-Mar, 2018 
 
 #### Juan Baptista 
-  * Topic:  - [proposal](), [final report]()
-  * Mentor: 
+  * Topic: Numerical Integration Precision Studies for Maximum Likelihood Fits - [proposal](/downloads/2018-diana-fellow-proposal-juan-baptista.pdf), [final report]()
+  * Mentor: Henry Schreiner, University of Cincinnati
   * Dates/Location:
 
 #### Matthew Feickert, Southern Methodist University [Grad]
@@ -40,9 +40,9 @@ A DIANA Undergraduate Fellow position is also available each year. The student w
   * Mentor: Kyle Cranmer, NYU
   * Dates/Location: Mar-Apr, 2017 (NYU)
 
-#### Andrew Carnes
-  * Topic:  - [proposal](), [final report]()
-  * Mentor: 
-  * Dates/Location:
+#### Andrew Carnes, University of Florida [Grad]
+  * Topic: Additional Functionality in TMVA (Software R&D) Regression and Boosted Decision Trees - [proposal](/downloads/2016-diana-fellow-proposal-andrew-carnes.pdf), [final report]()
+  * Mentor: Sergei Gleyzer, University of Florida
+  * Dates/Location: Summer/Fall, 2016 (CERN)
 
 
