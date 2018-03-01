@@ -15,3 +15,29 @@ A DIANA Undergraduate Fellow position is also available each year. The student w
 
 ### Current and past DIANA fellows
 
+#### Pratyush Das
+  * Topic:   [proposal](), [final report]()
+  * Mentor: Jim Pivarski
+  * Dates/Location: *summer, 2018 (FNAL)*
+
+#### Himadri Pandey
+  * Topic:   [proposal](), [final report]()
+  * Dates/Location:
+
+#### Juan Baptista 
+  * Topic:   [proposal](), [final report]()
+  * Dates/Location:
+
+#### Matthew Feickert
+  * Topic:   [proposal](), [final report]()
+  * Dates/Location:
+
+#### Meghan Frate
+  * Topic:   [proposal](), [final report]()
+  * Dates/Location:
+
+#### Andrew Carnes
+  * Topic:   [proposal](), [final report]()
+  * Dates/Location:
+
+
