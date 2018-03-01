@@ -10,7 +10,7 @@ The DIANA Fellows program provides support for 4 graduate students each year to 
 
 ### DIANA Undergraduate Fellow
 
-A DIANA Undergraduate Fellow position is also available each year. The student will work 10-12 weeks during the summer, either developing or using data-intensive tools. The DIANA project will provide a stipend for the summer period. For more information on the DIANA Undergraduate Fellow position contact [mike.sokoloff@uc.edu](mike.sokoloff@uc.edu). 
+A DIANA Undergraduate Fellow position is also available each year. The student will work 10-12 weeks during the summer, either developing or using data-intensive tools. The DIANA project will provide a stipend for the summer period and in some cases can provide additional travel/subsistence support if they work away from their home institution. For more information on the DIANA Undergraduate Fellow position contact [mike.sokoloff@uc.edu](mike.sokoloff@uc.edu). 
 
 
 ### Current and past DIANA fellows
