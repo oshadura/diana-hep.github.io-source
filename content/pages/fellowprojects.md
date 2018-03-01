@@ -11,9 +11,11 @@ In the proposal you should briefly describe the software development activity
 that you would like to pursue, and how that activity will enhance your
 own and other people's research activities. Note also the intended software
 project or person with whom you will collaborate and the location where
-you would like to travel for that collaboration.
-The proposal should be short, typically no more than 2-3 paragraphs.
-Submit your project proposal by email to [mike.sokoloff@uc.edu](mike.sokoloff@uc.edu). In 2016, DIANA Fellow positions will be awarded in a rolling fashion 
+you would need to travel for that collaboration.
+The proposal should be short, typically no more one page to describe the
+project and then a short timeline with deliverables (see also examples from
+[previous fellows](/pages/fellows.html).
+Submit your project proposal by email to [mike.sokoloff@uc.edu](mike.sokoloff@uc.edu) or one of the other [DIANA/HEP PIs](http://diana-hep.org/pages/team.html). DIANA Fellow positions will be awarded in a rolling fashion 
 based on submitted project proposals. 
 
   If you are involved in a software project used by the community and
