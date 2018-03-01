@@ -16,12 +16,13 @@ A DIANA Undergraduate Fellow position is also available each year. The student w
 ### Current and past DIANA fellows
 
 #### Pratyush Das
-  * Topic:   [proposal](), [final report]()
+  * Topic: Add write functionality to [uproot](https://github.com/scikit-hep/uproot)  [proposal](downloads/2018-diana-fellow-proposal-pratyush-das.pdf)
   * Mentor: Jim Pivarski
   * Dates/Location: *summer, 2018 (FNAL)*
 
 #### Himadri Pandey
   * Topic:   [proposal](), [final report]()
+  * Mentor: 
   * Dates/Location:
 
 #### Juan Baptista 
@@ -29,15 +30,18 @@ A DIANA Undergraduate Fellow position is also available each year. The student w
   * Dates/Location:
 
 #### Matthew Feickert
-  * Topic:   [proposal](), [final report]()
+  * Topic: Investigation of use of Tensorflow/Theano for realistic physics statistics models  [proposal](downloads/2017-diana-fellow-proposal-matthew-feickert.pdf), [final report]()
+  * Mentor: Gilles Louppe/Vincent Croft
   * Dates/Location:
 
 #### Meghan Frate
   * Topic:   [proposal](), [final report]()
+  * Mentor: 
   * Dates/Location:
 
 #### Andrew Carnes
   * Topic:   [proposal](), [final report]()
+  * Mentor: 
   * Dates/Location:
 
 
