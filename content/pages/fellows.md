@@ -21,7 +21,7 @@ A DIANA Undergraduate Fellow position is also available each year. The student w
   * Dates/Location: *summer, 2018 (FNAL)*
 
 #### Himadri Pandey, University of Cincinnati [Undergrad]
-  * Topic: Development of Machine Learning Algorithms and Software Implementations for Recon- structing Straight Line Trajectories - [proposal](/downloads/2017-diana-fellow-proposal-himadri-pandey.pdf), [final report]()
+  * Topic: Development of Machine Learning Algorithms and Software Implementations for Reconstructing Straight Line Trajectories - [proposal](/downloads/2017-diana-fellow-proposal-himadri-pandey.pdf), [final report]()
   * Mentor: Mike Williams, MIT
   * Dates/Location: Jan-Mar, 2018 
 
