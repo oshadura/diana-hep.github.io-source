@@ -15,29 +15,30 @@ A DIANA Undergraduate Fellow position is also available each year. The student w
 
 ### Current and past DIANA fellows
 
-#### Pratyush Das
+#### Pratyush Das, Institute of Engineering and Management (Kolkata) [Undergrad]
   * Topic: Add write functionality to [uproot](https://github.com/scikit-hep/uproot) - [proposal](pages/downloads/2018-diana-fellow-proposal-pratyush-das.pdf)
-  * Mentor: Jim Pivarski
+  * Mentor: Jim Pivarski, Princeton University
   * Dates/Location: *summer, 2018 (FNAL)*
 
-#### Himadri Pandey [Undergrad]
+#### Himadri Pandey, University of Cincinnati [Undergrad]
   * Topic: Development of Machine Learning Algorithms and Software Implementations for Recon- structing Straight Line Trajectories - [proposal](pages/downloads/2017-diana-fellow-proposal-himadri-pandey.pdf), [final report]()
-  * Mentor: Mike Williams
+  * Mentor: Mike Williams, MIT
   * Dates/Location: Jan-Mar, 2018 
 
 #### Juan Baptista 
   * Topic:  - [proposal](), [final report]()
+  * Mentor: 
   * Dates/Location:
 
-#### Matthew Feickert, Southern Methodist University
+#### Matthew Feickert, Southern Methodist University [Grad]
   * Topic: Investigation of use of Tensorflow/Theano for realistic physics statistics models - [proposal](pages/downloads/2017-diana-fellow-proposal-matthew-feickert.pdf), [final report]()
-  * Mentor: Gilles Louppe/Vincent Croft
+  * Mentor: Gilles Louppe/Vincent Croft, NYU
   * Dates/Location:
 
 #### Meghan Frate, University of California - Irvine [Grad]
   * Topic: Software to allow application of Gaussian Processes to HEP problems - [proposal](pages/downloads/2017-diana-fellow-proposal-meghan-frate.pdf), [final report]()
-  * Mentor: Kyle Cranmer
-  * Dates/Location: Mar-Apr, 2017
+  * Mentor: Kyle Cranmer, NYU
+  * Dates/Location: Mar-Apr, 2017 (NYU)
 
 #### Andrew Carnes
   * Topic:  - [proposal](), [final report]()
