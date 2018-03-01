@@ -16,31 +16,31 @@ A DIANA Undergraduate Fellow position is also available each year. The student w
 ### Current and past DIANA fellows
 
 #### Pratyush Das
-  * Topic: Add write functionality to [uproot](https://github.com/scikit-hep/uproot)  [proposal](downloads/2018-diana-fellow-proposal-pratyush-das.pdf)
+  * Topic: Add write functionality to [uproot](https://github.com/scikit-hep/uproot) - [proposal](pages/downloads/2018-diana-fellow-proposal-pratyush-das.pdf)
   * Mentor: Jim Pivarski
   * Dates/Location: *summer, 2018 (FNAL)*
 
-#### Himadri Pandey
-  * Topic:   [proposal](), [final report]()
-  * Mentor: 
-  * Dates/Location:
+#### Himadri Pandey [Undergrad]
+  * Topic: Development of Machine Learning Algorithms and Software Implementations for Recon- structing Straight Line Trajectories - [proposal](pages/downloads/2017-diana-fellow-proposal-himadri-pandey.pdf), [final report]()
+  * Mentor: Mike Williams
+  * Dates/Location: Jan-Mar, 2018 
 
 #### Juan Baptista 
-  * Topic:   [proposal](), [final report]()
+  * Topic:  - [proposal](), [final report]()
   * Dates/Location:
 
-#### Matthew Feickert
-  * Topic: Investigation of use of Tensorflow/Theano for realistic physics statistics models  [proposal](downloads/2017-diana-fellow-proposal-matthew-feickert.pdf), [final report]()
+#### Matthew Feickert, Southern Methodist University
+  * Topic: Investigation of use of Tensorflow/Theano for realistic physics statistics models - [proposal](pages/downloads/2017-diana-fellow-proposal-matthew-feickert.pdf), [final report]()
   * Mentor: Gilles Louppe/Vincent Croft
   * Dates/Location:
 
-#### Meghan Frate
-  * Topic:   [proposal](), [final report]()
-  * Mentor: 
-  * Dates/Location:
+#### Meghan Frate, University of California - Irvine [Grad]
+  * Topic: Software to allow application of Gaussian Processes to HEP problems - [proposal](pages/downloads/2017-diana-fellow-proposal-meghan-frate.pdf), [final report]()
+  * Mentor: Kyle Cranmer
+  * Dates/Location: Mar-Apr, 2017
 
 #### Andrew Carnes
-  * Topic:   [proposal](), [final report]()
+  * Topic:  - [proposal](), [final report]()
   * Mentor: 
   * Dates/Location:
 
