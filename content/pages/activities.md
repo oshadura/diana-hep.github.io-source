@@ -85,6 +85,8 @@ Participation in the GSoC 2017 program.
 
   * 26 Feb 2018 - [APPAVO - Augmented tools for Particle Physics Analysis, Visualisation and Outreach](https://indico.cern.ch/event/702570/contributions/2905377/attachments/1606585/2549393/2018-02-26_CERNSoftRandD_EduardoRodrigues.pdf), Eduardo Rodrigues - [CERN EP Department Software R&D Second Lightning Talks Session](https://indico.cern.ch/event/702570/)
 
+  * 12 Feb 2018 - [GooFit Python bindings](https://indico.cern.ch/event/699424/contributions/2868678/attachments/1599216/2534704/Himadri.pdf), Himadri Pandey, [DIANA Meeting](https://indico.cern.ch/event/699424/)
+
   * 5 Feb 2018 - [Activities in Data Analysis](https://indico.cern.ch/event/702591/contributions/2881721/attachments/1594686/2525180/pivarski-data-analysis.pdf), Jim Pivarski - [CMS Offline/Computing R&D](https://indico.cern.ch/event/702591/)
 
   * 16 Nov 2017 - [Data Management with Columnwise Stores](https://indico.cern.ch/event/669506/contributions/2782226/attachments/1558579/2452285/pivarski-columnwise.pdf), Jim Pivarski - [Workshop on Data Organisation, Management and Access (DOMA) in Astronomy, Genomics and High Energy Physics](https://indico.cern.ch/event/669506/)
