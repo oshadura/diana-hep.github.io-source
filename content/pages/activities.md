@@ -89,7 +89,7 @@ Participation in the GSoC 2017 program.
 
   * 5 Feb 2018 - [Activities in Data Analysis](https://indico.cern.ch/event/702591/contributions/2881721/attachments/1594686/2525180/pivarski-data-analysis.pdf), Jim Pivarski - [CMS Offline/Computing R&D](https://indico.cern.ch/event/702591/)
 
-  * 11 Dec 2017 - Updates on ROOT Modularization Project[](https://indico.cern.ch/event/685802/contributions/2813025/attachments/1573364/2483476/ROOT-Modularization_dianapresentation.pdf), Oksana Shadura, [DIANA Meeting](https://indico.cern.ch/event/685802/)
+  * 11 Dec 2017 - [Updates on ROOT Modularization Project](https://indico.cern.ch/event/685802/contributions/2813025/attachments/1573364/2483476/ROOT-Modularization_dianapresentation.pdf), Oksana Shadura, [DIANA Meeting](https://indico.cern.ch/event/685802/)
 
   * 16 Nov 2017 - [Data Management with Columnwise Stores](https://indico.cern.ch/event/669506/contributions/2782226/attachments/1558579/2452285/pivarski-columnwise.pdf), Jim Pivarski - [Workshop on Data Organisation, Management and Access (DOMA) in Astronomy, Genomics and High Energy Physics](https://indico.cern.ch/event/669506/)
 
