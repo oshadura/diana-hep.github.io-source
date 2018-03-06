@@ -83,25 +83,27 @@ Participation in the GSoC 2017 program.
 
 ### Presentations by the DIANA team
 
-  * 26 Feb 2018 - [APPAVO - Augmented tools for Particle Physics Analysis, Visualisation and Outreach](https://indico.cern.ch/event/702570/contributions/2905377/attachments/1606585/2549393/2018-02-26_CERNSoftRandD_EduardoRodrigues.pdf), Eduardo Rodrigues - [CERN EP Department Software R&D Second Lightning Talks Session](https://indico.cern.ch/event/702570/)
+  * 28 Feb 2018 - [Uproot: rapidly moving data from ROOT to Numpy and Pandas](https://indico.cern.ch/event/686641/contributions/2894906/attachments/1606247/2548596/pivarski-uproot.pdf), Jim Pivarski, [IML Meeting](https://indico.cern.ch/event/686641/)
 
-  * 21 Feb 2018 - [Enhance TTreeCache defaults](https://indico.fnal.gov/event/16264/contribution/5/material/slides/0.pdf), Brian Bockelman - [ROOT I/O Workshop, Early Spring 2018](https://indico.fnal.gov/event/16264/)
+  * 26 Feb 2018 - [APPAVO - Augmented tools for Particle Physics Analysis, Visualisation and Outreach](https://indico.cern.ch/event/702570/contributions/2905377/attachments/1606585/2549393/2018-02-26_CERNSoftRandD_EduardoRodrigues.pdf), Eduardo Rodrigues, [CERN EP Department Software R&D Second Lightning Talks Session](https://indico.cern.ch/event/702570/)
 
-  * 21 Feb 2018 - [LZ4, ZStd updates](https://indico.fnal.gov/event/16264/contribution/8/material/slides/0.pdf), Oksana Shadura - [ROOT I/O Workshop, Early Spring 2018](https://indico.fnal.gov/event/16264/)
+  * 21 Feb 2018 - [Enhance TTreeCache defaults](https://indico.fnal.gov/event/16264/contribution/5/material/slides/0.pdf), Brian Bockelman, [ROOT I/O Workshop, Early Spring 2018](https://indico.fnal.gov/event/16264/)
 
-  * 21 Feb 2018 - [Parquet Data Format Performance](https://indico.fnal.gov/event/16264/contribution/1/material/slides/0.pdf), Jim Pivarski - [ROOT I/O Workshop, Early Spring 2018](https://indico.fnal.gov/event/16264/)
+  * 21 Feb 2018 - [LZ4, ZStd updates](https://indico.fnal.gov/event/16264/contribution/8/material/slides/0.pdf), Oksana Shadura, [ROOT I/O Workshop, Early Spring 2018](https://indico.fnal.gov/event/16264/)
+
+  * 21 Feb 2018 - [Parquet Data Format Performance](https://indico.fnal.gov/event/16264/contribution/1/material/slides/0.pdf), Jim Pivarski, [ROOT I/O Workshop, Early Spring 2018](https://indico.fnal.gov/event/16264/)
 
   * 12 Feb 2018 - [GooFit Python bindings](https://indico.cern.ch/event/699424/contributions/2868678/attachments/1599216/2534704/Himadri.pdf), Himadri Pandey, [DIANA Meeting](https://indico.cern.ch/event/699424/)
 
-  * 5 Feb 2018 - [Activities in Data Analysis](https://indico.cern.ch/event/702591/contributions/2881721/attachments/1594686/2525180/pivarski-data-analysis.pdf), Jim Pivarski - [CMS Offline/Computing R&D](https://indico.cern.ch/event/702591/)
+  * 5 Feb 2018 - [Activities in Data Analysis](https://indico.cern.ch/event/702591/contributions/2881721/attachments/1594686/2525180/pivarski-data-analysis.pdf), Jim Pivarski, [CMS Offline/Computing R&D](https://indico.cern.ch/event/702591/)
 
   * 11 Dec 2017 - [Updates on ROOT Modularization Project](https://indico.cern.ch/event/685802/contributions/2813025/attachments/1573364/2483476/ROOT-Modularization_dianapresentation.pdf), Oksana Shadura, [DIANA Meeting](https://indico.cern.ch/event/685802/)
 
-  * 16 Nov 2017 - [Data Management with Columnwise Stores](https://indico.cern.ch/event/669506/contributions/2782226/attachments/1558579/2452285/pivarski-columnwise.pdf), Jim Pivarski - [Workshop on Data Organisation, Management and Access (DOMA) in Astronomy, Genomics and High Energy Physics](https://indico.cern.ch/event/669506/)
+  * 16 Nov 2017 - [Data Management with Columnwise Stores](https://indico.cern.ch/event/669506/contributions/2782226/attachments/1558579/2452285/pivarski-columnwise.pdf), Jim Pivarski, [Workshop on Data Organisation, Management and Access (DOMA) in Astronomy, Genomics and High Energy Physics](https://indico.cern.ch/event/669506/)
 
   * 13 Nov 2017 - [Unfolding in python](https://indico.cern.ch/event/671301/contributions/2746138/attachments/1557523/2450157/UnfoldingInPython.pdf), Vincent Croft, [DIANA Meeting](https://indico.cern.ch/event/671301/)
 
-  * 25 Oct 2017 - [Bridging the Particle Physics and Big Data Worlds](../downloads/pivarski-aps-nuclear-2017.pdf) \[ [talk abstract](http://meetings.aps.org/Meeting/DNP17/Session/1WA.7) \], Jim Pivarski - [APS Division of Nuclear Physics 2017](https://www.cmu.edu/dnp2017/)
+  * 25 Oct 2017 - [Bridging the Particle Physics and Big Data Worlds](../downloads/pivarski-aps-nuclear-2017.pdf) \[ [talk abstract](http://meetings.aps.org/Meeting/DNP17/Session/1WA.7) \], Jim Pivarski, [APS Division of Nuclear Physics 2017](https://www.cmu.edu/dnp2017/)
 
   * 11 Oct 2017 - [In-memory file merging](https://indico.fnal.gov/event/15154/contribution/11/material/slides/0.pdf), Vassil Vassilev, Oksana Shadura [ROOT I/O Workshop](https://indico.fnal.gov/event/15154/)
 
