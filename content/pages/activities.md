@@ -83,9 +83,9 @@ Participation in the GSoC 2017 program.
 
 ### Presentations by the DIANA team
 
-  * 29 Mar 2018 - [Summary of Programming for Concurrency and Co-Processors](https://indico.cern.ch/event/658060/contributions/2940562/attachments/1624592/2586582/pivarski-concurrency-summary.pdf), Jim Pivarski, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+  * 29 Mar 2018 - [Summary of Programming for Concurrency and Co-Processors](https://indico.cern.ch/event/658060/contributions/2940562/attachments/1624592/2586582/pivarski-concurrency-summary.pdf), Jim Pivarski (with Vincenzo Innocente), [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
 
-  * 29 Mar 2018 - [Summary of Analysis Facilities and Use Cases](https://indico.cern.ch/event/658060/contributions/2940565/attachments/1625105/2587664/2018-03-29_WLCG-HSFWorkshopNaples.pdf), Eduardo Rodrigues, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+  * 29 Mar 2018 - [Summary of Analysis Facilities and Use Cases](https://indico.cern.ch/event/658060/contributions/2940565/attachments/1625105/2587664/2018-03-29_WLCG-HSFWorkshopNaples.pdf), Eduardo Rodrigues (with Oliver Gutsche), [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
 
   * 28 Mar 2018 - [Overview of Serialization Technologies](https://indico.cern.ch/event/658060/contributions/2898569/attachments/1622526/2582399/pivarski-serialization.pdf), Jim Pivarski, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
 
