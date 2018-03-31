@@ -83,6 +83,18 @@ Participation in the GSoC 2017 program.
 
 ### Presentations by the DIANA team
 
+  * 29 Mar 2018 - [Summary of Programming for Concurrency and Co-Processors](https://indico.cern.ch/event/658060/contributions/2940562/attachments/1624592/2586582/pivarski-concurrency-summary.pdf), Jim Pivarski, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+
+  * 29 Mar 2018 - [Summary of Analysis Facilities and Use Cases](https://indico.cern.ch/event/658060/contributions/2940565/attachments/1625105/2587664/2018-03-29_WLCG-HSFWorkshopNaples.pdf), Eduardo Rodrigues, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+
+  * 28 Mar 2018 - [Overview of Serialization Technologies](https://indico.cern.ch/event/658060/contributions/2898569/attachments/1622526/2582399/pivarski-serialization.pdf), Jim Pivarski, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+
+  * 28 Mar 2018 - [Becoming Mainstream](https://indico.cern.ch/event/658060/contributions/2918129/attachments/1624548/2586477/2018-03-28_WLCG-HSFWorkshopNaples.pdf), Eduardo Rodrigues, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+
+  * 27 Mar 2018 - [Spark-like and query-like analysis systems and tools](https://indico.cern.ch/event/658060/contributions/2889117/attachments/1621961/2581100/pivarski-querylike.pdf), Jim Pivarski, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+
+  * 26 Mar 2018 - [CWP Roadmap](https://indico.cern.ch/event/658060/contributions/2876976/attachments/1622751/2582923/2018-03-26_WLCG-HSFWorkshopNaples.pdf), Eduardo Rodrigues, [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
+
   * 28 Feb 2018 - [Uproot: rapidly moving data from ROOT to Numpy and Pandas](https://indico.cern.ch/event/686641/contributions/2894906/attachments/1606247/2548596/pivarski-uproot.pdf), Jim Pivarski, [IML Meeting](https://indico.cern.ch/event/686641/)
 
   * 26 Feb 2018 - [APPAVO - Augmented tools for Particle Physics Analysis, Visualisation and Outreach](https://indico.cern.ch/event/702570/contributions/2905377/attachments/1606585/2549393/2018-02-26_CERNSoftRandD_EduardoRodrigues.pdf), Eduardo Rodrigues, [CERN EP Department Software R&D Second Lightning Talks Session](https://indico.cern.ch/event/702570/)
