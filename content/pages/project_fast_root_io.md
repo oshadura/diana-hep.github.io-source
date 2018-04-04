@@ -16,7 +16,23 @@ the ROOT libraries will utilize multiple threads to for reading data.
 This mode does _not_ change the APIs or allow the user to invoke the ROOT libraries from multiple threads in general
 (hence the name _implicit_ multithreading).
 
-We are working to expand the IMT mode to cover a large fraction of the ROOT IO API.
+We are working to expand the IMT mode to cover a large fraction of the ROOT IO API. We implemented parallel unzipping with Intel Thread Building Block(TBB) and this feature can be enabled with IMT mode. We tested performance of parallel unzipping with both synthetic ROOT file and real HEP ROOT file. Our experiements were conducted on a desktop-class machine with 4-core Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz without hyperthreading and OS was Ubuntu 14.04.
+
+In Figure 1, we test decompression speed on synthetic event benchmarks. We create ROOT files with 500 - 50,000 events. The performance is measured by sequentially reading all events. The figure shows the average runtime per event.
+
+<p align="center">
+  <img src="../images/project_fast_root_io/unzippingevent.png" height="50%" width="50%">
+  <br><b>Figure 1. Performance between Serial and Parallel Unzipping on Event Benchmark</b><br>
+</p>
+
+As background threads can decompress data prior to the main thread accessing it, As shown in Figure 1, parallel unzipping improves read performance with more noticeable improvements at higher event counts. Parallel unzipping takes 52% - 58% processing time of serial unzipping. These synchronization techniques  require CPU cycles; this technique takes 8% - 13% more CPU cycles.
+
+We also test parallel unzipping on a ROOT file from HEP public data (B2HHH.root compressed with zlib at compression level 6) which contains 25 branches and 8,556,118 entries. Figure 2 illustrates the performance improvement. Parallel unzipping takes 66% of serial unzipping in real time at the cost of 12% increase in CPU time.
+
+<p align="center">
+  <img src="../images/project_fast_root_io/unzippingroot.png" height="35%" width="35%">
+  <br><b>Figure 2. Performance between Serial and Parallel Unzipping on B2HHH.root </b><br>
+</p>
 
 ### Bulk API
 
