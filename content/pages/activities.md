@@ -37,7 +37,7 @@ Summary: DIANA Activities
    * [A Roadmap for HEP Software and Computing R&D for the  2020s](https://arxiv.org/abs/1712.06982) - Brian Bockelman, Kyle Cranmer, Peter Elmer, Lukas Heinrich, David Lange, Eduardo Rodrigues, Michael D Sokoloff *in* Antonio Augusto Alves Jr *et al*.
    [arXiv:1712.06982](https://arxiv.org/abs/1712.06982)
 
-   * [Increasing Parallelism in the ROOT I/O subsystem](https://indico.cern.ch/event/567550/contributions/2627169/attachments/1512748/2359630/Increasing_Parallelism_in_the_ROOT_IO_subsystem.pdf) - Guilherme Amadio, Brian Bockelman, Philippe Canal, Danilo Piparo, Enric Tejedor, Zhe Zhang, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) 
+   * [Increasing Parallelism in the ROOT I/O subsystem](https://arxiv.org/abs/1804.03326) - Guilherme Amadio, Brian Bockelman, Philippe Canal, Danilo Piparo, Enric Tejedor, Zhe Zhang, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1804.03326](https://arxiv.org/abs/1804.03326)
 
    * [Optimizing ROOT IO For Analysis](https://arxiv.org/abs/1711.02659) - Brian Bockelman, Zhe Zhang, Jim Pivarski, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.02659](https://arxiv.org/abs/1711.02659)
 
