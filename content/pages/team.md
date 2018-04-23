@@ -51,7 +51,7 @@ Summary: DIANA Team
 
   * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, [Alex Pearce](http://alexpearce.me/) - CERN, [Brian Pollack](https://github.com/brovercleveland) - Northwestern University, [Nils Braun](https://github.com/nils-braun) - Karlsruhe Institute of Technology
 
-  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa, [Pratyush Das](https://github.com/reikdas) - Institute of Engineering and Management
+  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - CERN OpenLab, [Pratyush Das](https://github.com/reikdas) - Institute of Engineering and Management
 
   * [uproot](https://github.com/scikit-hep/uproot): [Pratyush Das](https://github.com/reikdas) - Institute of Engineering and Management
 
