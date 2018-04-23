@@ -48,13 +48,13 @@ Summary: DIANA Team
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
   
   * [CMS Big Data Project](https://cms-big-data.github.io): [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab
-  
-  * [Histogrammar](http://histogrammar.org/): [Alexey Svyatkovskiy](https://github.com/ASvyatkovskiy) - Princeton University
-  
+
   * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, [Alex Pearce](http://alexpearce.me/) - CERN, [Brian Pollack](https://github.com/brovercleveland) - Northwestern University, [Nils Braun](https://github.com/nils-braun) - Karlsruhe Institute of Technology
 
-  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa, Pratyush Das - Institute of Engineering and Management
-    
+  * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - University of Iowa, [Pratyush Das](https://github.com/reikdas) - Institute of Engineering and Management
+
+  * [uproot](https://github.com/scikit-hep/uproot): [Pratyush Das](https://github.com/reikdas) - Institute of Engineering and Management
+
   * Query server project: [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab
 
   * Database-style indexing for queries: [Tanu Malik](http://www.cdm.depaul.edu/about/Pages/People/facultyinfo.aspx?fid=1328) - DePaul
