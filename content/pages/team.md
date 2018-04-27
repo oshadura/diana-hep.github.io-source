@@ -17,7 +17,7 @@ Summary: DIANA Team
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
-  * [Vince Croft](https://www.nikhef.nl/~vcroft/index.html) - New York University, Department of Physics 
+  * [Vince Croft](https://www.nikhef.nl/~vcroft/index.html) - New York University, Department of Physics
 
   * Lukas Heinrich - New York University, Department of Physics (Ph.D. Student)
 
@@ -46,10 +46,10 @@ Summary: DIANA Team
 ### Collaborators
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
-  
+
   * [CMS Big Data Project](https://cms-big-data.github.io): [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab
 
-  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Vanya Belyaev](https://www.linkedin.com/in/ivan-aka-vanya-belyaev-1910871) - ITEP, [Alex Pearce](http://alexpearce.me/) - CERN, [Brian Pollack](https://github.com/brovercleveland) - Northwestern University, [Nils Braun](https://github.com/nils-braun) - Karlsruhe Institute of Technology
+  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Alex Pearce](http://alexpearce.me/) - CERN, [Brian Pollack](https://github.com/brovercleveland) - Northwestern University, [Nils Braun](https://github.com/nils-braun) - Karlsruhe Institute of Technology,  [ Matthieu Marinangeli](https://github.com/marinang) - Institute of Physics, EPFL, Lausanne, Switzerland, [Chris Burr](https://github.com/chrisburr) - University of Manchester
 
   * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - CERN OpenLab, [Pratyush Das](https://github.com/reikdas) - Institute of Engineering and Management
 
