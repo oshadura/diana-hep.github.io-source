@@ -28,6 +28,9 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
+* [HEP Community White Paper on Data analysis and interpretation](https://arxiv.org/abs/1804.03983) - Brian Bockelman, Kyle Cranmer, Peter Elmer, David Lange, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* Lothar Bauerdick *et al*.
+[arXiv:1804.03983](https://arxiv.org/abs/1804.03983)
+
    * [HEP Community White Paper on Software trigger and event reconstruction: Executive Summary](https://arxiv.org/abs/1802.08640) - David Lange, Eduardo Rodrigues, Michael D Sokoloff *in* Johannes Albrecht *et al*.
    [arXiv:1802.08640](https://arxiv.org/abs/1802.08640)
 
