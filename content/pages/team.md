@@ -19,9 +19,8 @@ Summary: DIANA Team
 
   * [Vince Croft](https://www.nikhef.nl/~vcroft/index.html) - New York University, Department of Physics
 
-  * Lukas Heinrich - New York University, Department of Physics (Ph.D. Student)
+  * [Lukas Heinrich](http://www.lukasheinrich.com/) - New York University, Department of Physics (Ph.D. Student)
 
-  * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
 
   * [David Lange](http://cern.ch/David.Lange) - Princeton University, Department of Physics
 
@@ -35,6 +34,8 @@ Summary: DIANA Team
 
 ### Associated team members
 
+  * [Johann Brehmer](http://www.ccpp.nyu.edu/Johann_Brehmer.html) - New York University 
+
   * [Vassil Vassilev](https://github.com/vgvassilev/) - Princeton University & [ROOT Intel Parallel Computing Center](https://ipcc-root.github.io)
 
 ### Former team members
@@ -43,9 +44,14 @@ Summary: DIANA Team
 
   * [Gilles Louppe](https://glouppe.github.io/) - University of Liege (formerly New York University)
 
+  * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
+
+
 ### Collaborators
 
   * [The ROOT team](https://root.cern.ch/team) at [CERN](http://home.cern) and [Fermilab](http://www.fnal.gov)
+
+  * CERN IT [Reana](https://github.com/reanahub)  team & [CERN Analysis Preservation](https://github.com/cernanalysispreservation) team
 
   * [CMS Big Data Project](https://cms-big-data.github.io): [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab
 
