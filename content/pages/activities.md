@@ -34,14 +34,13 @@ Summary: DIANA Activities
 
 ### Papers / Documents
 
-  * [Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244). 
-By Johann Brehmer, Gilles Louppe, Juan Pavez, Kyle Cranmer. [arXiv:1805.12244](https://arxiv.org/abs/1805.12244) [stat.ML].
+  * [Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244) - Johann Brehmer, Gilles Louppe, Juan Pavez, Kyle Cranmer. [arXiv:1805.12244](https://arxiv.org/abs/1805.12244) [stat.ML].
 
    * [A Guide to Constraining Effective Field Theories with Machine Learning](http://arxiv.org/abs/arXiv:1805.00020) - Johann Brehmer, Kyle Cranmer, Gilles Louppe, Juan Pavez. [arXiv:1805.00020](http://arxiv.org/abs/arXiv:1805.00020) [hep-ph].
 
    * [Constraining Effective Field Theories with Machine Learning](http://arxiv.org/abs/arXiv:1805.00013) - Johann Brehmer, Kyle Cranmer, Gilles Louppe, Juan Pavez. [arXiv:1805.00013](http://arxiv.org/abs/arXiv:1805.00013) [hep-ph].
 
-  * [HEP Community White Paper on Data analysis and interpretation](https://arxiv.org/abs/1804.03983) - Brian Bockelman, Kyle Cranmer, Peter Elmer, David Lange, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* Lothar Bauerdick *et al*. [arXiv:1804.03983](https://arxiv.org/abs/1804.03983)
+   * [HEP Community White Paper on Data analysis and interpretation](https://arxiv.org/abs/1804.03983) - Brian Bockelman, Kyle Cranmer, Peter Elmer, David Lange, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* Lothar Bauerdick *et al*. [arXiv:1804.03983](https://arxiv.org/abs/1804.03983)
 
    * [HEP Community White Paper on Software trigger and event reconstruction: Executive Summary](https://arxiv.org/abs/1802.08640) - David Lange, Eduardo Rodrigues, Michael D Sokoloff *in* Johannes Albrecht *et al*.
    [arXiv:1802.08640](https://arxiv.org/abs/1802.08640)
@@ -68,8 +67,7 @@ By Johann Brehmer, Gilles Louppe, Juan Pavez, Kyle Cranmer. [arXiv:1805.12244](h
 
    * [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) - Gilles Louppe and Kyle Cranmer [arXiv:1703.07113](https://arxiv.org/abs/1707.07113) | [source and code](https://github.com/glouppe/paper-avo)
 
-   * [Yadage and Packtivity - analysis preservation using parametrized workflows](http://arxiv.org/abs/arXiv:1706.01878) - Kyle Cranmer, Lukas Heinrich. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)
-[arXiv:1706.01878 [physics.data-an]]. [DOI: 10.1088/1742-6596/898/10/102019](https://doi.org/10.1088/1742-6596/898/10/102019). J.Phys.Conf.Ser. 898 (2017) no.10, 102019.
+   * [Yadage and Packtivity - analysis preservation using parametrized workflows](http://arxiv.org/abs/arXiv:1706.01878) - Kyle Cranmer, Lukas Heinrich. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1706.01878](http://arxiv.org/abs/arXiv:1706.01878) [physics.data-an]. [DOI: 10.1088/1742-6596/898/10/102019](https://doi.org/10.1088/1742-6596/898/10/102019). J.Phys.Conf.Ser. 898 (2017) no.10, 102019.
 
    * [HEPData: a repository for high energy physics data](http://iopscience.iop.org/article/10.1088/1742-6596/898/10/102006/meta) - Eamonn Maguire, Lukas Heinrich, Graeme Watt. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1704.05473](http://arxiv.org/abs/arXiv:1704.05473)
 
