@@ -13,23 +13,35 @@ Summary: DIANA Activities
 
    * Histogrammar: a multilingual specification for histogram aggregation with implementations in Python and Scala - [docs](http://histogrammar.org), [GitHub](https://github.com/histogrammar)
 
+   * Histbook: a versatile, high-performance histogram toolkit for Numpy - [docs](http://histbook.readthedocs.io/en/latest/), [GitHub](https://github.com/diana-hep/histbook)
+
    * uproot: pure Python implementation of ROOT I/O - [GitHub](https://github.com/scikit-hep/uproot)
 
    * OAMap: tools for handling hierarchically nested data as arrays with an Object Array Map - [GitHub](https://github.com/diana-hep/oamap)
+
+   * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
+
+### Partner Projects
 
    * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep)) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043950.svg)](http://doi.org/10.5281/zenodo.1043950)
 
    * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
 
-   * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
+   * REANA: a system that permits to instantiate research data analyses on the cloud. [website](http://www.reanahub.io/) [docs]( https://reana.readthedocs.io/en/latest/?badge=latest) [code](https://github.com/reanahub)
 
-   * REANA: a system that permits to instantiate research data analyses on the cloud. [docs]( https://reana.readthedocs.io/en/latest/?badge=latest) [code](https://github.com/reanahub)
+   * RooFit / RooStats:  [workbook](http://roostatsworkbook.readthedocs.io/en/latest/)
 
 
 ### Papers / Documents
 
-* [HEP Community White Paper on Data analysis and interpretation](https://arxiv.org/abs/1804.03983) - Brian Bockelman, Kyle Cranmer, Peter Elmer, David Lange, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* Lothar Bauerdick *et al*.
-[arXiv:1804.03983](https://arxiv.org/abs/1804.03983)
+  * [Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244). 
+By Johann Brehmer, Gilles Louppe, Juan Pavez, Kyle Cranmer. [arXiv:1805.12244](https://arxiv.org/abs/1805.12244) [stat.ML].
+
+   * [A Guide to Constraining Effective Field Theories with Machine Learning](http://arxiv.org/abs/arXiv:1805.00020) - Johann Brehmer, Kyle Cranmer, Gilles Louppe, Juan Pavez. [arXiv:1805.00020](http://arxiv.org/abs/arXiv:1805.00020) [hep-ph].
+
+   * [Constraining Effective Field Theories with Machine Learning](http://arxiv.org/abs/arXiv:1805.00013) - Johann Brehmer, Kyle Cranmer, Gilles Louppe, Juan Pavez. [arXiv:1805.00013](http://arxiv.org/abs/arXiv:1805.00013) [hep-ph].
+
+  * [HEP Community White Paper on Data analysis and interpretation](https://arxiv.org/abs/1804.03983) - Brian Bockelman, Kyle Cranmer, Peter Elmer, David Lange, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* Lothar Bauerdick *et al*. [arXiv:1804.03983](https://arxiv.org/abs/1804.03983)
 
    * [HEP Community White Paper on Software trigger and event reconstruction: Executive Summary](https://arxiv.org/abs/1802.08640) - David Lange, Eduardo Rodrigues, Michael D Sokoloff *in* Johannes Albrecht *et al*.
    [arXiv:1802.08640](https://arxiv.org/abs/1802.08640)
@@ -42,15 +54,22 @@ Summary: DIANA Activities
 
    * [Increasing Parallelism in the ROOT I/O subsystem](https://arxiv.org/abs/1804.03326) - Guilherme Amadio, Brian Bockelman, Philippe Canal, Danilo Piparo, Enric Tejedor, Zhe Zhang, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1804.03326](https://arxiv.org/abs/1804.03326)
 
+   * [Improvements to Inference Compilation for Probabilistic Programming in Large-Scale Scientific Simulators](http://arxiv.org/abs/arXiv:1712.07901) - By Mario Lezcano Casado *et al.* [arXiv:1712.07901](http://arxiv.org/abs/arXiv:1712.07901) [cs.AI].
+
    * [Optimizing ROOT IO For Analysis](https://arxiv.org/abs/1711.02659) - Brian Bockelman, Zhe Zhang, Jim Pivarski, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.02659](https://arxiv.org/abs/1711.02659)
 
    * [Toward real-time data query systems in HEP](https://arxiv.org/abs/1711.01229) - Jim Pivarski, David Lange, Thanat Jatuphattharachat, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1711.01229](https://arxiv.org/abs/1711.01229)
 
    * [CMS Analysis and Data Reduction with Apache Spark](https://arxiv.org/abs/1711.00375) - Oliver Gutsche, Luca Canali, Illia Cremer, Matteo Cremonesi, Peter Elmer, Ian Fisk, Maria Girone, Bo Jayatilaka, Jim Kowalkowski, Viktor Khristenko, Evangelos Motesnitsalis, Jim Pivarski, Saba Sehrish, Kacper Surdy, Alexey Svyatkovskiy, submitted to Proceedings of [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (Seattle) [arXiv:1708.08319](https://arxiv.org/abs/1711.00375)
 
+   * [Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](http://arxiv.org/abs/arXiv:1709.05681) -Meghan Frate, Kyle Cranmer, Saarik Kalia, Alexander Vandenberg-Rodes, Daniel Whiteson. [arXiv:1709.05681](http://arxiv.org/abs/arXiv:1709.05681) [physics.data-an].
+
    * [Fast Access to Columnar, Hierarchical Data via Code Transformation](https://arxiv.org/abs/1708.08319) - Jim Pivarski, Peter Elmer, Brian Bockelman, and Zhe Zhang. Submitted to [IEEE Big Data 2017](http://cci.drexel.edu/bigdata/bigdata2017/index.html) (Boston) [arXiv:1708.08319](https://arxiv.org/abs/1708.08319)
 
    * [Adversarial Variational Optimization of Non-Differentiable Simulators](https://arxiv.org/abs/1707.07113) - Gilles Louppe and Kyle Cranmer [arXiv:1703.07113](https://arxiv.org/abs/1707.07113) | [source and code](https://github.com/glouppe/paper-avo)
+
+   * [Yadage and Packtivity - analysis preservation using parametrized workflows](http://arxiv.org/abs/arXiv:1706.01878) - Kyle Cranmer, Lukas Heinrich. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)
+[arXiv:1706.01878 [physics.data-an]]. [DOI: 10.1088/1742-6596/898/10/102019](https://doi.org/10.1088/1742-6596/898/10/102019). J.Phys.Conf.Ser. 898 (2017) no.10, 102019.
 
    * [HEPData: a repository for high energy physics data](http://iopscience.iop.org/article/10.1088/1742-6596/898/10/102006/meta) - Eamonn Maguire, Lukas Heinrich, Graeme Watt. Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1704.05473](http://arxiv.org/abs/arXiv:1704.05473)
 
@@ -61,6 +80,9 @@ Summary: DIANA Activities
    * [Big Data in HEP: A comprehensive use case study](http://iopscience.iop.org/article/10.1088/1742-6596/898/7/072012/meta) - O.Gutsche, M.Cremonesi, P.Elmer, B.Jayatilaka, J.Kowalkowski, J.Pivarski, S.Sehrish, C.Mantilla Surez, A.Svyatkovskiy, N.Tran; Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco) [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
 
    * [Analysis Preservation and Reinterpretation](https://indico.cern.ch/event/505613/contributions/2227701/), Lukas Heinrich Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)
+
+   * [Better Higgs boson measurements through information geometry](http://arxiv.org/abs/arXiv:1612.05261) - Johann Brehmer, Kyle Cranmer, Felix Kling, Tilman Plehn. [arXiv:1612.05261](http://arxiv.org/abs/arXiv:1612.05261) [hep-ph].
+[DOI: 10.1103/PhysRevD.95.073002](https://doi.org/10.1103/PhysRevD.95.073002). Phys.Rev. D95 (2017) no.7, 073002. 
 
    * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046) - G.Louppe, M.Kagan, K.Cranmer [arXiv:1611.01046](https://arxiv.org/abs/1611.01046)
 
@@ -87,6 +109,8 @@ Participation in the GSoC 2017 program.
   The DIANA team organizes periodic meetings on various topics of interest, with both invited external speakers and DIANA team contributions. These and other DIANA meetings can be found in the [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/). Videos of these meetings are published in [YouTube](https://www.youtube.com/channel/UCzFnto-EbPAfERLr0AZb58g).
 
 ### Presentations by the DIANA team
+
+  * 4 June 2018 - [RNNs and Beyond](https://indico.cern.ch/event/722319/contributions/3001310/attachments/1661268/2661638/IML-Sequence.pdf), Kyle Cranmer [IML Working Group](https://indico.cern.ch/event/722319/)
 
   * 29 Mar 2018 - [Summary of Programming for Concurrency and Co-Processors](https://indico.cern.ch/event/658060/contributions/2940562/attachments/1624592/2586582/pivarski-concurrency-summary.pdf), Jim Pivarski (with Vincenzo Innocente), [Joint WLCG/HSF Workshop 2018](https://indico.cern.ch/event/658060/)
 
