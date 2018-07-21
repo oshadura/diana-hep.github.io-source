@@ -13,7 +13,7 @@ Summary: DIANA Activities
 
    * Histogrammar: a multilingual specification for histogram aggregation with implementations in Python and Scala - [docs](http://histogrammar.org), [GitHub](https://github.com/histogrammar)
 
-   * Histbook: a versatile, high-performance histogram toolkit for Numpy - [docs](http://histbook.readthedocs.io/en/latest/), [GitHub](https://github.com/diana-hep/histbook)
+   * Histbook: a versatile, high-performance histogram toolkit for Numpy - [docs](http://histbook.readthedocs.io/en/latest/), [GitHub](https://github.com/scikit-hep/histbook)
 
    * uproot: pure Python implementation of ROOT I/O - [GitHub](https://github.com/scikit-hep/uproot)
 
