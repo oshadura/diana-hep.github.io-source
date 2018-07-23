@@ -13,7 +13,7 @@ Summary: DIANA Activities
 
    * Histogrammar: a multilingual specification for histogram aggregation with implementations in Python and Scala - [docs](http://histogrammar.org), [GitHub](https://github.com/histogrammar)
 
-   * Histbook: a versatile, high-performance histogram toolkit for Numpy - [docs](http://histbook.readthedocs.io/en/latest/), [GitHub](https://github.com/diana-hep/histbook)
+   * Histbook: a versatile, high-performance histogram toolkit for Numpy - [docs](http://histbook.readthedocs.io/en/latest/), [GitHub](https://github.com/scikit-hep/histbook)
 
    * uproot: pure Python implementation of ROOT I/O - [GitHub](https://github.com/scikit-hep/uproot)
 
@@ -33,6 +33,8 @@ Summary: DIANA Activities
 
 
 ### Papers / Documents
+
+  * [HEP Community White Paper on Machine Learning](http://arxiv.org/abs/1807.02876) - Kyle Cranmer, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* K. Albertsson *et al*. [arXiv:1807.02876](http://arxiv.org/abs/1807.02876)
 
   * [Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244) - Johann Brehmer, Gilles Louppe, Juan Pavez, Kyle Cranmer. [arXiv:1805.12244](https://arxiv.org/abs/1805.12244) [stat.ML].
 
@@ -80,7 +82,7 @@ Summary: DIANA Activities
    * [Analysis Preservation and Reinterpretation](https://indico.cern.ch/event/505613/contributions/2227701/), Lukas Heinrich Proceedings of the [22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)](http://chep2016.org/) (San Francisco)
 
    * [Better Higgs boson measurements through information geometry](http://arxiv.org/abs/arXiv:1612.05261) - Johann Brehmer, Kyle Cranmer, Felix Kling, Tilman Plehn. [arXiv:1612.05261](http://arxiv.org/abs/arXiv:1612.05261) [hep-ph].
-[DOI: 10.1103/PhysRevD.95.073002](https://doi.org/10.1103/PhysRevD.95.073002). Phys.Rev. D95 (2017) no.7, 073002. 
+[DOI: 10.1103/PhysRevD.95.073002](https://doi.org/10.1103/PhysRevD.95.073002). Phys.Rev. D95 (2017) no.7, 073002.
 
    * [Learning to Pivot with Adversarial Networks](http://arxiv.org/abs/arXiv:1611.01046) - G.Louppe, M.Kagan, K.Cranmer [arXiv:1611.01046](https://arxiv.org/abs/1611.01046)
 
@@ -107,6 +109,10 @@ Participation in the GSoC 2017 program.
   The DIANA team organizes periodic meetings on various topics of interest, with both invited external speakers and DIANA team contributions. These and other DIANA meetings can be found in the [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/). Videos of these meetings are published in [YouTube](https://www.youtube.com/channel/UCzFnto-EbPAfERLr0AZb58g).
 
 ### Presentations by the DIANA team
+
+  * 9 July 2018 - [The Scikit-HEP project](https://indico.cern.ch/event/587955/contributions/2937549/attachments/1683232/2705316/2018-07-09_CHEP18Sofia_EduardoRodrigues.pdf), Eduardo Rodrigues, [CHEP 2018 Conference](http://chep2018.org/)
+
+  * 7 July 2018 - [Welcome and workshop overview](https://indico.cern.ch/event/694818/sessions/264931/attachments/1682138/2702860/PyHEP2018_EduardoRodrigues_intro.pdf), Eduardo Rodrigues, [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
 
   * 4 June 2018 - [RNNs and Beyond](https://indico.cern.ch/event/722319/contributions/3001310/attachments/1661268/2661638/IML-Sequence.pdf), Kyle Cranmer [IML Working Group](https://indico.cern.ch/event/722319/)
 
