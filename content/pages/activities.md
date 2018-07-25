@@ -110,6 +110,10 @@ Participation in the GSoC 2017 program.
 
 ### Presentations by the DIANA team
 
+  * 10 July 2018 - [Continuous Performance Benchmarking Framework for ROOT](https://indico.cern.ch/event/587955/contributions/2938012/attachments/1679360/2701631/continuous-performance-benchmarking-fin.pdf), Shadura Oksana, Brian Paul Bockelman, Vassil Vassilev, [CHEP 2018 Conference](http://chep2018.org/)
+
+  * 9 July 2018 - [Extending ROOT through Modules](https://indico.cern.ch/event/587955/contributions/2938018/attachments/1679543/2702873/Extending_ROOT_through_Modules-final.pdf), Shadura Oksana, Brian Paul Bockelman, Vassil Vassilev [CHEP 2018 Conference](http://chep2018.org/)
+
   * 9 July 2018 - [The Scikit-HEP project](https://indico.cern.ch/event/587955/contributions/2937549/attachments/1683232/2705316/2018-07-09_CHEP18Sofia_EduardoRodrigues.pdf), Eduardo Rodrigues, [CHEP 2018 Conference](http://chep2018.org/)
 
   * 7 July 2018 - [Welcome and workshop overview](https://indico.cern.ch/event/694818/sessions/264931/attachments/1682138/2702860/PyHEP2018_EduardoRodrigues_intro.pdf), Eduardo Rodrigues, [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
