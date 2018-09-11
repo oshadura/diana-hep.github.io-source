@@ -110,7 +110,21 @@ Participation in the GSoC 2017 program.
 
 ### Presentations by the DIANA team
 
-  * 10 July 2018 - [Continuous Performance Benchmarking Framework for ROOT](https://indico.cern.ch/event/587955/contributions/2938012/attachments/1679360/2701631/continuous-performance-benchmarking-fin.pdf), Shadura Oksana, Brian Paul Bockelman, Vassil Vassilev, [CHEP 2018 Conference](http://chep2018.org/)
+  * 12 Sep 2018 - [ROOT prompt usability features and the strict option](), Yuka Takahashi, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+
+  * 12 Sep 2018 - [Future of ROOT runtime C++ modules](), Yuka Takahashi, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+
+  * 12 Sep 2018 - [ROOT Package Manager](https://indico.cern.ch/event/697389/contributions/3062042/attachments/1712879/2762082/ROOTPM2.pdf), Oksana Shadura, Brian Bockleman, Vassil Vassilev, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+
+  * 11 Sep 2018 - [Interactive documentation for advanced statistical modelling with RooFit and RooStats](https://indico.cern.ch/event/697389/contributions/3102804/attachments/1713548/2763514/ROOTWorkshopVCroft.pptx), Vince Croft, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+
+  * 10 Sep 2018 - [Writing ROOT files with uproot](https://indico.cern.ch/event/697389/contributions/3102807/attachments/1713054/2762448/Writing_files_with_uproot.pdf), Pratyush Das, Jim Pivarski, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+
+  * 10 Sep 2018 - [ROOT I/O compression algorithms](https://indico.cern.ch/event/697389/contributions/3062030/attachments/1712625/2761569/ROOT_I_O_compression_algorithms1.pdf), Oksana Shadura, Brian Bockelman, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+
+  * 10 Sep 2018 - [Vectorized processing of nested data](https://indico.cern.ch/event/697389/contributions/3102772/attachments/1706294/2749432/pivarski-vectorized-nested.pdf), Jim Pivarski, Jaydeep Nandi, David Lange, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+
+  * 10 July 2018 - [Continuous Performance Benchmarking Framework for ROOT](https://indico.cern.ch/event/587955/contributions/2938012/attachments/1679360/2701631/continuous-performance-benchmarking-fin.pdf), Oksana Shadura, Brian Paul Bockelman, Vassil Vassilev, [CHEP 2018 Conference](http://chep2018.org/)
 
   * 9 July 2018 - [Extending ROOT through Modules](https://indico.cern.ch/event/587955/contributions/2938018/attachments/1679543/2702873/Extending_ROOT_through_Modules-final.pdf), Shadura Oksana, Brian Paul Bockelman, Vassil Vassilev [CHEP 2018 Conference](http://chep2018.org/)
 
