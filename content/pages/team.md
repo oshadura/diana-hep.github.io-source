@@ -30,6 +30,8 @@ Summary: DIANA Team
 
   * Oksana Shadura - University of Nebraska-Lincoln, Department of Computer Science and Engineering
 
+  * [Yuka Takahashi](https://yamaguchi1024.github.io) - Princeton University, Department of Physics
+
   * Zhe Zhang - University of Nebraska-Lincoln, Department of Computer Science and Engineering (Ph.D. Student)
 
 ### Associated team members
