@@ -114,7 +114,7 @@ Participation in the GSoC 2017 program.
 
   * 12 Sep 2018 - [Future of ROOT runtime C++ modules](https://indico.cern.ch/event/697389/contributions/3062026/attachments/1714046/2764824/Future_of_ROOT_runtime_C_modules_final2.pdf), Yuka Takahashi, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
 
-  * 12 Sep 2018 - [ROOT Package Manager](https://indico.cern.ch/event/697389/contributions/3062042/attachments/1712879/2762082/ROOTPM2.pdf), Oksana Shadura, Brian Bockleman, Vassil Vassilev, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+  * 12 Sep 2018 - [ROOT Package Manager](https://indico.cern.ch/event/697389/contributions/3062042/attachments/1712879/2764385/ROOTPM3.pdf), Oksana Shadura, Brian Bockleman, Vassil Vassilev, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
 
   * 11 Sep 2018 - [Interactive documentation for advanced statistical modelling with RooFit and RooStats](https://indico.cern.ch/event/697389/contributions/3102804/attachments/1713548/2763514/ROOTWorkshopVCroft.pptx), Vince Croft, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
 
