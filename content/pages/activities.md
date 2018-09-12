@@ -23,7 +23,8 @@ Summary: DIANA Activities
 
 ### Partner Projects
 
-   * Scikit-HEP: a community-driven Python project for HEP core and common tools ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep)) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043950.svg)](http://doi.org/10.5281/zenodo.1043950)
+   * Scikit-HEP: a community-driven Python project for HEP core and common tools,
+     containing at present about 12 packages ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep))
 
    * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
 
@@ -129,6 +130,8 @@ Participation in the GSoC 2017 program.
   * 9 July 2018 - [Extending ROOT through Modules](https://indico.cern.ch/event/587955/contributions/2938018/attachments/1679543/2702873/Extending_ROOT_through_Modules-final.pdf), Shadura Oksana, Brian Paul Bockelman, Vassil Vassilev [CHEP 2018 Conference](http://chep2018.org/)
 
   * 9 July 2018 - [The Scikit-HEP project](https://indico.cern.ch/event/587955/contributions/2937549/attachments/1683232/2705316/2018-07-09_CHEP18Sofia_EduardoRodrigues.pdf), Eduardo Rodrigues, [CHEP 2018 Conference](http://chep2018.org/)
+
+  * 8 July 2018 - [PyHEP Workshop Summary and Outcomes](https://indico.cern.ch/event/694818/contributions/3068205/attachments/1683118/2705020/PyHEP_Workshop_Summary.pdf), Graeme Stewart, Eduardo Rodrigues, [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
 
   * 7 July 2018 - [Welcome and workshop overview](https://indico.cern.ch/event/694818/sessions/264931/attachments/1682138/2702860/PyHEP2018_EduardoRodrigues_intro.pdf), Eduardo Rodrigues, [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
 
