@@ -9,6 +9,8 @@ Summary: Conferences
    * 9-13 Jul 2018 - [CHEP 2018](http://chep2018.org/)
      * Sofia, Bulgaria
      * [Call for Abstracts](https://indico.cern.ch/event/587955/abstracts/) is open, deadline 31 Dec 2017
+   * 7-8 Jul 2018 - [PyHEP 2018](https://indico.cern.ch/event/694818/)
+     * Sofia, Bulgaria
 
 ### Conferences 2017
 
@@ -32,5 +34,3 @@ Summary: Conferences
 
    * 10-14 Oct 2016 - [CHEP 2016](http://chep2016.org/)
      * San Francisco, CA
-
-
