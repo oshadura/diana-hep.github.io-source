@@ -111,8 +111,8 @@ Participation in the GSoC 2017 program.
 
 ### Presentations by the DIANA team
 
-  * 18 Sep 2018 - [Python in HEP - first workshop, community activities](http://diana-hep.org/downloads/rodrigues-lhcb-2018-09-18), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
-  
+  * 18 Sep 2018 - [Python in HEP - first workshop, community activities](http://diana-hep.org/downloads/rodrigues-lhcb-2018-09-18.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
+
   * 12 Sep 2018 - [ROOT prompt usability features and the strict option](https://indico.cern.ch/event/697389/contributions/3102774/attachments/1714079/2764531/ROOT_prompt_usability_features_and_the_strict_option.pdf), Yuka Takahashi, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
 
   * 12 Sep 2018 - [Future of ROOT runtime C++ modules](https://indico.cern.ch/event/697389/contributions/3062026/attachments/1714046/2764824/Future_of_ROOT_runtime_C_modules_final2.pdf), Yuka Takahashi, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
