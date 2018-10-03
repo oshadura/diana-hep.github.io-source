@@ -4,6 +4,12 @@ slug: activities.html
 Authors: Kyle Cranmer
 Summary: DIANA Activities
 
+[Software products](#software_products)
+[Projects](#projects)
+[Partner Projects](#partner_projects)
+[DIANA Topical Meetings](#meetings)
+[Presentations by the DIANA team](#presentations)
+[Papers / Documents](#papers_docs)
 
 ### Software products
 
