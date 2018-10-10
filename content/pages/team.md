@@ -4,7 +4,6 @@ slug: team.html
 Authors: Kyle Cranmer
 Summary: DIANA Team
 
-
 ### Project Team
 
   * [Peter Elmer](https://phy.princeton.edu/people/g-j-peter-elmer) (Lead PI) - Princeton University, Department of Physics
