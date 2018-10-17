@@ -33,7 +33,9 @@ Summary: DIANA Activities
 * PyHEP: creation of a "Python in HEP" community. Several activities / actions:
 
   - [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
+
   - [GitHub repository](https://github.com/hsf-training/PyHEP-resources/) for "Python in HEP" resources
+  
   - [Gitter channel](https://gitter.im/HSF/PyHEP) for informal discussions of Python in HEP
 
 * Scikit-HEP: a community-driven Python project for HEP core and common tools,
