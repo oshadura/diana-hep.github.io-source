@@ -4,6 +4,12 @@ slug: activities.html
 Authors: Kyle Cranmer
 Summary: DIANA Activities
 
+[Software products](#software_products)
+[Projects](#projects)
+[Partner Projects](#partner_projects)
+[DIANA Topical Meetings](#meetings)
+[Presentations by the DIANA team](#presentations)
+[Papers / Documents](#papers_docs)
 
 ### Software products
 
@@ -21,10 +27,22 @@ Summary: DIANA Activities
 
    * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
 
-### Partner Projects
 
-   * Scikit-HEP: a community-driven Python project for HEP core and common tools,
-     containing at present about 12 packages ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep))
+### Projects
+
+* PyHEP: creation of a "Python in HEP" community. Several activities / actions:
+  - [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
+  - [GitHub repository](https://github.com/hsf-training/PyHEP-resources/) for "Python in HEP" resources
+  - [Gitter channel](https://gitter.im/HSF/PyHEP) for informal discussions of Python in HEP
+
+* Scikit-HEP: a community-driven Python project for HEP core and common tools,
+  containing at present about 12 packages ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep))
+
+* Participation in the GSoC 2017 program.
+  - Project [Efficient Python routines for analysis on massively multi-threaded platforms - Python bindings for the Hydra C++ library](https://summerofcode.withgoogle.com/archive/2017/projects/6217497468469248/) - Eduardo Rodrigues, mentor for this [CERN-HSF organisation](http://hepsoftwarefoundation.org/) project.
+
+
+### Partner Projects
 
    * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
 
@@ -94,13 +112,6 @@ Summary: DIANA Activities
    * [Visualization of Publication Impact](http://arxiv.org/abs/arXiv:1605.06242) - E.Maguire, J.Montull, G.Louppe; Proceedings of Eurographics Conference on Visualization (EuroVis) 2016 (Groningen) [arXiv:1605.06242](https://arxiv.org/abs/1605.06242)
 
    * NSF Proposal - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/ssi2014-nsf-proposal.pdf)
-
-
-### Google Summer of Code program
-
-Participation in the GSoC 2017 program.
-
-  * Project [Efficient Python routines for analysis on massively multi-threaded platforms - Python bindings for the Hydra C++ library](https://summerofcode.withgoogle.com/archive/2017/projects/6217497468469248/) - Eduardo Rodrigues, mentor for this [CERN-HSF organisation](http://hepsoftwarefoundation.org/) project.
 
 
 ### DIANA Topical Meetings
