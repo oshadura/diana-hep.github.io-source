@@ -11,8 +11,7 @@ Summary: DIANA Activities
 [Presentations by the DIANA team](#presentations)&nbsp;&nbsp;
 [Papers / Documents](#papers_docs)
 
-### Software products
-<a name="software_products"></a>
+### Software products<a name="software_products"></a>
 
    *  [<i class="fa fa-github-square fa-lg"></i> DIANA/HEP organization on GitHub](https://github.com/diana-hep)
 
@@ -29,10 +28,10 @@ Summary: DIANA Activities
    * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
 
 
-### Projects
-<a name="projects"></a>
+### Projects<a name="projects"></a>
 
 * PyHEP: creation of a "Python in HEP" community. Several activities / actions:
+
   - [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
   - [GitHub repository](https://github.com/hsf-training/PyHEP-resources/) for "Python in HEP" resources
   - [Gitter channel](https://gitter.im/HSF/PyHEP) for informal discussions of Python in HEP
@@ -40,12 +39,12 @@ Summary: DIANA Activities
 * Scikit-HEP: a community-driven Python project for HEP core and common tools,
   containing at present about 12 packages ([web page](http://scikit-hep.org/), [GitHub](https://github.com/scikit-hep))
 
-* Participation in the GSoC 2017 program.
+* Participation in the GSoC 2017 program:
+
   - Project [Efficient Python routines for analysis on massively multi-threaded platforms - Python bindings for the Hydra C++ library](https://summerofcode.withgoogle.com/archive/2017/projects/6217497468469248/) - Eduardo Rodrigues, mentor for this [CERN-HSF organisation](http://hepsoftwarefoundation.org/) project.
 
 
-### Partner Projects
-<a name="partner_projects"></a>
+### Partner Projects<a name="partner_projects"></a>
 
    * Scikit-Optimize: a library for sequential model-based optimization ([documentation](https://scikit-optimize.github.io/), [code](https://github.com/scikit-optimize/scikit-optimize))
 
@@ -54,16 +53,14 @@ Summary: DIANA Activities
    * RooFit / RooStats:  [workbook](http://roostatsworkbook.readthedocs.io/en/latest/)
 
 
-### DIANA Topical Meetings
-<a name="meetings"></a>
+### DIANA Topical Meetings<a name="meetings"></a>
 
   <!-- this is the atom feed URL https://indico.cern.ch/category/7192/events.atom -->
 
   The DIANA team organizes periodic meetings on various topics of interest, with both invited external speakers and DIANA team contributions. These and other DIANA meetings can be found in the [DIANA-HEP Organization in the INDICO agenda system](https://indico.cern.ch/category/7192/). Videos of these meetings are published in [YouTube](https://www.youtube.com/channel/UCzFnto-EbPAfERLr0AZb58g).
 
 
-### Papers / Documents
-<a name="papers_docs"></a>
+### Papers / Documents<a name="papers_docs"></a>
 
   * [HEP Community White Paper on Machine Learning](http://arxiv.org/abs/1807.02876) - Kyle Cranmer, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* K. Albertsson *et al*. [arXiv:1807.02876](http://arxiv.org/abs/1807.02876)
 
@@ -126,8 +123,7 @@ Summary: DIANA Activities
    * NSF Proposal - [Data-Intensive Analysis for High Energy Physics (DIANA/HEP)](http://diana-hep.org/downloads/ssi2014-nsf-proposal.pdf)
 
 
-### Presentations by the DIANA team
-<a name="presentations"></a>
+### Presentations by the DIANA team<a name="presentations"></a>
 
   * 18 Sep 2018 - [Python in HEP - first workshop, community activities](http://diana-hep.org/downloads/rodrigues-lhcb-2018-09-18.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
 
