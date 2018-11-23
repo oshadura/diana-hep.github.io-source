@@ -127,6 +127,12 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team<a name="presentations"></a>
 
+  * 19 Nov 2018 - [Updates on ROOT C++ modules](https://indico.cern.ch/event/754336/contributions/3219718/attachments/1755468/2846006/Updates_on_ROOT_C_modules.pdf), Yuka Takahashi, [DIANA meeting](https://indico.cern.ch/event/754336/)
+
+  * 19 Nov 2018 - [Updates on ROOT Package Manager](https://indico.cern.ch/event/754336/contributions/3219719/attachments/1755293/2845645/DIANA-presentation.pdf), Oksana Shadura, [DIANA meeting](https://indico.cern.ch/event/754336/)
+
+  * 12 Nov 2018 - [ROOT package management: lazy install approach](https://indico.cern.ch/event/773075/contributions/3212300/attachments/1751213/2837660/Monday_meeting-ROOTPM.pdf), Oksana Shadura, [ROOT Team meeting](https://indico.cern.ch/event/773075/)
+
   * 15 Oct 2018 - [I/O for uproot](https://indico.cern.ch/event/754335/contributions/3166239/attachments/1734208/2804184/Writing_files_with_uproot_-_DIANA_HEP.pdf), Pratyush Das (DIANA Fellow), [DIANA meeting](https://indico.cern.ch/event/754335/)
 
   * 15 Oct 2018 - [Updates about ROOT I/O compression algorithms](https://indico.cern.ch/event/754335/contributions/3166227/attachments/1733712/2803236/ROOT_I_O_compression_algorithms-DIANA1.pdf), Oksana Shadura, [DIANA meeting](https://indico.cern.ch/event/754335/)
