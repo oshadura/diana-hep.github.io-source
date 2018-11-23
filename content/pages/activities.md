@@ -127,6 +127,14 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team<a name="presentations"></a>
 
+  * 15 Oct 2018 - [I/O for uproot](https://indico.cern.ch/event/754335/contributions/3166239/attachments/1734208/2804184/Writing_files_with_uproot_-_DIANA_HEP.pdf), Pratyush Das (DIANA Fellow), [DIANA meeting](https://indico.cern.ch/event/754335/)
+
+  * 15 Oct 2018 - [Updates about ROOT I/O compression algorithms](https://indico.cern.ch/event/754335/contributions/3166227/attachments/1733712/2803236/ROOT_I_O_compression_algorithms-DIANA1.pdf), Oksana Shadura, [DIANA meeting](https://indico.cern.ch/event/754335/)
+
+  * 15 Oct 2018 - [Updates about ROOT I/O](https://indico.cern.ch/event/754335/contributions/3166226/attachments/1734260/2804297/DIANA-ROOT-IO-Updates.pdf), Brian Bockelman, [DIANA meeting](https://indico.cern.ch/event/754335/)
+
+  * 1 Oct 2018 - [Histogram interoperability](https://indico.cern.ch/event/759556/contributions/3150123/attachments/1725958/2788072/pivarski-histogram-interop.pdf), Jim Pivarski, [DIANA meeting](https://indico.cern.ch/event/759556/)
+
   * 18 Sep 2018 - [Python in HEP - first workshop, community activities](http://diana-hep.org/downloads/rodrigues-lhcb-2018-09-18.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
 
   * 12 Sep 2018 - [ROOT prompt usability features and the strict option](https://indico.cern.ch/event/697389/contributions/3102774/attachments/1714079/2764531/ROOT_prompt_usability_features_and_the_strict_option.pdf), Yuka Takahashi, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
