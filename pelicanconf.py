@@ -99,7 +99,7 @@ EXTRA_PATH_METADATA = {
 }
 
 CODE_DIR = 'downloads/code'
-#NOTEBOOK_DIR = 'downloads/notebooks'
+NOTEBOOK_DIR = 'downloads/notebooks'
 FAVICON= "images/favicon.ico"
 
 PLUGIN_PATHS = ['pelican-plugins']
