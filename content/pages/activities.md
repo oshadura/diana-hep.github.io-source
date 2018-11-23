@@ -131,6 +131,8 @@ Summary: DIANA Activities
 
   * 19 Nov 2018 - [Updates on ROOT Package Manager](https://indico.cern.ch/event/754336/contributions/3219719/attachments/1755293/2845645/DIANA-presentation.pdf), Oksana Shadura, [DIANA meeting](https://indico.cern.ch/event/754336/)
 
+  * 15 Nov 2018 - Python/Numpy for High-Performance Numerical Processing, Jim Pivarski, [Princeton Research Computing Mini-Course](https://researchcomputing.princeton.edu/events/pythonnumpy-high-performance-numerical-processing), Princeton
+
   * 12 Nov 2018 - [ROOT package management: lazy install approach](https://indico.cern.ch/event/773075/contributions/3212300/attachments/1751213/2837660/Monday_meeting-ROOTPM.pdf), Oksana Shadura, [ROOT Team meeting](https://indico.cern.ch/event/773075/)
 
   * 15 Oct 2018 - [I/O for uproot](https://indico.cern.ch/event/754335/contributions/3166239/attachments/1734208/2804184/Writing_files_with_uproot_-_DIANA_HEP.pdf), Pratyush Das (DIANA Fellow), [DIANA meeting](https://indico.cern.ch/event/754335/)
