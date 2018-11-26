@@ -35,7 +35,7 @@ Summary: DIANA Activities
   - [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
 
   - [GitHub repository](https://github.com/hsf-training/PyHEP-resources/) for "Python in HEP" resources
-  
+
   - [Gitter channel](https://gitter.im/HSF/PyHEP) for informal discussions of Python in HEP
 
 * Scikit-HEP: a community-driven Python project for HEP core and common tools,
@@ -134,6 +134,8 @@ Summary: DIANA Activities
   * 15 Nov 2018 - Python/Numpy for High-Performance Numerical Processing, Jim Pivarski, [Princeton Research Computing Mini-Course](https://researchcomputing.princeton.edu/events/pythonnumpy-high-performance-numerical-processing), Princeton
 
   * 12 Nov 2018 - [ROOT package management: lazy install approach](https://indico.cern.ch/event/773075/contributions/3212300/attachments/1751213/2837660/Monday_meeting-ROOTPM.pdf), Oksana Shadura, [ROOT Team meeting](https://indico.cern.ch/event/773075/)
+
+  * 23 Oct 2018 - [HEP Software Foundation (R&amp;D) activities](http://diana-hep.org/downloads/rodrigues-cms-2018-10-23.pdf), Eduardo Rodrigues, CMS ECOM2X WG7 Meeting, CERN
 
   * 15 Oct 2018 - [I/O for uproot](https://indico.cern.ch/event/754335/contributions/3166239/attachments/1734208/2804184/Writing_files_with_uproot_-_DIANA_HEP.pdf), Pratyush Das (DIANA Fellow), [DIANA meeting](https://indico.cern.ch/event/754335/)
 
