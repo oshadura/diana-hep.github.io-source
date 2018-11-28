@@ -26,6 +26,7 @@ MENUITEMS = (
 # Blogroll
 LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
 		  ('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
+		  ('IRIS-HEP','http://iris-hep.org/'),
 		  ('S2I2-HEP','http://s2i2-hep.org/'),
 		  ('Jetscape','http://jetscape.wayne.edu/'),
 		  ('rootpy','http://www.rootpy.org'),
