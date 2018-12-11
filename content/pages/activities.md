@@ -64,6 +64,12 @@ Summary: DIANA Activities
 
 ### Papers / Documents<a name="papers_docs"></a>
 
+   * [Continuous Performance Benchmarking Framework for ROOT](http://arxiv.org/abs/1812.03149) - Oksana Shadura, Vassil Vassilev, Brian Paul Bockelman.
+   Proceedings of the [23nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv:1812.03149](https://arxiv.org/abs/1812.03149)
+
+   * [Extending ROOT through Modules](http://arxiv.org/abs/1812.03145) - Oksana Shadura, Brian Paul Bockelman, Vassil Vassilev.
+   Proceedings of the [23nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv:1812.03145](https://arxiv.org/abs/1812.03145)
+
   * [HEP Community White Paper on Machine Learning](http://arxiv.org/abs/1807.02876) - Kyle Cranmer, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* K. Albertsson *et al*. [arXiv:1807.02876](http://arxiv.org/abs/1807.02876)
 
   * [Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244) - Johann Brehmer, Gilles Louppe, Juan Pavez, Kyle Cranmer. [arXiv:1805.12244](https://arxiv.org/abs/1805.12244) [stat.ML].
