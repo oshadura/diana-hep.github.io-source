@@ -133,6 +133,8 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team<a name="presentations"></a>
 
+  * 15 Jan 2019 - [Computing &amp; software work - recognition &amp; citations in publications](http://diana-hep.org/downloads/rodrigues-lhcb-2019-01-15.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
+
   * 19 Nov 2018 - [Updates on ROOT C++ modules](https://indico.cern.ch/event/754336/contributions/3219718/attachments/1755468/2846006/Updates_on_ROOT_C_modules.pdf), Yuka Takahashi, [DIANA meeting](https://indico.cern.ch/event/754336/)
 
   * 19 Nov 2018 - [Updates on ROOT Package Manager](https://indico.cern.ch/event/754336/contributions/3219719/attachments/1755293/2845645/DIANA-presentation.pdf), Oksana Shadura, [DIANA meeting](https://indico.cern.ch/event/754336/)
