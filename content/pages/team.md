@@ -16,16 +16,12 @@ Summary: DIANA Team
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
-  * [David Lange](http://cern.ch/David.Lange) - Princeton University, Department of Physics
-
   * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics
 
   * [Henry Schreiner](https://iscinumpy.gitlab.io/) - Princeton University, Princeton Institute for Computational Science and Engineering
   * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics
 
   * Oksana Shadura - University of Nebraska-Lincoln, Department of Computer Science and Engineering
-
-  * [Yuka Takahashi](https://yamaguchi1024.github.io) - Princeton University, Department of Physics
 
   * Zhe Zhang - University of Nebraska-Lincoln, Department of Computer Science and Engineering (Ph.D. Student)
 
@@ -47,6 +43,9 @@ Summary: DIANA Team
 
   * [Lukas Heinrich](http://www.lukasheinrich.com/) - New York University, Department of Physics (Ph.D. Student)
 
+  * [David Lange](http://cern.ch/David.Lange) - Princeton University, Department of Physics
+
+  * [Yuka Takahashi](https://yamaguchi1024.github.io) - Princeton University, Department of Physics
 
 ### Collaborators
 
