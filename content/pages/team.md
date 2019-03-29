@@ -16,15 +16,11 @@ Summary: DIANA Team
 
   * [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) (Senior Personnel) - New York University, Computer Science Department
 
-  * [Vince Croft](https://www.nikhef.nl/~vcroft/index.html) - New York University, Department of Physics
-
-  * [Lukas Heinrich](http://www.lukasheinrich.com/) - New York University, Department of Physics (Ph.D. Student)
-
-
   * [David Lange](http://cern.ch/David.Lange) - Princeton University, Department of Physics
 
   * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics
 
+  * [Henry Schreiner](https://iscinumpy.gitlab.io/) - Princeton University, Princeton Institute for Computational Science and Engineering
   * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics
 
   * Oksana Shadura - University of Nebraska-Lincoln, Department of Computer Science and Engineering
@@ -46,6 +42,10 @@ Summary: DIANA Team
   * [Gilles Louppe](https://glouppe.github.io/) - University of Liege (formerly New York University)
 
   * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
+
+  * [Vince Croft](https://www.nikhef.nl/~vcroft/index.html) - New York University, Department of Physics
+
+  * [Lukas Heinrich](http://www.lukasheinrich.com/) - New York University, Department of Physics (Ph.D. Student)
 
 
 ### Collaborators
