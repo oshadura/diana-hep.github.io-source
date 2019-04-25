@@ -64,6 +64,9 @@ Summary: DIANA Activities
 
 ### Papers / Documents<a name="papers_docs"></a>
 
+   * [Optimizing Frameworks Performance Using C++ Modules Aware ROOT](https://arxiv.org/abs/1812.03992) - Yuka Takahashi, Vassil Vassilev, Oksana Shadura, Raphael Isemann.
+   Proceedings of the [23nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv:1812.03992](https://arxiv.org/abs/1812.03992)
+
    * [Continuous Performance Benchmarking Framework for ROOT](http://arxiv.org/abs/1812.03149) - Oksana Shadura, Vassil Vassilev, Brian Paul Bockelman.
    Proceedings of the [23nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv:1812.03149](https://arxiv.org/abs/1812.03149)
 
@@ -133,6 +136,8 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team<a name="presentations"></a>
 
+  * 13 Mar 2019 - [Migrating large codebases to C++ Modules](https://indico.cern.ch/event/708041/contributions/3276196/), Yuka Takahashi, Oksana Shadura, Vassil Vassilev, ACAT 2019, Saas-Fee
+
   * 15 Jan 2019 - [Computing &amp; software work - recognition &amp; citations in publications](http://diana-hep.org/downloads/rodrigues-lhcb-2019-01-15.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
 
   * 19 Nov 2018 - [Updates on ROOT C++ modules](https://indico.cern.ch/event/754336/contributions/3219718/attachments/1755468/2846006/Updates_on_ROOT_C_modules.pdf), Yuka Takahashi, [DIANA meeting](https://indico.cern.ch/event/754336/)
@@ -144,6 +149,8 @@ Summary: DIANA Activities
   * 12 Nov 2018 - [ROOT package management: lazy install approach](https://indico.cern.ch/event/773075/contributions/3212300/attachments/1751213/2837660/Monday_meeting-ROOTPM.pdf), Oksana Shadura, [ROOT Team meeting](https://indico.cern.ch/event/773075/)
 
   * 23 Oct 2018 - [HEP Software Foundation (R&amp;D) activities](http://diana-hep.org/downloads/rodrigues-cms-2018-10-23.pdf), Eduardo Rodrigues, CMS ECOM2X WG7 Meeting, CERN
+
+  * 17 Oct 2018 - [Automatic Differentiation in C/C++ Using Clang Plugin Infrastructure](https://youtu.be/QciQW1bTMe4), Vassil Vassilev, Aleksandr Efremov, [LLVM developers' meeting 2018](https://llvm.org/devmtg/2018-10/)
 
   * 15 Oct 2018 - [I/O for uproot](https://indico.cern.ch/event/754335/contributions/3166239/attachments/1734208/2804184/Writing_files_with_uproot_-_DIANA_HEP.pdf), Pratyush Das (DIANA Fellow), [DIANA meeting](https://indico.cern.ch/event/754335/)
 
