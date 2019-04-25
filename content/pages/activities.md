@@ -136,7 +136,13 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team<a name="presentations"></a>
 
-  * 13 Mar 2019 - [Migrating large codebases to C++ Modules](https://indico.cern.ch/event/708041/contributions/3276196/), Yuka Takahashi, Oksana Shadura, Vassil Vassilev, ACAT 2019, Saas-Fee
+  * 13 Mar 2019 - [Migrating large codebases to C++ Modules](https://indico.cern.ch/event/708041/contributions/3276196/), Yuka Takahashi, Oksana Shadura, Vassil Vassilev, [ACAT 2019](https://indico.cern.ch/event/708041/)
+
+  * 10 Mar 2019 - [ROOT I/O compression algorithms and their performance impact within Run 3](https://indico.cern.ch/event/708041/contributions/3276193/attachments/1809217/2954099/acat_io_print.pdf), Oksana Shadura, Brian Paul Bockelman, [ACAT 2019](https://indico.cern.ch/event/708041/)
+
+  * 10 Mar 2019 - [Speeding HEP Analysis with ROOT Bulk I/O](https://indico.cern.ch/event/708041/contributions/3276192/attachments/1809218/2954100/SpeedingHEPwithBulkIO_print.pdf), Brian Paul Bockelman, Zhe Zhang, Oksana Shadura, [ACAT 2019](https://indico.cern.ch/event/708041/)
+
+  * 10 Mar 2019 - [Evolution of ROOT package management](https://indico.cern.ch/event/708041/contributions/3276194/attachments/1809216/2954097/acat_pm_print.pdf), Oksana Shadura, Brian Paul Bockelman, Vassil Vassilev, [ACAT 2019](https://indico.cern.ch/event/708041/)
 
   * 15 Jan 2019 - [Computing &amp; software work - recognition &amp; citations in publications](http://diana-hep.org/downloads/rodrigues-lhcb-2019-01-15.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
 
