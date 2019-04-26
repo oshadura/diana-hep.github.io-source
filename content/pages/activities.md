@@ -15,7 +15,7 @@ Summary: DIANA Activities
 
    *  [<i class="fa fa-github-square fa-lg"></i> DIANA/HEP organization on GitHub](https://github.com/diana-hep)
 
-   * Carl: a toolbox for likelihood-free inference ([documentation](http://diana-hep.org/carl), [code](https://github.com/diana-hep/carl)) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47798.svg)](http://dx.doi.org/10.5281/zenodo.47798)
+   * Carl: a toolbox for likelihood-free inference  - [docs](http://diana-hep.org/carl), [GitHub](https://github.com/diana-hep/carl) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47798.svg)](http://dx.doi.org/10.5281/zenodo.47798)
 
    * Histogrammar: a multilingual specification for histogram aggregation with implementations in Python and Scala - [docs](http://histogrammar.org), [GitHub](https://github.com/histogrammar)
 
@@ -25,15 +25,15 @@ Summary: DIANA Activities
 
    * OAMap: tools for handling hierarchically nested data as arrays with an Object Array Map - [GitHub](https://github.com/diana-hep/oamap)
 
-   * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage) [![DOI](https://zenodo.org/badge/53543066.svg)](https://zenodo.org/badge/latestdoi/53543066)
+   * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [GitHub](https://github.com/diana-hep/yadage) [![DOI](https://zenodo.org/badge/53543066.svg)](https://zenodo.org/badge/latestdoi/53543066)
 
    
-   * TreeNiN: QCD-aware recursive neural networks [code](https://github.com/diana-hep/TreeNiN) [![DOI](https://zenodo.org/badge/160135404.svg)](https://zenodo.org/badge/latestdoi/160135404) 
+   * TreeNiN: QCD-aware recursive neural networks - [GitHub](https://github.com/diana-hep/TreeNiN) [![DOI](https://zenodo.org/badge/160135404.svg)](https://zenodo.org/badge/latestdoi/160135404) 
    
-   * pyhf: a pure-python implementation of the widely-used HistFactory p.d.f. template [code](https://github.com/diana-hep/pyhf/) [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://diana-hep.github.io/pyhf)
+   * pyhf: a pure-python implementation of the widely-used HistFactory p.d.f. template - [GitHub](https://github.com/diana-hep/pyhf/) [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://diana-hep.github.io/pyhf)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1169739.svg)](https://doi.org/10.5281/zenodo.1169739)
 
-   * MadMiner: likelihood-free inference for particle physics using machine learning [code](https://github.com/johannbrehmer/madminer) [![docs](https://readthedocs.org/projects/madminer/badge/?version=latest)](https://madminer.readthedocs.io/en/latest/?badge=latest)
+   * MadMiner: likelihood-free inference for particle physics using machine learning - [GitHub](https://github.com/johannbrehmer/madminer) [![docs](https://readthedocs.org/projects/madminer/badge/?version=latest)](https://madminer.readthedocs.io/en/latest/?badge=latest)
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1489147.svg)](https://doi.org/10.5281/zenodo.1489147)
 
 
@@ -75,6 +75,12 @@ Summary: DIANA Activities
 
 ### Papers / Documents<a name="papers_docs"></a>
 
+   * [Inferring the quantum density matrix with machine learning](http://inspirehep.net/record/1729516) - Kyle Cranmer, Siavash Golkar, Duccio Pappadopulo [arXiv:1904.05903](http://arxiv.org/abs/arXiv:1904.05903)
+
+   * [Machine learning and the physical sciences](http://inspirehep.net/record/1726790) - Guiseppe Carleo, Ignacio Cirac, Kyle Cranmer, et. al. [submitted to Reviews of Modern Physics](http://inspirehep.net/record/1726790)
+
+   * [The Machine Learning Landscape of Top Taggers](http://inspirehep.net/record/1722059) - G. Kasieczka, T. Plehn, Kyle Cranmer, Sebastian Macaluso, et. al.  [submitted to SciPost](http://arxiv.org/abs/arXiv:1902.09914)
+
    * [Optimizing Frameworks Performance Using C++ Modules Aware ROOT](https://arxiv.org/abs/1812.03992) - Yuka Takahashi, Vassil Vassilev, Oksana Shadura, Raphael Isemann.
    Proceedings of the [23nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv:1812.03992](https://arxiv.org/abs/1812.03992)
 
@@ -85,6 +91,31 @@ Summary: DIANA Activities
    Proceedings of the [23nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv:1812.03145](https://arxiv.org/abs/1812.03145)
 
   * [HEP Community White Paper on Machine Learning](http://arxiv.org/abs/1807.02876) - Kyle Cranmer, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* K. Albertsson *et al*. [arXiv:1807.02876](http://arxiv.org/abs/1807.02876)
+  
+   * [Open is not enough](https://doi.org/10.1038/s41567-018-0342-2)
+Xiaoli Chen, Sünje Dallmeier-Tiessen, Kyle Cranmer, Lukas Heinrich, et. al. Nature Phys. 15 (2019) no.2, 113-119 (2018-11-15) [DOI: 10.1038/s41567-018-0342-2](https://doi.org/10.1038/s41567-018-0342-2)
+
+   * <a href="http://inspirehep.net/record/1684960">
+    Likelihood-free inference with an improved cross-entropy estimator.
+</a> -- Markus Stoye, Johann Brehmer, Gilles Louppe, Juan Pavez, Kyle Cranmer. 
+[arXiv:1808.00973](http://inspirehep.net/record/1684960)
+
+
+   * <a href="http://inspirehep.net/record/1683311">
+    Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model.</a> - Atilim Gunes Baydin et al..<br/>
+[arXiv:1807.07706](http://inspirehep.net/record/1683311)
+
+
+   * <a href="http://inspirehep.net/record/1680302"> Deep Learning and its Application to LHC Physics.</a> - Dan Guest, Kyle Cranmer, Daniel Whiteson.
+<a href="https://doi.org/10.1146/annurev-nucl-101917-021019">10.1146/annurev-nucl-101917-021019</a>.<br/>
+Ann.Rev.Nucl.Part.Sci. 68 (2018) 161-181
+
+   * <a href="http://inspirehep.net/record/1677756">
+    Backdrop: Stochastic Backpropagation</a> - Siavash Golkar, Kyle Cranmer.<br/>
+[arXiv:1806.01337](http://inspirehep.net/record/1677756)
+
+
+
 
   * [Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244) - Johann Brehmer, Gilles Louppe, Juan Pavez, Kyle Cranmer. [arXiv:1805.12244](https://arxiv.org/abs/1805.12244) [stat.ML].
 
@@ -171,8 +202,6 @@ Summary: DIANA Activities
   * 28 Feb 2019 - "Bringing together simulations, physics insight, and machine learning to constrain new physics", Johann Brehmer, Dark universe seminar
 
   * 12 Feb 2019 - "Panel Discussion on Machine Learning and Physics", Kyle Cranmer, At the Crossroad of Physics and Machine Learning
-
-  * 06 Feb 2019 - "IRIS-HEP Analysis Systems", Kyle Cranmer, IRIS-HEP Steering Board Meeting
 
   * 25 Jan 2019 - "Inverting simulation: experiences with inverse problems in particle physics", Kyle Cranmer, MATH + X Symposium on Inverse Problems and Deep Learning in Space Exploration
 

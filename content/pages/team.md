@@ -19,7 +19,12 @@ Summary: DIANA Team
   * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics
 
   * [Henry Schreiner](https://iscinumpy.gitlab.io/) - Princeton University, Princeton Institute for Computational Science and Engineering
+  
   * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics
+
+  * [Johann Brehmer](https://johannbrehmer.github.io) - New York University, Department of Physics & Center for Data Science
+
+  * Sebastian Macaluso - New York University, Department of Physics & Center for Data Science
 
   * Oksana Shadura - University of Nebraska-Lincoln, Department of Computer Science and Engineering
 
