@@ -91,7 +91,7 @@ Summary: DIANA Activities
    Proceedings of the [23nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018)](http://chep2018.org/) (Sofia, Bulgaria) [arXiv:1812.03145](https://arxiv.org/abs/1812.03145)
 
   * [HEP Community White Paper on Machine Learning](http://arxiv.org/abs/1807.02876) - Kyle Cranmer, Jim Pivarski, Eduardo Rodrigues, Michael D Sokoloff *in* K. Albertsson *et al*. [arXiv:1807.02876](http://arxiv.org/abs/1807.02876)
-  
+
    * [Open is not enough](https://doi.org/10.1038/s41567-018-0342-2)
 Xiaoli Chen, Sünje Dallmeier-Tiessen, Kyle Cranmer, Lukas Heinrich, et. al. Nature Phys. 15 (2019) no.2, 113-119 (2018-11-15) [DOI: 10.1038/s41567-018-0342-2](https://doi.org/10.1038/s41567-018-0342-2)
 
@@ -102,16 +102,16 @@ Xiaoli Chen, Sünje Dallmeier-Tiessen, Kyle Cranmer, Lukas Heinrich, et. al. Nat
 
 
    * <a href="http://inspirehep.net/record/1683311">
-    Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model.</a> - Atilim Gunes Baydin et al..<br/>
+    Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model.</a> - Atilim Gunes Baydin et al.
 [arXiv:1807.07706](http://inspirehep.net/record/1683311)
 
 
    * <a href="http://inspirehep.net/record/1680302"> Deep Learning and its Application to LHC Physics.</a> - Dan Guest, Kyle Cranmer, Daniel Whiteson.
-<a href="https://doi.org/10.1146/annurev-nucl-101917-021019">10.1146/annurev-nucl-101917-021019</a>.<br/>
+<a href="https://doi.org/10.1146/annurev-nucl-101917-021019">10.1146/annurev-nucl-101917-021019</a>.
 Ann.Rev.Nucl.Part.Sci. 68 (2018) 161-181
 
    * <a href="http://inspirehep.net/record/1677756">
-    Backdrop: Stochastic Backpropagation</a> - Siavash Golkar, Kyle Cranmer.<br/>
+    Backdrop: Stochastic Backpropagation</a> - Siavash Golkar, Kyle Cranmer.
 [arXiv:1806.01337](http://inspirehep.net/record/1677756)
 
 
