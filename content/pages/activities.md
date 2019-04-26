@@ -147,12 +147,7 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team<a name="presentations"></a>
 
-  * 7 Sep 2018 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, Harvard Physics Colloquium
-  * 19 Sep 2018 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, Jefferson Lab Colloquium
-  * 25 Jan 2019 - "Inverting simulation: experiences with inverse problems in particle physics", Kyle Cranmer, MATH + X Symposium on Inverse Problems and Deep Learning in Space Exploration
-  * 06 Feb 2019 - "IRIS-HEP Analysis Systems", Kyle Cranmer, IRIS-HEP Steering Board Meeting
-  * 12 Feb 2019 - "Panel Discussion on Machine Learning and Physics", Kyle Cranmer, At the Crossroad of Physics and Machine Learning
-  * 7 Mar 2019 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, UC Riverside Physics Colloquium
+
   * 13 Mar 2019 - "Deep Learning in Science", Kyle Cranmer, National Academy of Science, Sackler Colloquia
 
   * 18 Mar 2019 - "Overview of Likelihood-Free Inference for Physics", Kyle Cranmer, Likelihood-Free Inference Workshop
@@ -171,9 +166,17 @@ Summary: DIANA Activities
 
   * 10 Mar 2019 - [Evolution of ROOT package management](https://indico.cern.ch/event/708041/contributions/3276194/attachments/1809216/2954097/acat_pm_print.pdf), Oksana Shadura, Brian Paul Bockelman, Vassil Vassilev, [ACAT 2019](https://indico.cern.ch/event/708041/)
 
+  * 7 Mar 2019 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, UC Riverside Physics Colloquium
+
   * 28 Feb 2019 - "Bringing together simulations, physics insight, and machine learning to constrain new physics", Johann Brehmer, Dark universe seminar
 
-  * 15 Jan 2019 - [Computing &amp; software work - recognition &amp; citations in publications](http://diana-hep.org/downloads/rodrigues-lhcb-2019-01-15.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
+  * 12 Feb 2019 - "Panel Discussion on Machine Learning and Physics", Kyle Cranmer, At the Crossroad of Physics and Machine Learning
+
+  * 06 Feb 2019 - "IRIS-HEP Analysis Systems", Kyle Cranmer, IRIS-HEP Steering Board Meeting
+
+  * 25 Jan 2019 - "Inverting simulation: experiences with inverse problems in particle physics", Kyle Cranmer, MATH + X Symposium on Inverse Problems and Deep Learning in Space Exploration
+
+* 15 Jan 2019 - [Computing &amp; software work - recognition &amp; citations in publications](http://diana-hep.org/downloads/rodrigues-lhcb-2019-01-15.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
 
   * 14 Jan 2018 - "Meticulous measurements with matrix elements and machine learning", Johann Brehmer, ITS/CHEP joint seminar
 
@@ -220,6 +223,10 @@ Summary: DIANA Activities
   * 10 Sep 2018 - [ROOT I/O compression algorithms](https://indico.cern.ch/event/697389/contributions/3062030/attachments/1712625/2761569/ROOT_I_O_compression_algorithms1.pdf), Oksana Shadura, Brian Bockelman, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
 
   * 10 Sep 2018 - [Vectorized processing of nested data](https://indico.cern.ch/event/697389/contributions/3102772/attachments/1706294/2749432/pivarski-vectorized-nested.pdf), Jim Pivarski, Jaydeep Nandi, David Lange, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
+
+  * 7 Sep 2018 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, Harvard Physics Colloquium
+
+   * 19 Sep 2018 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, Jefferson Lab Colloquium
 
   * 27 Aug 2018 - "Learning to constrain new physics", Johann Brehmer, Elementary particle seminar
   
