@@ -26,6 +26,16 @@ Summary: DIANA Activities
    * OAMap: tools for handling hierarchically nested data as arrays with an Object Array Map - [GitHub](https://github.com/diana-hep/oamap)
 
    * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
+   
+   * TreeNiN: QCD-aware recursive neural networks [code](https://github.com/diana-hep/TreeNiN) [![DOI](https://zenodo.org/badge/160135404.svg)](https://zenodo.org/badge/latestdoi/160135404) 
+   
+   * pyhf: a pure-python implementation of the widely-used HistFactory p.d.f. template [code](https://github.com/diana-hep/pyhf/) [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://diana-hep.github.io/pyhf)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1169739.svg)](https://doi.org/10.5281/zenodo.1169739)
+
+   * MadMiner: likelihood-free inference for particle physics using machine learning [code](https://github.com/johannbrehmer/madminer) [![docs](https://readthedocs.org/projects/madminer/badge/?version=latest)](https://madminer.readthedocs.io/en/latest/?badge=latest)
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1489147.svg)](https://doi.org/10.5281/zenodo.1489147)
+
+
 
 
 ### Projects<a name="projects"></a>
