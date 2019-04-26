@@ -147,6 +147,22 @@ Summary: DIANA Activities
 
 ### Presentations by the DIANA team<a name="presentations"></a>
 
+  * 7 Sep 2018 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, Harvard Physics Colloquium
+  * 19 Sep 2018 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, Jefferson Lab Colloquium
+  * 25 Jan 2019 - "Inverting simulation: experiences with inverse problems in particle physics", Kyle Cranmer, MATH + X Symposium on Inverse Problems and Deep Learning in Space Exploration
+  * 06 Feb 2019 - "IRIS-HEP Analysis Systems", Kyle Cranmer, IRIS-HEP Steering Board Meeting
+  * 12 Feb 2019 - "Panel Discussion on Machine Learning and Physics", Kyle Cranmer, At the Crossroad of Physics and Machine Learning
+  * 7 Mar 2019 - "What does the Revolution in Artificial Intelligence Mean for Physics?", Kyle Cranmer, UC Riverside Physics Colloquium
+  * 13 Mar 2019 - "Deep Learning in Science", Kyle Cranmer, National Academy of Science, Sackler Colloquia
+
+  * 18 Mar 2019 - "Overview of Likelihood-Free Inference for Physics", Kyle Cranmer, Likelihood-Free Inference Workshop
+
+  * 15 Apr 2019 - "Future areas of focus for ML in particle physics", Kyle Cranmer, 3rd IML Machine Learning Workshop
+
+  * 18 Mar 2019 - "'Mining gold' from simulators to improve likelihood-free inference", Johann Brehmer, Likelihood-free inference workshop
+  
+  * 14 Mar 2019 - "Keynote: Constraining effective field theories with machine learning", Johann Brehmer, International Workshop on Advanced Computing and Analysis Techniques in Physics Research
+
   * 13 Mar 2019 - [Migrating large codebases to C++ Modules](https://indico.cern.ch/event/708041/contributions/3276196/), Yuka Takahashi, Oksana Shadura, Vassil Vassilev, [ACAT 2019](https://indico.cern.ch/event/708041/)
 
   * 10 Mar 2019 - [ROOT I/O compression algorithms and their performance impact within Run 3](https://indico.cern.ch/event/708041/contributions/3276193/attachments/1809217/2954099/acat_io_print.pdf), Oksana Shadura, Brian Paul Bockelman, [ACAT 2019](https://indico.cern.ch/event/708041/)
@@ -155,7 +171,14 @@ Summary: DIANA Activities
 
   * 10 Mar 2019 - [Evolution of ROOT package management](https://indico.cern.ch/event/708041/contributions/3276194/attachments/1809216/2954097/acat_pm_print.pdf), Oksana Shadura, Brian Paul Bockelman, Vassil Vassilev, [ACAT 2019](https://indico.cern.ch/event/708041/)
 
+  * 28 Feb 2019 - "Bringing together simulations, physics insight, and machine learning to constrain new physics", Johann Brehmer, Dark universe seminar
+
   * 15 Jan 2019 - [Computing &amp; software work - recognition &amp; citations in publications](http://diana-hep.org/downloads/rodrigues-lhcb-2019-01-15.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
+
+  * 14 Jan 2018 - "Meticulous measurements with matrix elements and machine learning", Johann Brehmer, ITS/CHEP joint seminar
+
+  * 11 Jan 2019 - "Improving inference with matrix elements and machine learning", Johann Brehmer, HK IAS Program on High Energy Physics
+  
 
   * 19 Nov 2018 - [Updates on ROOT C++ modules](https://indico.cern.ch/event/754336/contributions/3219718/attachments/1755468/2846006/Updates_on_ROOT_C_modules.pdf), Yuka Takahashi, [DIANA meeting](https://indico.cern.ch/event/754336/)
 
@@ -177,8 +200,13 @@ Summary: DIANA Activities
 
   * 1 Oct 2018 - [Histogram interoperability](https://indico.cern.ch/event/759556/contributions/3150123/attachments/1725958/2788072/pivarski-histogram-interop.pdf), Jim Pivarski, [DIANA meeting](https://indico.cern.ch/event/759556/)
 
+  * 20 Sep 2018 - "Learning to constrain new physics", Johann Brehmer, IPPP seminar
+  
+
   * 18 Sep 2018 - [Python in HEP - first workshop, community activities](http://diana-hep.org/downloads/rodrigues-lhcb-2018-09-18.pdf), Eduardo Rodrigues, LHCb Weekly Meeting, CERN
 
+  * 13 Sep 2018 - "Learning to constrain new physics", Johann Brehmer, Pheno & Vino Seminar
+  
   * 12 Sep 2018 - [ROOT prompt usability features and the strict option](https://indico.cern.ch/event/697389/contributions/3102774/attachments/1714079/2764531/ROOT_prompt_usability_features_and_the_strict_option.pdf), Yuka Takahashi, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
 
   * 12 Sep 2018 - [Future of ROOT runtime C++ modules](https://indico.cern.ch/event/697389/contributions/3062026/attachments/1714046/2764824/Future_of_ROOT_runtime_C_modules_final2.pdf), Yuka Takahashi, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
@@ -193,7 +221,11 @@ Summary: DIANA Activities
 
   * 10 Sep 2018 - [Vectorized processing of nested data](https://indico.cern.ch/event/697389/contributions/3102772/attachments/1706294/2749432/pivarski-vectorized-nested.pdf), Jim Pivarski, Jaydeep Nandi, David Lange, [ROOT 2018 Users Workshop](https://indico.cern.ch/event/697389/overview)
 
-  * 10 July 2018 - [Continuous Performance Benchmarking Framework for ROOT](https://indico.cern.ch/event/587955/contributions/2938012/attachments/1679360/2701631/continuous-performance-benchmarking-fin.pdf), Oksana Shadura, Brian Paul Bockelman, Vassil Vassilev, [CHEP 2018 Conference](http://chep2018.org/)
+  * 27 Aug 2018 - "Learning to constrain new physics", Johann Brehmer, Elementary particle seminar
+  
+  * 23 Jul 2018 - "Machine Learning to Probe a BSM Higgs Sector", Johann Brehmer, Higgs Hunting
+  
+   * 10 July 2018 - [Continuous Performance Benchmarking Framework for ROOT](https://indico.cern.ch/event/587955/contributions/2938012/attachments/1679360/2701631/continuous-performance-benchmarking-fin.pdf), Oksana Shadura, Brian Paul Bockelman, Vassil Vassilev, [CHEP 2018 Conference](http://chep2018.org/)
 
   * 9 July 2018 - [Extending ROOT through Modules](https://indico.cern.ch/event/587955/contributions/2938018/attachments/1679543/2702873/Extending_ROOT_through_Modules-final.pdf), Shadura Oksana, Brian Paul Bockelman, Vassil Vassilev [CHEP 2018 Conference](http://chep2018.org/)
 
@@ -202,6 +234,8 @@ Summary: DIANA Activities
   * 8 July 2018 - [PyHEP Workshop Summary and Outcomes](https://indico.cern.ch/event/694818/contributions/3068205/attachments/1683118/2705020/PyHEP_Workshop_Summary.pdf), Graeme Stewart, Eduardo Rodrigues, [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
 
   * 7 July 2018 - [Welcome and workshop overview](https://indico.cern.ch/event/694818/sessions/264931/attachments/1682138/2702860/PyHEP2018_EduardoRodrigues_intro.pdf), Eduardo Rodrigues, [PyHEP 2018 Workshop](https://indico.cern.ch/event/694818/)
+
+  * 27 Jun 2018 - "Constraining EEffective Theories with Machine Learning", Johann Brehmer, Theory seminar
 
   * 4 June 2018 - [RNNs and Beyond](https://indico.cern.ch/event/722319/contributions/3001310/attachments/1661268/2661638/IML-Sequence.pdf), Kyle Cranmer [IML Working Group](https://indico.cern.ch/event/722319/)
 
