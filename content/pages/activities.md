@@ -25,7 +25,8 @@ Summary: DIANA Activities
 
    * OAMap: tools for handling hierarchically nested data as arrays with an Object Array Map - [GitHub](https://github.com/diana-hep/oamap)
 
-   * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage)
+   * yadage: a language and engine for flexible, distributed workflows - [docs](http://yadage.readthedocs.io) [code](https://github.com/diana-hep/yadage) [![DOI](https://zenodo.org/badge/53543066.svg)](https://zenodo.org/badge/latestdoi/53543066)
+
    
    * TreeNiN: QCD-aware recursive neural networks [code](https://github.com/diana-hep/TreeNiN) [![DOI](https://zenodo.org/badge/160135404.svg)](https://zenodo.org/badge/latestdoi/160135404) 
    
