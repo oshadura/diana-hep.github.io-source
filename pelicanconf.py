@@ -4,13 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = u'DIANA HEP'
 SITENAME = u'DIANA HEP'
-SITEURL = 'http://diana-hep.org'
+SITEURL = 'https://diana-hep.org'
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-# Feed generation is usually not desired when developing  
+# Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
@@ -91,7 +91,7 @@ DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives')
 PATH = 'content'
 ARTICLE_PATHS = ['blog']
 
-STATIC_PATHS = ['images','css', 'downloads', 
+STATIC_PATHS = ['images','css', 'downloads',
                 'downloads/files','downloads/code', 'pages/projects', 'favicon.png']
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
@@ -124,7 +124,7 @@ DISQUS_SITENAME="diana-hep"
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'diana-hep';
-    
+
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -134,4 +134,3 @@ DISQUS_SITENAME="diana-hep"
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 '''
-
